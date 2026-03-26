@@ -1,0 +1,10 @@
+.DS_Store
+
+data_agent_1/*
+data_agent_2/*
+data_agent_3/*
+data_agent_4/*
+venv/*
+data/2022/ITENS_PROVA_2022.csv
+data/2023/ITENS_PROVA_2023.csv
+data/2024/ITENS_PROVA_2024.csv
