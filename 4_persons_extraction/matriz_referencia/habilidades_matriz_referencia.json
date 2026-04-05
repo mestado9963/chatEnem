@@ -1,0 +1,302 @@
+[
+  {
+    "AREA_CONHECIMENTO": "Linguagens, Códigos e suas Tecnologias",
+    "COMPETENCIA": "Aplicar as tecnologias da comunicação e da informação na escola, no trabalho e em outros contextos relevantes para sua vida.",
+    "HABILIDADES": [
+      "Identificar as diferentes linguagens e seus recursos expressivos como elementos de caracterização dos sistemas de comunicação.",
+      "Recorrer aos conhecimentos sobre as linguagens dos sistemas de comunicação e informação para resolver problemas sociais.",
+      "Relacionar informações geradas nos sistemas de comunicação e informação, considerando a função social desses sistemas.",
+      "Reconhecer posições críticas aos usos sociais que são feitos das linguagens e dos sistemas de comunicação e informação."
+    ]
+  },
+  {
+    "AREA_CONHECIMENTO": "Linguagens, Códigos e suas Tecnologias",
+    "COMPETENCIA": "Conhecer e usar língua(s) estrangeira(s) moderna(s) como instrumento de acesso a informações e a outras culturas e grupos sociais",
+    "HABILIDADES": [
+      "Associar vocábulos e expressões de um texto em LEM ao seu tema.",
+      "Utilizar os conhecimentos da LEM e de seus mecanismos como meio de ampliar as possibilidades de acesso a informações, tecnologias e culturas.",
+      "Relacionar um texto em LEM, as estruturas linguísticas, sua função e seu uso social.",
+      "Reconhecer a importância da produção cultural em LEM como representação da diversidade cultural e linguística."
+    ]
+  },
+  {
+    "AREA_CONHECIMENTO": "Linguagens, Códigos e suas Tecnologias",
+    "COMPETENCIA": "Compreender e usar a linguagem corporal como relevante para a própria vida, integradora social e formadora da identidade.",
+    "HABILIDADES": [
+      "Reconhecer as manifestações corporais de movimento como originárias de necessidades cotidianas de um grupo social.",
+      "Reconhecer a necessidade de transformação de hábitos corporais em função das necessidades cinestésicas.",
+      "Reconhecer a linguagem corporal como meio de interação social, considerando os limites de desempenho e as alternativas de adaptação para diferentes indivíduos."
+    ]
+  },
+  {
+    "AREA_CONHECIMENTO": "Linguagens, Códigos e suas Tecnologias",
+    "COMPETENCIA": "Compreender a arte como saber cultural e estético gerador de significação e integrador da organização do mundo e da própria identidade.",
+    "HABILIDADES": [
+      "Reconhecer diferentes funções da arte, do trabalho da produção dos artistas em seus meios culturais.",
+      "Analisar as diversas produções artísticas como meio de explicar diferentes culturas, padrões de beleza e preconceitos.",
+      "Reconhecer o valor da diversidade artística e das inter-relações de elementos que se apresentam nas manifestações de vários grupos sociais e étnicos."
+    ]
+  },
+  {
+    "AREA_CONHECIMENTO": "Linguagens, Códigos e suas Tecnologias",
+    "COMPETENCIA": "Analisar, interpretar e aplicar recursos expressivos das linguagens, relacionando textos com seus contextos, mediante a natureza, função, organização, estrutura das manifestações, de acordo com as condições de produção e recepção.",
+    "HABILIDADES": [
+      "Estabelecer relações entre o texto literário e o momento de sua produção, situando aspectos do contexto histórico, social e político.",
+      "Relacionar informações sobre concepções artísticas e procedimentos de construção do texto literário.",
+      "Reconhecer a presença de valores sociais e humanos atualizáveis e permanentes no patrimônio literário nacional."
+    ]
+  },
+  {
+    "AREA_CONHECIMENTO": "Linguagens, Códigos e suas Tecnologias",
+    "COMPETENCIA": "Compreender e usar os sistemas simbólicos das diferentes linguagens como meios de organização cognitiva da realidade pela constituição de significados, expressão, comunicação e informação.",
+    "HABILIDADES": [
+      "Identificar os elementos que concorrem para a progressão temática e para a organização e estruturação de textos de diferentes gêneros e tipos.",
+      "Analisar a função da linguagem predominante nos textos em situações específicas de interlocução.",
+      "Reconhecer a importância do patrimônio linguístico para a preservação da memória e da identidade nacional."
+    ]
+  },
+  {
+    "AREA_CONHECIMENTO": "Linguagens, Códigos e suas Tecnologias",
+    "COMPETENCIA": "Confrontar opiniões e pontos de vista sobre as diferentes linguagens e suas manifestações específicas.",
+    "HABILIDADES": [
+      "Reconhecer em textos de diferentes gêneros, recursos verbais e não-verbais utilizados com a finalidade de criar e mudar comportamentos e hábitos.",
+      "Relacionar, em diferentes textos, opiniões, temas, assuntos e recursos linguísticos.",
+      "Inferir em um texto quais são os objetivos de seu produtor e quem é seu público alvo, pela análise dos procedimentos argumentativos utilizados.",
+      "Reconhecer no texto estratégias argumentativas empregadas para o convencimento do público, tais como a intimidação, sedução, comoção, chantagem, entre outras."
+    ]
+  },
+  {
+    "AREA_CONHECIMENTO": "Linguagens, Códigos e suas Tecnologias",
+    "COMPETENCIA": "Compreender e usar a língua portuguesa como língua materna, geradora de significação e integradora da organização do mundo e da própria identidade.",
+    "HABILIDADES": [
+      "Identificar, em textos de diferentes gêneros, as marcas linguísticas que singularizam as variedades linguísticas sociais, regionais e de registro.",
+      "Relacionar as variedades linguísticas a situações específicas de uso social.",
+      "Reconhecer os usos da norma padrão da língua portuguesa nas diferentes situações de comunicação."
+    ]
+  },
+  {
+    "AREA_CONHECIMENTO": "Linguagens, Códigos e suas Tecnologias",
+    "COMPETENCIA": "Entender os princípios, a natureza, a função e o impacto das tecnologias da comunicação e da informação na sua vida pessoal e social, no desenvolvimento do conhecimento, associando-o aos conhecimentos científicos, às linguagens que lhes dão suporte, às demais tecnologias, aos processos de produção e aos problemas que se propõem solucionar.",
+    "HABILIDADES": [
+      "Reconhecer a função e o impacto social das diferentes tecnologias da comunicação e informação.",
+      "Identificar pela análise de suas linguagens, as tecnologias da comunicação e informação.",
+      "Relacionar as tecnologias de comunicação e informação ao desenvolvimento das sociedades e ao conhecimento que elas produzem."
+    ]
+  },
+  {
+    "AREA_CONHECIMENTO": "Matemática e suas Tecnologias",
+    "COMPETENCIA": "Construir significados para os números naturais, inteiros, racionais e reais.",
+    "HABILIDADES": [
+      "Reconhecer, no contexto social, diferentes significados e representações dos números e operações - naturais, inteiros, racionais ou reais.",
+      "Identificar padrões numéricos ou princípios de contagem.",
+      "Resolver situação-problema envolvendo conhecimentos numéricos.",
+      "Avaliar a razoabilidade de um resultado numérico na construção de argumentos sobre afirmações quantitativas.",
+      "Avaliar propostas de intervenção na realidade utilizando conhecimentos numéricos."
+    ]
+  },
+  {
+    "AREA_CONHECIMENTO": "Matemática e suas Tecnologias",
+    "COMPETENCIA": "Utilizar o conhecimento geométrico para realizar a leitura e a representação da realidade e agir sobre ela.",
+    "HABILIDADES": [
+      "Interpretar a localização e a movimentação de pessoas/objetos no espaço tridimensional e sua representação no espaço bidimensional.",
+      "Identificar características de figuras planas ou espaciais.",
+      "Resolver situação-problema que envolva conhecimentos geométricos de espaço e forma.",
+      "Utilizar conhecimentos geométricos de espaço e forma na seleção de argumentos propostos como solução de problemas do cotidiano."
+    ]
+  },
+  {
+    "AREA_CONHECIMENTO": "Matemática e suas Tecnologias",
+    "COMPETENCIA": "Construir noções de grandezas e medidas para a compreensão da realidade e a solução de problemas do cotidiano.",
+    "HABILIDADES": [
+      "Identificar relações entre grandezas e unidades de medida.",
+      "Utilizar a noção de escalas na leitura de representação de situação do cotidiano.",
+      "Resolver situação-problema que envolva medidas de grandezas.",
+      "Avaliar o resultado de uma medição na construção de um argumento consistente.",
+      "Avaliar proposta de intervenção na realidade utilizando conhecimentos geométricos relacionados a grandezas e medidas."
+    ]
+  },
+  {
+    "AREA_CONHECIMENTO": "Matemática e suas Tecnologias",
+    "COMPETENCIA": "Construir noções de variação de grandezas para a compreensão da realidade e a solução de problemas do cotidiano.",
+    "HABILIDADES": [
+      "Identificar a relação de dependência entre grandezas.",
+      "Resolver situação-problema envolvendo a variação de grandezas, direta ou inversamente proporcionais.",
+      "Analisar informações envolvendo a variação de grandezas como recurso para a construção de argumentação.",
+      "Avaliar propostas de intervenção na realidade envolvendo variação de grandezas."
+    ]
+  },
+  {
+    "AREA_CONHECIMENTO": "Matemática e suas Tecnologias",
+    "COMPETENCIA": "Modelar e resolver problemas que envolvem variáveis socioeconômicas ou técnico-científicas, usando representações algébricas.",
+    "HABILIDADES": [
+      "Identificar representações algébricas que expressem a relação entre grandezas.",
+      "Interpretar gráfico cartesiano que represente relações entre grandezas.",
+      "Resolver situação-problema cuja modelagem envolva conhecimentos algébricos.",
+      "Utilizar conhecimentos algébricos/geométricos como recurso para a construção de argumentação.",
+      "Avaliar propostas de intervenção na realidade utilizando conhecimentos algébricos."
+    ]
+  },
+  {
+    "AREA_CONHECIMENTO": "Matemática e suas Tecnologias",
+    "COMPETENCIA": "Interpretar informações de natureza científica e social obtidas da leitura de gráficos e tabelas, realizando previsão de tendência, extrapolação, interpolação e interpretação.",
+    "HABILIDADES": [
+      "Utilizar informações expressas em gráficos ou tabelas para fazer inferências.",
+      "Resolver problema com dados apresentados em tabelas ou gráficos.",
+      "Analisar informações expressas em gráficos ou tabelas como recurso para a construção de argumentos."
+    ]
+  },
+  {
+    "AREA_CONHECIMENTO": "Matemática e suas Tecnologias",
+    "COMPETENCIA": "Compreender o caráter aleatório e não-determinístico dos fenômenos naturais e sociais e utilizar instrumentos adequados para medidas, determinação de amostras e cálculos de probabilidade para interpretar informações de variáveis apresentadas em uma distribuição estatística.",
+    "HABILIDADES": [
+      "Calcular medidas de tendência central ou de dispersão de um conjunto de dados expressos em uma tabela de frequências de dados agrupados (não em classes) ou em gráficos.",
+      "Resolver situação-problema que envolva conhecimentos de estatística e probabilidade.",
+      "Utilizar conhecimentos de estatística e probabilidade como recurso para a construção de argumentação.",
+      "Avaliar propostas de intervenção na realidade utilizando conhecimentos de estatística e probabilidade."
+    ]
+  },
+  {
+    "AREA_CONHECIMENTO": "Ciências da Natureza e suas Tecnologias",
+    "COMPETENCIA": "Compreender as ciências naturais e as tecnologias a elas associadas como construções humanas, percebendo seus papéis nos processos de produção e no desenvolvimento econômico e social da humanidade.",
+    "HABILIDADES": [
+      "Reconhecer características ou propriedades de fenômenos ondulatórios ou oscilatórios, relacionando-os a seus usos em diferentes contextos.",
+      "Associar a solução de problemas de comunicação, transporte, saúde ou outro, com o correspondente desenvolvimento científico e tecnológico.",
+      "Confrontar interpretações científicas com interpretações baseadas no senso comum, ao longo do tempo ou em diferentes culturas.",
+      "Avaliar propostas de intervenção no ambiente, considerando a qualidade da vida humana ou medidas de conservação, recuperação ou utilização sustentável da biodiversidade."
+    ]
+  },
+  {
+    "AREA_CONHECIMENTO": "Ciências da Natureza e suas Tecnologias",
+    "COMPETENCIA": "Identificar a presença e aplicar as tecnologias associadas às ciências naturais em diferentes contextos.",
+    "HABILIDADES": [
+      "Dimensionar circuitos ou dispositivos elétricos de uso cotidiano.",
+      "Relacionar informações para compreender manuais de instalação ou utilização de aparelhos, ou sistemas tecnológicos de uso comum.",
+      "Selecionar testes de controle, parâmetros ou critérios para a comparação de materiais e produtos, tendo em vista a defesa do consumidor, a saúde do trabalhador ou a qualidade de vida."
+    ]
+  },
+  {
+    "AREA_CONHECIMENTO": "Ciências da Natureza e suas Tecnologias",
+    "COMPETENCIA": "Associar intervenções que resultam em degradação ou conservação ambiental a processos produtivos e sociais e a instrumentos ou ações científico-tecnológicos.",
+    "HABILIDADES": [
+      "Identificar etapas em processos de obtenção, transformação, utilização ou reciclagem de recursos naturais, energéticos ou matérias-primas, considerando processos biológicos, químicos ou físicos neles envolvidos.",
+      "Compreender a importância dos ciclos biogeoquímicos ou do fluxo energia para a vida, ou da ação de agentes ou fenômenos que podem causar alterações nesses processos.",
+      "Analisar perturbações ambientais, identificando fontes, transporte e(ou) destino dos poluentes ou prevendo efeitos em sistemas naturais, produtivos ou sociais.",
+      "Reconhecer benefícios, limitações e aspectos éticos da biotecnologia, considerando estruturas e processos biológicos envolvidos em produtos biotecnológicos.",
+      "Avaliar impactos em ambientes naturais decorrentes de atividades sociais ou econômicas, considerando interesses contraditórios."
+    ]
+  },
+  {
+    "AREA_CONHECIMENTO": "Ciências da Natureza e suas Tecnologias",
+    "COMPETENCIA": "Compreender interações entre organismos e ambiente, em particular aquelas relacionadas à saúde humana, relacionando conhecimentos científicos, aspectos culturais e características individuais.",
+    "HABILIDADES": [
+      "Reconhecer mecanismos de transmissão da vida, previndo ou explicando a manifestação de características dos seres vivos.",
+      "Identificar padrões em fenômenos e processos vitais dos organismos, como manutenção do equilíbrio interno, defesa, relações com o ambiente, sexualidade, entre outros.",
+      "Interpretar modelos e experimentos para explicar fenômenos ou processos biológicos em qualquer nível de organização dos sistemas biológicos.",
+      "Compreender o papel da evolução na produção de padrões, processos biológicos ou na organização taxonômica dos seres vivos."
+    ]
+  },
+  {
+    "AREA_CONHECIMENTO": "Ciências da Natureza e suas Tecnologias",
+    "COMPETENCIA": "Entender métodos e procedimentos próprios das ciências naturais e aplicá-los em diferentes contextos.",
+    "HABILIDADES": [
+      "Relacionar informações apresentadas em diferentes formas de linguagem e representação usadas nas ciências físicas, químicas ou biológicas, como texto discursivo, gráficos, tabelas, relações matemáticas ou linguagem simbólica.",
+      "Relacionar propriedades físicas, químicas ou biológicas de produtos, sistemas ou procedimentos tecnológicos às finalidades a que se destinam.",
+      "Avaliar métodos, processos ou procedimentos das ciências naturais que contribuam para diagnosticar ou solucionar problemas de ordem social, econômica ou ambiental."
+    ]
+  },
+  {
+    "AREA_CONHECIMENTO": "Ciências da Natureza e suas Tecnologias",
+    "COMPETENCIA": "Apropriar-se de conhecimentos da física para, em situações problema, interpretar, avaliar ou planejar intervenções científico-tecnológicas.",
+    "HABILIDADES": [
+      "Caracterizar causas ou efeitos dos movimentos de partículas, substâncias, objetos ou corpos celestes.",
+      "Utilizar leis físicas e (ou) químicas para interpretar processos naturais ou tecnológicos inseridos no contexto da termodinâmica e(ou) do eletromagnetismo.",
+      "Compreender fenômenos decorrentes da interação entre a radiação e a matéria em suas manifestações em processos naturais ou tecnológicos, ou em suas implicações biológicas, sociais, econômicas ou ambientais.",
+      "Avaliar possibilidades de geração, uso ou transformação de energia em ambientes específicos, considerando implicações éticas, ambientais, sociais e/ou econômicas."
+    ]
+  },
+  {
+    "AREA_CONHECIMENTO": "Ciências da Natureza e suas Tecnologias",
+    "COMPETENCIA": "Apropriar-se de conhecimentos da química para, em situações problema, interpretar, avaliar ou planejar intervenções científico-tecnológicas.",
+    "HABILIDADES": [
+      "Utilizar códigos e nomenclatura da química para caracterizar materiais, substâncias ou transformações químicas.",
+      "Caracterizar materiais ou substâncias, identificando etapas, rendimentos ou implicações biológicas, sociais, econômicas ou ambientais de sua obtenção ou produção.",
+      "Avaliar implicações sociais, ambientais e/ou econômicas na produção ou no consumo de recursos energéticos ou minerais, identificando transformações químicas ou de energia envolvidas nesses processos.",
+      "Avaliar propostas de intervenção no meio ambiente aplicando conhecimentos químicos, observando riscos ou benefícios."
+    ]
+  },
+  {
+    "AREA_CONHECIMENTO": "Ciências da Natureza e suas Tecnologias",
+    "COMPETENCIA": "Apropriar-se de conhecimentos da biologia para, em situações problema, interpretar, avaliar ou planejar intervenções científico-tecnológicas.",
+    "HABILIDADES": [
+      "Associar características adaptativas dos organismos com seu modo de vida ou com seus limites de distribuição em diferentes ambientes, em especial em ambientes brasileiros.",
+      "Interpretar experimentos ou técnicas que utilizam seres vivos, analisando implicações para o ambiente, a saúde, a produção de alimentos, matérias primas ou produtos industriais.",
+      "Avaliar propostas de alcance individual ou coletivo, identificando aquelas que visam à preservação e a implementação da saúde individual, coletiva ou do ambiente."
+    ]
+  },
+  {
+    "AREA_CONHECIMENTO": "Ciências Humanas e suas Tecnologias",
+    "COMPETENCIA": "Compreender os elementos culturais que constituem as identidades.",
+    "HABILIDADES": [
+      "Interpretar historicamente e/ou geograficamente fontes documentais acerca de aspectos da cultura.",
+      "Analisar a produção da memória pelas sociedades humanas.",
+      "Associar as manifestações culturais do presente aos seus processos históricos.",
+      "Comparar pontos de vista expressos em diferentes fontes sobre determinado aspecto da cultura.",
+      "Identificar as manifestações ou representações da diversidade do patrimônio cultural e artístico em diferentes sociedades."
+    ]
+  },
+  {
+    "AREA_CONHECIMENTO": "Ciências Humanas e suas Tecnologias",
+    "COMPETENCIA": "Compreender as transformações dos espaços geográficos como produto das relações socioeconômicas e culturais de poder.",
+    "HABILIDADES": [
+      "Interpretar diferentes representações gráficas e cartográficas dos espaços geográficos.",
+      "Identificar os significados histórico-geográficos das relações de poder entre as nações.",
+      "Analisar a ação dos estados nacionais no que se refere à dinâmica dos fluxos populacionais e no enfrentamento de problemas de ordem econômico-social.",
+      "Comparar o significado histórico-geográfico das organizações políticas e socioeconômicas em escala local, regional ou mundial.",
+      "Reconhecer a dinâmica da organização dos movimentos sociais e a importância da participação da coletividade na transformação da realidade histórico-geográfica."
+    ]
+  },
+  {
+    "AREA_CONHECIMENTO": "Ciências Humanas e suas Tecnologias",
+    "COMPETENCIA": "Compreender a produção e o papel histórico das instituições sociais, políticas e econômicas, associando-as aos diferentes grupos, conflitos e movimentos sociais.",
+    "HABILIDADES": [
+      "Identificar registros de práticas de grupos sociais no tempo e no espaço.",
+      "Analisar o papel da justiça como instituição na organização das sociedades.",
+      "Analisar a atuação dos movimentos sociais que contribuíram para mudanças ou rupturas em processos de disputa pelo poder.",
+      "Comparar diferentes pontos de vista, presentes em textos analíticos e interpretativos, sobre situação ou fatos de natureza histórico-geográfica acerca das instituições sociais, políticas e econômicas.",
+      "Avaliar criticamente conflitos culturais, sociais, políticos, econômicos ou ambientais ao longo da história."
+    ]
+  },
+  {
+    "AREA_CONHECIMENTO": "Ciências Humanas e suas Tecnologias",
+    "COMPETENCIA": "Entender as transformações técnicas e tecnológicas e seu impacto nos processos de produção, no desenvolvimento do conhecimento e na vida social.",
+    "HABILIDADES": [
+      "Identificar registros sobre o papel das técnicas e tecnologias na organização do trabalho e/ou da vida social.",
+      "Analisar fatores que explicam o impacto das novas tecnologias no processo de territorialização da produção.",
+      "Analisar diferentes processos de produção ou circulação de riquezas e suas implicações sócio-espaciais.",
+      "Reconhecer as transformações técnicas e tecnológicas que determinam as várias formas de uso e apropriação dos espaços rural e urbano.",
+      "Selecionar argumentos favoráveis ou contrários às modificações impostas pelas novas tecnologias à vida social e ao mundo do trabalho."
+    ]
+  },
+  {
+    "AREA_CONHECIMENTO": "Ciências Humanas e suas Tecnologias",
+    "COMPETENCIA": "Utilizar os conhecimentos históricos para compreender e valorizar os fundamentos da cidadania e da democracia, favorecendo uma atuação consciente do indivíduo na sociedade.",
+    "HABILIDADES": [
+      "Identificar o papel dos meios de comunicação na construção da vida social.",
+      "Analisar as lutas sociais e conquistas obtidas no que se refere às mudanças nas legislações ou nas políticas públicas.",
+      "Analisar a importância dos valores éticos na estruturação política das sociedades.",
+      "Relacionar cidadania e democracia na organização das sociedades.",
+      "Identificar estratégias que promovam formas de inclusão social."
+    ]
+  },
+  {
+    "AREA_CONHECIMENTO": "Ciências Humanas e suas Tecnologias",
+    "COMPETENCIA": "Compreender a sociedade e a natureza, reconhecendo suas interações no espaço em diferentes contextos históricos e geográficos.",
+    "HABILIDADES": [
+      "Identificar em fontes diversas o processo de ocupação dos meios físicos e as relações da vida humana com a paisagem.",
+      "Analisar de maneira crítica as interações da sociedade com o meio físico, levando em consideração aspectos históricos e(ou) geográficos.",
+      "Relacionar o uso das tecnologias com os impactos sócio-ambientais em diferentes contextos histórico-geográficos.",
+      "Reconhecer a função dos recursos naturais na produção do espaço geográfico, relacionando-os com as mudanças provocadas pelas ações humanas.",
+      "Avaliar as relações entre preservação e degradação da vida no planeta nas diferentes escalas."
+    ]
+  }
+]
