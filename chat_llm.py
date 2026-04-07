@@ -1,27 +1,29 @@
 from langchain_core.prompts import PromptTemplate
-from langchain.vectorstores import Chroma
+#from langchain.vectorstores import Chroma
 from typing import Dict
 from state import State 
 
 class ChatLLM:
     """Agente de Item (ITA) responsável por fornecer questões do ENEM"""
     
-    def __init__(self, model=None, embeddings=None, llm=None, memory=None, vector_store=None, skills=None, questions=None):
+    def __init__(self, model=None, embeddings=None, llm=None,temperature=None, memory=None, vector_store=None, skills=None, questions=None, api_token=None):
         self.model = model
         self.embeddings = embeddings
-        self.llm = llm
+        self.llm = llm  # InferenceClient instance
         self.memory  = memory
         self.vector_store = vector_store
         self.skills = skills
         self.questions = questions
+        self.api_token = api_token
+        self.temperature = temperature
     
-    def _load_vector_store(self) -> Chroma:
-        """Carrega o ChromaDB com as questões do ENEM"""
-        return Chroma(
-            collection_name=f"dataset_enem_{self.model.name}",
-            embedding_function=self.embeddings,
-            persist_directory=self.model.chromadb_path  # Usando data_agent_1 como base principal
-        )
+    # def _load_vector_store(self) -> Chroma:
+    #     """Carrega o ChromaDB com as questões do ENEM"""
+    #     return Chroma(
+    #         collection_name=f"dataset_enem_{self.model.name}",
+    #         embedding_function=self.embeddings,
+    #         persist_directory=self.model.chromadb_path  # Usando data_agent_1 como base principal
+    #     )
     
     def get_response(self, state: State) -> Dict:
         """Busca uma questão baseada na área e nível de dificuldade"""
@@ -46,9 +48,11 @@ class ChatLLM:
         template = """
                     # INSTRUÇÕES
 
-                    Assuma um papel de um aluno que está no último ano do ensino médio que está se preparando para o ENEM. Você deve assumir as habilidades que lhe forem propostas na seção "SKILLS" e responda as 
-                    questões do ENEM que forem informadas na seção "QUESTIONS". 
-                    Simule o comportamento e as características do aluno em responder as qustões com base nas habilidades apresentadas, inclusive o nível de conhecimento sobre um determinado assunto.
+                    Assuma um papel de um aluno que está no último ano do ensino médio que está se preparando para o ENEM. 
+                    Você deve assumir as habilidades que lhe forem propostas na seção "SKILLS" 
+                    e responda as questões do ENEM que forem informadas na seção "QUESTIONS". 
+                    Simule o comportamento e as características do aluno em responder as qustões 
+                    com base nas habilidades apresentadas, inclusive o nível de conhecimento sobre um determinado assunto.
                     Caso não saiba a resposta, você pode chutar uma alternativa, 
                     chute a que achar a mais adequada ao que o aluno escolheria.
 
@@ -81,22 +85,45 @@ class ChatLLM:
                     {questions}
                 """
        
-        prompt = PromptTemplate.from_template(template)
+        # prompt = PromptTemplate.from_template(template)
 
-        messages = prompt.invoke(
-            {
-             #"context": "\n".join([doc.page_content for doc in docs]),
-             "questions": self.questions,
-             "memory": state["memory"], 
-             "skills": self.skills
-             }
-        ).to_messages()
+        # messages = prompt.invoke(
+        #     {
+        #      #"context": "\n".join([doc.page_content for doc in docs]),
+        #      "questions": self.questions,
+        #      "memory": state["memory"], 
+        #      "skills": self.skills
+        #      }
+        # ).to_messages()
 
-        print("messages: ", messages)
+        # print("messages: ", messages)
 
+        # Converter LangChain messages para formato OpenAI/Huggingface
+        formatted_messages = [
+            {"role": "user" , "content": template.replace("{skills}", self.skills).replace("{questions}", self.questions)}
+        ]
 
-        #st.write("Quetões: \n".join([doc.page_content for doc in docs]))   
+        try:
+            # Usar InferenceClient para obter resposta
+            completion = self.llm.chat.completions.create(
+                model=self.model.name,
+                temperature=self.temperature,
+                messages=formatted_messages
+            )
 
-        state["answer"] = self.llm.invoke(messages).content
-        #st.write(messages)
+            # Extrair conteúdo: usar 'content' se não vazio, senão usar 'reasoning'
+            message = completion.choices[0].message
+            if message.content and message.content.strip():
+                state["answer"] = message.content
+            elif hasattr(message, 'reasoning') and message.reasoning:
+                state["answer"] = message.reasoning
+            else:
+                state["answer"] = "Nenhuma resposta retornada pelo modelo"
+            
+        except Exception as e:
+            print(f"ERRO na chamada ao modelo: {e}")
+            import traceback
+            traceback.print_exc()
+            state["answer"] = f"Erro: {str(e)}"
+        
         return state
