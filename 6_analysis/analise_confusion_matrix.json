@@ -1,6 +1,38 @@
 [
   {
     "person_id": 1,
+    "tag_model_person": "gpt_oss_120b",
+    "tag_model_tutor": "gpt_oss_120b",
+    "true_positive": 1,
+    "true_negative": 0,
+    "false_positive": 2,
+    "false_negative": 0,
+    "quantidade_questoes": 3
+  },
+  {
+    "person_id": 1,
+    "tag_model_person": "gpt_oss_120b",
+    "tag_model_tutor": "llama_3_3_70b_instruct",
+    "true_positive": 1,
+    "true_negative": 0,
+    "false_positive": 2,
+    "false_negative": 0,
+    "quantidade_questoes": 3
+  },
+  {
+    "person_id": 1,
+    "tag_model_person": "llama_3_3_70b_instruct",
+    "tag_model_tutor": "gpt_oss_120b",
+    "true_positive": 1,
+    "true_negative": 1,
+    "false_positive": 1,
+    "false_negative": 0,
+    "quantidade_questoes": 3
+  },
+  {
+    "person_id": 1,
+    "tag_model_person": "llama_3_3_70b_instruct",
+    "tag_model_tutor": "llama_3_3_70b_instruct",
     "true_positive": 1,
     "true_negative": 0,
     "false_positive": 2,
@@ -9,8 +41,40 @@
   },
   {
     "person_id": 2,
+    "tag_model_person": "gpt_oss_120b",
+    "tag_model_tutor": "gpt_oss_120b",
     "true_positive": 1,
     "true_negative": 1,
+    "false_positive": 1,
+    "false_negative": 0,
+    "quantidade_questoes": 3
+  },
+  {
+    "person_id": 2,
+    "tag_model_person": "gpt_oss_120b",
+    "tag_model_tutor": "llama_3_3_70b_instruct",
+    "true_positive": 1,
+    "true_negative": 0,
+    "false_positive": 2,
+    "false_negative": 0,
+    "quantidade_questoes": 3
+  },
+  {
+    "person_id": 2,
+    "tag_model_person": "llama_3_3_70b_instruct",
+    "tag_model_tutor": "gpt_oss_120b",
+    "true_positive": 2,
+    "true_negative": 1,
+    "false_positive": 0,
+    "false_negative": 0,
+    "quantidade_questoes": 3
+  },
+  {
+    "person_id": 2,
+    "tag_model_person": "llama_3_3_70b_instruct",
+    "tag_model_tutor": "llama_3_3_70b_instruct",
+    "true_positive": 2,
+    "true_negative": 0,
     "false_positive": 1,
     "false_negative": 0,
     "quantidade_questoes": 3

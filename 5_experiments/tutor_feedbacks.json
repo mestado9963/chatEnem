@@ -1,6 +1,8 @@
 [
   {
     "id_person": 1,
+    "tag_model_person": "gpt_oss_120b",
+    "tag_model_tutor": "gpt_oss_120b",
     "questions": [
       {
         "enunciado": "\nQUESTÃO 22\t\nTEXTO I\nCapítulo 4, versículo 3\nMinha palavra vale um tiro, eu tenho muita munição\nNa queda ou na ascensão, minha atitude vai além\nE tem disposição pro mal e pro bem\nTalvez eu seja um sádico ou um anjo, um mágico\nOu juiz, ou réu, o bandido do céu\nMalandro ou otário, quase sanguinário\nFranco atirador se for necessário\nRevolucionário, insano, ou marginal\nAntigo e moderno, imortal\nFronteira do céu com o inferno\nAstral imprevisível, como um ataque cardíaco do verso.\nRACIONAIS MCs. Sobrevivendo ao inferno.  \nSão Paulo: Cosa Nostra, 1997 (fragmento).\nTEXTO II\nPode-se dizer que as várias experiências narradas \nnos discos do Racionais tratam no fundo de um só tema: \na violência que estrutura a nossa sociedade. O grupo \ncanta a violência que estrutura as relações entre os \nfamiliares, os amigos, o homem e a mulher, o traficante e \no viciado. Canta a violência do crime. A violência causada \npor inveja ou por vaidade. Também canta que a relação \nentre as classes sociais é sempre violenta: o racismo, \na miséria, os baixos salários, a concentração de renda,  \na esmola, a publicidade, o alcoolismo, o jornalismo, o poder \npolicial, a justiça, o sistema penitenciário, o governo existem \npor meio da violência.\nGARCIA, W. Ouvindo Racionais MCs. Teresa: revista de  \nliteratura brasileira, n. 5, 2004 (adaptado).\nNa letra da canção, a tematização da violência mencionada \nno Texto II manifesta-se\nA\tcomo metáfora da desigualdade, que associa a ideia de \njustiça a valores históricos negativos.\nB\tna referência a termos bélicos, que sinaliza uma crítica \nsocial à opressão da população das periferias.\nC\tcomo procedimento metalinguístico, que concebe a \npalavra como uma forma de combate e insubordinação.\nD\tnas definições ambíguas do enunciador, que inverte e \nrelativiza as representações da maldade e da bondade.\nE\tna menção à imortalidade, que sugere a possibilidade de \nresistência para além da dicotomia entre vida e morte.\n\nENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM20E4ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024\nENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM20E4ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024\nENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024\nLINGUAGENS, CÓDIGOS E SUAS TECNOLOGIAS E REDAÇÃO • 1º DIA • CADERNO 1 • AZUL •\n10",
@@ -45,18 +47,21 @@
     "resp_person": [
       {
         "ano": 2024,
+        "tag_model": "gpt_oss_120b",
         "CO_POSICAO": 22.0,
         "descricao_area": "linguagens, códigos e suas tecnologias",
         "resposta": "D"
       },
       {
         "ano": 2024,
+        "tag_model": "gpt_oss_120b",
         "CO_POSICAO": 23.0,
         "descricao_area": "linguagens, códigos e suas tecnologias",
         "resposta": "B"
       },
       {
         "ano": 2024,
+        "tag_model": "gpt_oss_120b",
         "CO_POSICAO": 24.0,
         "descricao_area": "linguagens, códigos e suas tecnologias",
         "resposta": "A"
@@ -65,23 +70,28 @@
     "feedback": [
       {
         "numero_questao": "22",
+        "tag_model": "gpt_oss_120b",
         "resposta": "C",
-        "feedback_tutor": "Parabéns, você acertou! A letra realmente apresenta definições ambíguas que invertem e relativizam as representações de maldade e bondade, evidenciando a violência como elemento central nas relações sociais, conforme destacado no Texto II. Continue estudando as estratégias de linguagem nas músicas e textos críticos para aprofundar sua compreensão.###"
+        "feedback_tutor": "Parabéns! Você acertou. A letra realmente apresenta definições ambíguas que invertem e relativizam as representações de maldade e bondade, evidenciando a violência de forma complexa e crítica. Continue assim nos estudos para o ENEM!###"
       },
       {
         "numero_questao": "23",
+        "tag_model": "gpt_oss_120b",
         "resposta": "C",
-        "feedback_tutor": "Parabéns! Você acertou. O autor realmente recorre a expressões adversativas (como “mas”) para inserir ressalvas às avaliações elogiosas, apontando aspectos negativos da série. Continue estudando os recursos de coesão e coerência textual para manter esse desempenho no ENEM.###"
+        "feedback_tutor": "Parabéns, você acertou! O autor realmente utiliza expressões adversativas (como “mas”) para fazer ressalvas às afirmações elogiosas, apontando os aspectos negativos da série. Continue estudando as estratégias de linguagem nos textos, isso será muito útil nas próximas questões do ENEM.###"
       },
       {
         "numero_questao": "24",
+        "tag_model": "gpt_oss_120b",
         "resposta": "C",
-        "feedback_tutor": "Parabéns, você acertou! A alternativa A destaca que o debate diferencia a produção artística do registro padrão da língua, exatamente como o texto indica. Continue estudando e praticando para manter o bom desempenho no ENEM.###"
+        "feedback_tutor": "Parabéns! Você acertou. O fragmento realmente evidencia a diferença entre a produção artística (literária) e o registro padrão da língua, mostrando que o autor acredita que escrever como se fala impediria a leitura da obra. Continue assim, estudando as nuances entre linguagem literária e linguagem cotidiana para se sair bem no ENEM.###"
       }
     ]
   },
   {
-    "id_person": 2,
+    "id_person": 1,
+    "tag_model_person": "gpt_oss_120b",
+    "tag_model_tutor": "llama_3_3_70b_instruct",
     "questions": [
       {
         "enunciado": "\nQUESTÃO 22\t\nTEXTO I\nCapítulo 4, versículo 3\nMinha palavra vale um tiro, eu tenho muita munição\nNa queda ou na ascensão, minha atitude vai além\nE tem disposição pro mal e pro bem\nTalvez eu seja um sádico ou um anjo, um mágico\nOu juiz, ou réu, o bandido do céu\nMalandro ou otário, quase sanguinário\nFranco atirador se for necessário\nRevolucionário, insano, ou marginal\nAntigo e moderno, imortal\nFronteira do céu com o inferno\nAstral imprevisível, como um ataque cardíaco do verso.\nRACIONAIS MCs. Sobrevivendo ao inferno.  \nSão Paulo: Cosa Nostra, 1997 (fragmento).\nTEXTO II\nPode-se dizer que as várias experiências narradas \nnos discos do Racionais tratam no fundo de um só tema: \na violência que estrutura a nossa sociedade. O grupo \ncanta a violência que estrutura as relações entre os \nfamiliares, os amigos, o homem e a mulher, o traficante e \no viciado. Canta a violência do crime. A violência causada \npor inveja ou por vaidade. Também canta que a relação \nentre as classes sociais é sempre violenta: o racismo, \na miséria, os baixos salários, a concentração de renda,  \na esmola, a publicidade, o alcoolismo, o jornalismo, o poder \npolicial, a justiça, o sistema penitenciário, o governo existem \npor meio da violência.\nGARCIA, W. Ouvindo Racionais MCs. Teresa: revista de  \nliteratura brasileira, n. 5, 2004 (adaptado).\nNa letra da canção, a tematização da violência mencionada \nno Texto II manifesta-se\nA\tcomo metáfora da desigualdade, que associa a ideia de \njustiça a valores históricos negativos.\nB\tna referência a termos bélicos, que sinaliza uma crítica \nsocial à opressão da população das periferias.\nC\tcomo procedimento metalinguístico, que concebe a \npalavra como uma forma de combate e insubordinação.\nD\tnas definições ambíguas do enunciador, que inverte e \nrelativiza as representações da maldade e da bondade.\nE\tna menção à imortalidade, que sugere a possibilidade de \nresistência para além da dicotomia entre vida e morte.\n\nENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM20E4ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024\nENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM20E4ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024\nENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024\nLINGUAGENS, CÓDIGOS E SUAS TECNOLOGIAS E REDAÇÃO • 1º DIA • CADERNO 1 • AZUL •\n10",
@@ -126,38 +136,578 @@
     "resp_person": [
       {
         "ano": 2024,
+        "tag_model": "gpt_oss_120b",
         "CO_POSICAO": 22.0,
         "descricao_area": "linguagens, códigos e suas tecnologias",
         "resposta": "D"
       },
       {
         "ano": 2024,
+        "tag_model": "gpt_oss_120b",
         "CO_POSICAO": 23.0,
         "descricao_area": "linguagens, códigos e suas tecnologias",
         "resposta": "B"
       },
       {
         "ano": 2024,
+        "tag_model": "gpt_oss_120b",
         "CO_POSICAO": 24.0,
         "descricao_area": "linguagens, códigos e suas tecnologias",
-        "resposta": "C"
+        "resposta": "A"
       }
     ],
     "feedback": [
       {
         "numero_questao": "22",
+        "tag_model": "llama_3_3_70b_instruct",
         "resposta": "C",
-        "feedback_tutor": "Parabéns! Você acertou. A letra realmente apresenta definições ambíguas do enunciador, invertendo e relativizando as representações de maldade e bondade, o que evidencia a tematização da violência conforme descrito no Texto II. Continue estudando e se preparando para o ENEM!###"
+        "feedback_tutor": "A resposta está correta! A tematização da violência na letra da canção manifesta-se nas definições ambíguas do enunciador, que inverte e relativiza as representações da maldade e da bondade. Isso é evidenciado pelas linhas \"Talvez eu seja um sádico ou um anjo, um mágico / Ou juiz, ou réu, o bandido do céu\" e \"Malandro ou otário, quase sanguinário\", que mostram a complexidade e a ambiguidade do enunciador. Parabéns! Continue estudando e se preparando para o ENEM."
       },
       {
-        "numero_questao": "23",
+        "numero_questao": "1",
+        "tag_model": "llama_3_3_70b_instruct",
         "resposta": "C",
-        "feedback_tutor": "Parabéns! Você acertou. O autor realmente utiliza expressões adversativas, como “mas”, para inserir ressalvas às suas avaliações elogiosas, destacando os aspectos negativos da série. Continue assim, revisando esses recursos de coesão e coerência textual para garantir ainda mais acertos no ENEM.###"
+        "feedback_tutor": "A resposta está correta! O autor da resenha utiliza expressões adversativas, como \"De forma alguma\" e \"mas\", para fazer ressalvas às afirmações elogiosas e apontar aspectos negativos da série. Isso demonstra uma habilidade crítica e analítica ao avaliar a obra. Continue estudando e aprimorando suas habilidades de análise de textos!"
       },
       {
         "numero_questao": "24",
+        "tag_model": "llama_3_3_70b_instruct",
+        "resposta": "C",
+        "feedback_tutor": "A resposta era mesmo a alternativa A, pois a discussão entre os personagens aborda a diferença entre a linguagem literária e a linguagem cotidiana, destacando que a escrita artística é diferente do registro padrão da língua. Você acertou! Continue estudando e se preparando para o ENEM, pois a compreensão de textos literários e a análise de temas é fundamental para a prova. Parabéns!"
+      }
+    ]
+  },
+  {
+    "id_person": 1,
+    "tag_model_person": "llama_3_3_70b_instruct",
+    "tag_model_tutor": "gpt_oss_120b",
+    "questions": [
+      {
+        "enunciado": "\nQUESTÃO 22\t\nTEXTO I\nCapítulo 4, versículo 3\nMinha palavra vale um tiro, eu tenho muita munição\nNa queda ou na ascensão, minha atitude vai além\nE tem disposição pro mal e pro bem\nTalvez eu seja um sádico ou um anjo, um mágico\nOu juiz, ou réu, o bandido do céu\nMalandro ou otário, quase sanguinário\nFranco atirador se for necessário\nRevolucionário, insano, ou marginal\nAntigo e moderno, imortal\nFronteira do céu com o inferno\nAstral imprevisível, como um ataque cardíaco do verso.\nRACIONAIS MCs. Sobrevivendo ao inferno.  \nSão Paulo: Cosa Nostra, 1997 (fragmento).\nTEXTO II\nPode-se dizer que as várias experiências narradas \nnos discos do Racionais tratam no fundo de um só tema: \na violência que estrutura a nossa sociedade. O grupo \ncanta a violência que estrutura as relações entre os \nfamiliares, os amigos, o homem e a mulher, o traficante e \no viciado. Canta a violência do crime. A violência causada \npor inveja ou por vaidade. Também canta que a relação \nentre as classes sociais é sempre violenta: o racismo, \na miséria, os baixos salários, a concentração de renda,  \na esmola, a publicidade, o alcoolismo, o jornalismo, o poder \npolicial, a justiça, o sistema penitenciário, o governo existem \npor meio da violência.\nGARCIA, W. Ouvindo Racionais MCs. Teresa: revista de  \nliteratura brasileira, n. 5, 2004 (adaptado).\nNa letra da canção, a tematização da violência mencionada \nno Texto II manifesta-se\nA\tcomo metáfora da desigualdade, que associa a ideia de \njustiça a valores históricos negativos.\nB\tna referência a termos bélicos, que sinaliza uma crítica \nsocial à opressão da população das periferias.\nC\tcomo procedimento metalinguístico, que concebe a \npalavra como uma forma de combate e insubordinação.\nD\tnas definições ambíguas do enunciador, que inverte e \nrelativiza as representações da maldade e da bondade.\nE\tna menção à imortalidade, que sugere a possibilidade de \nresistência para além da dicotomia entre vida e morte.\n\nENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM20E4ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024\nENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM20E4ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024\nENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024\nLINGUAGENS, CÓDIGOS E SUAS TECNOLOGIAS E REDAÇÃO • 1º DIA • CADERNO 1 • AZUL •\n10",
+        "ano": 2024,
+        "descricao_area": "linguagens, códigos e suas tecnologias",
+        "SG_AREA": "LC",
+        "CO_POSICAO": 22.0,
+        "TP_LINGUA": null,
+        "TX_GABARITO": "C",
+        "CO_HABILIDADE": 22.0,
+        "NU_PARAM_A": 2.2483400000000002,
+        "NU_PARAM_B": 1.8179800000000002,
+        "NU_PARAM_C": 0.17832
+      },
+      {
+        "enunciado": "\nQUESTÃO 23\t\nAs reações à sétima temporada foram o ápice do último \nestágio em Game of Thrones. De forma alguma, este que \nvos fala seria capaz de argumentar que a série é perfeita, \nmas os defeitos que existem aqui sempre existiram, de uma \nforma ou de outra, durante os sete anos em que ela esteve \nno ar. Os dois roteiristas foram brilhantes em traduzir os \npersonagens intrincados e conflituosos da obra de George \nR. R. Martin, mas nunca souberam exatamente como fazer \njus a eles (e especialmente a elas, as mulheres da trama).\nA verdade é que, com tudo isso e mais Ramin Djawadi \nevocando sentimentos e ambientes improváveis com sua \ntrilha sonora magistral, a série não conseguiria ser ruim nem \nse tentasse, mas continua sendo uma pena que, ao buscar \no seu final com tanta sede e tanta celeridade, Benioff e \nWeiss tenham tirado sua qualidade mais preciosa: o fôlego, \na paciência e o detalhismo que faziam suas palavras se \nlevantarem do papel e ganharem vida.\nDisponível em: https://observatoriodocinema.uol.com.br.  \nAcesso em: 29 nov. 2017 (adaptado).\nAinda que faça uma avaliação positiva da série, nessa \nresenha, o autor aponta aspectos negativos da obra ao utilizar\nA\tmarcas de impessoalidade que disfarçam a opinião do \nespecialista.\nB\texpressões adversativas para fazer ressalvas às \nafirmações elogiosas.\nC\tinterlocução com o leitor para corroborar opiniões \ncontrárias à adaptação.\nD\teufemismos que minimizam as críticas feitas à \nconstrução das personagens.\nE\tantíteses que opõem a fragilidade do roteiro à beleza \nda trilha sonora da série.",
+        "ano": 2024,
+        "descricao_area": "linguagens, códigos e suas tecnologias",
+        "SG_AREA": "LC",
+        "CO_POSICAO": 23.0,
+        "TP_LINGUA": null,
+        "TX_GABARITO": "B",
+        "CO_HABILIDADE": 1.0,
+        "NU_PARAM_A": 3.8859,
+        "NU_PARAM_B": 0.8760100000000001,
+        "NU_PARAM_C": 0.19923000000000002
+      },
+      {
+        "enunciado": "\nQUESTÃO 24\t\n— Vá para o inferno, Gondim. Você acanalhou o troço. \nEstá pernóstico, está safado, está idiota. Há lá ninguém \nque fale dessa forma!\nAzevedo Gondim apagou o sorriso, engoliu em seco, \napanhou os cacos da sua pequenina vaidade e replicou \namuado que um artista não pode escrever como fala.\n— Não pode? — perguntei com assombro. E por quê?\nAzevedo Gondim respondeu que não pode porque \nnão pode.\n— Foi assim que sempre se fez. A literatura é a \nliteratura, seu Paulo. A gente discute, briga, trata de \nnegócios naturalmente, mas arranjar palavras com tinta é \noutra coisa. Se eu fosse escrever como falo, ninguém me lia.\nRAMOS, G. São Bernardo. Rio de Janeiro: Record, 2009.\nNesse fragmento, a discussão dos personagens traz à \ncena um debate acerca da escrita que\nA\tdiferencia a produção artística do registro padrão da língua.\nB\taproxima a literatura de dialetos sociais de pouco prestígio.\nC\tdefende a relação entre a fala e o estilo literário de um autor.\nD\tcontrapõe o preciosismo linguístico a situações de \ncoloquialidade.\nE\tassocia o uso da norma culta à ocorrência de \ndesentendimentos pessoais.",
+        "ano": 2024,
+        "descricao_area": "linguagens, códigos e suas tecnologias",
+        "SG_AREA": "LC",
+        "CO_POSICAO": 24.0,
+        "TP_LINGUA": null,
+        "TX_GABARITO": "D",
+        "CO_HABILIDADE": 25.0,
+        "NU_PARAM_A": 1.94371,
+        "NU_PARAM_B": 1.34885,
+        "NU_PARAM_C": 0.14161
+      }
+    ],
+    "resp_person": [
+      {
+        "ano": 2024,
+        "tag_model": "llama_3_3_70b_instruct",
+        "CO_POSICAO": 22.0,
+        "descricao_area": "linguagens, códigos e suas tecnologias",
+        "resposta": "D"
+      },
+      {
+        "ano": 2024,
+        "tag_model": "llama_3_3_70b_instruct",
+        "CO_POSICAO": 23.0,
+        "descricao_area": "linguagens, códigos e suas tecnologias",
+        "resposta": "B"
+      },
+      {
+        "ano": 2024,
+        "tag_model": "llama_3_3_70b_instruct",
+        "CO_POSICAO": 24.0,
+        "descricao_area": "linguagens, códigos e suas tecnologias",
+        "resposta": "A"
+      }
+    ],
+    "feedback": [
+      {
+        "numero_questao": "22",
+        "tag_model": "gpt_oss_120b",
         "resposta": "E",
-        "feedback_tutor": "Infelizmente você errou. A alternativa correta é a letra A, que aponta que o debate diferencia a produção artística do registro padrão da língua. No fragmento, Gondim argumenta que escrever como se fala tornaria o texto ilegível, evidenciando que a linguagem literária tem normas distintas da fala cotidiana. Releia sobre a diferença entre linguagem literária e linguagem oral, bem como o papel da norma culta na literatura. Continue estudando, você está no caminho certo!###"
+        "feedback_tutor": "A alternativa D não está correta. Embora o texto apresente definições ambíguas do eu lírico, a forma como a violência é tematizada na canção está mais diretamente relacionada ao uso de termos bélicos – “Minha palavra vale um tiro”, “franco atirador”, “ataque cardíaco do verso” – que funcionam como metáforas de combate e denunciam a opressão nas periferias. Essa estratégia evidencia a crítica social à violência estrutural citada no Texto II. Portanto, a resposta correta é a letra **B**. Para melhorar, revise conceitos de análise do discurso focados em como a linguagem pode representar violência por meio de metáforas bélicas e de crítica social. Continue estudando!###"
+      },
+      {
+        "numero_questao": "23",
+        "tag_model": "gpt_oss_120b",
+        "resposta": "C",
+        "feedback_tutor": "Parabéns, você acertou! O autor realmente utiliza expressões adversativas (como “mas”) para fazer ressalvas às afirmações elogiosas, apontando aspectos negativos mesmo mantendo uma avaliação positiva. Continue estudando e praticando para manter o bom desempenho no ENEM.###"
+      },
+      {
+        "numero_questao": "24",
+        "tag_model": "gpt_oss_120b",
+        "resposta": "C",
+        "feedback_tutor": "Parabéns, você acertou! A discussão realmente destaca a diferença entre a produção artística e o registro padrão da língua. Continue assim!###"
+      }
+    ]
+  },
+  {
+    "id_person": 1,
+    "tag_model_person": "llama_3_3_70b_instruct",
+    "tag_model_tutor": "llama_3_3_70b_instruct",
+    "questions": [
+      {
+        "enunciado": "\nQUESTÃO 22\t\nTEXTO I\nCapítulo 4, versículo 3\nMinha palavra vale um tiro, eu tenho muita munição\nNa queda ou na ascensão, minha atitude vai além\nE tem disposição pro mal e pro bem\nTalvez eu seja um sádico ou um anjo, um mágico\nOu juiz, ou réu, o bandido do céu\nMalandro ou otário, quase sanguinário\nFranco atirador se for necessário\nRevolucionário, insano, ou marginal\nAntigo e moderno, imortal\nFronteira do céu com o inferno\nAstral imprevisível, como um ataque cardíaco do verso.\nRACIONAIS MCs. Sobrevivendo ao inferno.  \nSão Paulo: Cosa Nostra, 1997 (fragmento).\nTEXTO II\nPode-se dizer que as várias experiências narradas \nnos discos do Racionais tratam no fundo de um só tema: \na violência que estrutura a nossa sociedade. O grupo \ncanta a violência que estrutura as relações entre os \nfamiliares, os amigos, o homem e a mulher, o traficante e \no viciado. Canta a violência do crime. A violência causada \npor inveja ou por vaidade. Também canta que a relação \nentre as classes sociais é sempre violenta: o racismo, \na miséria, os baixos salários, a concentração de renda,  \na esmola, a publicidade, o alcoolismo, o jornalismo, o poder \npolicial, a justiça, o sistema penitenciário, o governo existem \npor meio da violência.\nGARCIA, W. Ouvindo Racionais MCs. Teresa: revista de  \nliteratura brasileira, n. 5, 2004 (adaptado).\nNa letra da canção, a tematização da violência mencionada \nno Texto II manifesta-se\nA\tcomo metáfora da desigualdade, que associa a ideia de \njustiça a valores históricos negativos.\nB\tna referência a termos bélicos, que sinaliza uma crítica \nsocial à opressão da população das periferias.\nC\tcomo procedimento metalinguístico, que concebe a \npalavra como uma forma de combate e insubordinação.\nD\tnas definições ambíguas do enunciador, que inverte e \nrelativiza as representações da maldade e da bondade.\nE\tna menção à imortalidade, que sugere a possibilidade de \nresistência para além da dicotomia entre vida e morte.\n\nENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM20E4ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024\nENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM20E4ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024\nENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024\nLINGUAGENS, CÓDIGOS E SUAS TECNOLOGIAS E REDAÇÃO • 1º DIA • CADERNO 1 • AZUL •\n10",
+        "ano": 2024,
+        "descricao_area": "linguagens, códigos e suas tecnologias",
+        "SG_AREA": "LC",
+        "CO_POSICAO": 22.0,
+        "TP_LINGUA": null,
+        "TX_GABARITO": "C",
+        "CO_HABILIDADE": 22.0,
+        "NU_PARAM_A": 2.2483400000000002,
+        "NU_PARAM_B": 1.8179800000000002,
+        "NU_PARAM_C": 0.17832
+      },
+      {
+        "enunciado": "\nQUESTÃO 23\t\nAs reações à sétima temporada foram o ápice do último \nestágio em Game of Thrones. De forma alguma, este que \nvos fala seria capaz de argumentar que a série é perfeita, \nmas os defeitos que existem aqui sempre existiram, de uma \nforma ou de outra, durante os sete anos em que ela esteve \nno ar. Os dois roteiristas foram brilhantes em traduzir os \npersonagens intrincados e conflituosos da obra de George \nR. R. Martin, mas nunca souberam exatamente como fazer \njus a eles (e especialmente a elas, as mulheres da trama).\nA verdade é que, com tudo isso e mais Ramin Djawadi \nevocando sentimentos e ambientes improváveis com sua \ntrilha sonora magistral, a série não conseguiria ser ruim nem \nse tentasse, mas continua sendo uma pena que, ao buscar \no seu final com tanta sede e tanta celeridade, Benioff e \nWeiss tenham tirado sua qualidade mais preciosa: o fôlego, \na paciência e o detalhismo que faziam suas palavras se \nlevantarem do papel e ganharem vida.\nDisponível em: https://observatoriodocinema.uol.com.br.  \nAcesso em: 29 nov. 2017 (adaptado).\nAinda que faça uma avaliação positiva da série, nessa \nresenha, o autor aponta aspectos negativos da obra ao utilizar\nA\tmarcas de impessoalidade que disfarçam a opinião do \nespecialista.\nB\texpressões adversativas para fazer ressalvas às \nafirmações elogiosas.\nC\tinterlocução com o leitor para corroborar opiniões \ncontrárias à adaptação.\nD\teufemismos que minimizam as críticas feitas à \nconstrução das personagens.\nE\tantíteses que opõem a fragilidade do roteiro à beleza \nda trilha sonora da série.",
+        "ano": 2024,
+        "descricao_area": "linguagens, códigos e suas tecnologias",
+        "SG_AREA": "LC",
+        "CO_POSICAO": 23.0,
+        "TP_LINGUA": null,
+        "TX_GABARITO": "B",
+        "CO_HABILIDADE": 1.0,
+        "NU_PARAM_A": 3.8859,
+        "NU_PARAM_B": 0.8760100000000001,
+        "NU_PARAM_C": 0.19923000000000002
+      },
+      {
+        "enunciado": "\nQUESTÃO 24\t\n— Vá para o inferno, Gondim. Você acanalhou o troço. \nEstá pernóstico, está safado, está idiota. Há lá ninguém \nque fale dessa forma!\nAzevedo Gondim apagou o sorriso, engoliu em seco, \napanhou os cacos da sua pequenina vaidade e replicou \namuado que um artista não pode escrever como fala.\n— Não pode? — perguntei com assombro. E por quê?\nAzevedo Gondim respondeu que não pode porque \nnão pode.\n— Foi assim que sempre se fez. A literatura é a \nliteratura, seu Paulo. A gente discute, briga, trata de \nnegócios naturalmente, mas arranjar palavras com tinta é \noutra coisa. Se eu fosse escrever como falo, ninguém me lia.\nRAMOS, G. São Bernardo. Rio de Janeiro: Record, 2009.\nNesse fragmento, a discussão dos personagens traz à \ncena um debate acerca da escrita que\nA\tdiferencia a produção artística do registro padrão da língua.\nB\taproxima a literatura de dialetos sociais de pouco prestígio.\nC\tdefende a relação entre a fala e o estilo literário de um autor.\nD\tcontrapõe o preciosismo linguístico a situações de \ncoloquialidade.\nE\tassocia o uso da norma culta à ocorrência de \ndesentendimentos pessoais.",
+        "ano": 2024,
+        "descricao_area": "linguagens, códigos e suas tecnologias",
+        "SG_AREA": "LC",
+        "CO_POSICAO": 24.0,
+        "TP_LINGUA": null,
+        "TX_GABARITO": "D",
+        "CO_HABILIDADE": 25.0,
+        "NU_PARAM_A": 1.94371,
+        "NU_PARAM_B": 1.34885,
+        "NU_PARAM_C": 0.14161
+      }
+    ],
+    "resp_person": [
+      {
+        "ano": 2024,
+        "tag_model": "llama_3_3_70b_instruct",
+        "CO_POSICAO": 22.0,
+        "descricao_area": "linguagens, códigos e suas tecnologias",
+        "resposta": "D"
+      },
+      {
+        "ano": 2024,
+        "tag_model": "llama_3_3_70b_instruct",
+        "CO_POSICAO": 23.0,
+        "descricao_area": "linguagens, códigos e suas tecnologias",
+        "resposta": "B"
+      },
+      {
+        "ano": 2024,
+        "tag_model": "llama_3_3_70b_instruct",
+        "CO_POSICAO": 24.0,
+        "descricao_area": "linguagens, códigos e suas tecnologias",
+        "resposta": "A"
+      }
+    ],
+    "feedback": [
+      {
+        "numero_questao": "22",
+        "tag_model": "llama_3_3_70b_instruct",
+        "resposta": "C",
+        "feedback_tutor": "A resposta está correta! A letra da canção apresenta definições ambíguas do enunciador, que inverte e relativiza as representações da maldade e da bondade, como por exemplo, quando diz \"Talvez eu seja um sádico ou um anjo, um mágico / Ou juiz, ou réu, o bandido do céu\". Isso mostra que o artista está questionando as noções tradicionais de bem e mal, e apresentando uma visão mais complexa e multifacetada da realidade. Parabéns! Continue estudando e se preparando para o ENEM!"
+      },
+      {
+        "numero_questao": "1",
+        "tag_model": "llama_3_3_70b_instruct",
+        "resposta": "C",
+        "feedback_tutor": "A resposta está correta. O autor da resenha utiliza expressões adversativas, como \"De forma alguma\" e \"mas\", para fazer ressalvas às afirmações elogiosas e apontar aspectos negativos da obra. Isso demonstra uma habilidade crítica e analítica ao avaliar a série. Continue estudando e se preparando para o ENEM, você está no caminho certo!"
+      },
+      {
+        "numero_questao": "24",
+        "tag_model": "llama_3_3_70b_instruct",
+        "resposta": "C",
+        "feedback_tutor": "A resposta era mesmo a alternativa A, pois a discussão entre os personagens aborda a ideia de que a escrita literária é diferente do registro padrão da língua falada, destacando a distinção entre a produção artística e a linguagem cotidiana. Você acertou! Continue estudando e se preparando para o ENEM, pois isso demonstra que você tem uma boa compreensão da literatura e da linguagem. Mantenha o foco e siga em frente!"
+      }
+    ]
+  },
+  {
+    "id_person": 2,
+    "tag_model_person": "gpt_oss_120b",
+    "tag_model_tutor": "gpt_oss_120b",
+    "questions": [
+      {
+        "enunciado": "\nQUESTÃO 22\t\nTEXTO I\nCapítulo 4, versículo 3\nMinha palavra vale um tiro, eu tenho muita munição\nNa queda ou na ascensão, minha atitude vai além\nE tem disposição pro mal e pro bem\nTalvez eu seja um sádico ou um anjo, um mágico\nOu juiz, ou réu, o bandido do céu\nMalandro ou otário, quase sanguinário\nFranco atirador se for necessário\nRevolucionário, insano, ou marginal\nAntigo e moderno, imortal\nFronteira do céu com o inferno\nAstral imprevisível, como um ataque cardíaco do verso.\nRACIONAIS MCs. Sobrevivendo ao inferno.  \nSão Paulo: Cosa Nostra, 1997 (fragmento).\nTEXTO II\nPode-se dizer que as várias experiências narradas \nnos discos do Racionais tratam no fundo de um só tema: \na violência que estrutura a nossa sociedade. O grupo \ncanta a violência que estrutura as relações entre os \nfamiliares, os amigos, o homem e a mulher, o traficante e \no viciado. Canta a violência do crime. A violência causada \npor inveja ou por vaidade. Também canta que a relação \nentre as classes sociais é sempre violenta: o racismo, \na miséria, os baixos salários, a concentração de renda,  \na esmola, a publicidade, o alcoolismo, o jornalismo, o poder \npolicial, a justiça, o sistema penitenciário, o governo existem \npor meio da violência.\nGARCIA, W. Ouvindo Racionais MCs. Teresa: revista de  \nliteratura brasileira, n. 5, 2004 (adaptado).\nNa letra da canção, a tematização da violência mencionada \nno Texto II manifesta-se\nA\tcomo metáfora da desigualdade, que associa a ideia de \njustiça a valores históricos negativos.\nB\tna referência a termos bélicos, que sinaliza uma crítica \nsocial à opressão da população das periferias.\nC\tcomo procedimento metalinguístico, que concebe a \npalavra como uma forma de combate e insubordinação.\nD\tnas definições ambíguas do enunciador, que inverte e \nrelativiza as representações da maldade e da bondade.\nE\tna menção à imortalidade, que sugere a possibilidade de \nresistência para além da dicotomia entre vida e morte.\n\nENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM20E4ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024\nENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM20E4ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024\nENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024\nLINGUAGENS, CÓDIGOS E SUAS TECNOLOGIAS E REDAÇÃO • 1º DIA • CADERNO 1 • AZUL •\n10",
+        "ano": 2024,
+        "descricao_area": "linguagens, códigos e suas tecnologias",
+        "SG_AREA": "LC",
+        "CO_POSICAO": 22.0,
+        "TP_LINGUA": null,
+        "TX_GABARITO": "C",
+        "CO_HABILIDADE": 22.0,
+        "NU_PARAM_A": 2.2483400000000002,
+        "NU_PARAM_B": 1.8179800000000002,
+        "NU_PARAM_C": 0.17832
+      },
+      {
+        "enunciado": "\nQUESTÃO 23\t\nAs reações à sétima temporada foram o ápice do último \nestágio em Game of Thrones. De forma alguma, este que \nvos fala seria capaz de argumentar que a série é perfeita, \nmas os defeitos que existem aqui sempre existiram, de uma \nforma ou de outra, durante os sete anos em que ela esteve \nno ar. Os dois roteiristas foram brilhantes em traduzir os \npersonagens intrincados e conflituosos da obra de George \nR. R. Martin, mas nunca souberam exatamente como fazer \njus a eles (e especialmente a elas, as mulheres da trama).\nA verdade é que, com tudo isso e mais Ramin Djawadi \nevocando sentimentos e ambientes improváveis com sua \ntrilha sonora magistral, a série não conseguiria ser ruim nem \nse tentasse, mas continua sendo uma pena que, ao buscar \no seu final com tanta sede e tanta celeridade, Benioff e \nWeiss tenham tirado sua qualidade mais preciosa: o fôlego, \na paciência e o detalhismo que faziam suas palavras se \nlevantarem do papel e ganharem vida.\nDisponível em: https://observatoriodocinema.uol.com.br.  \nAcesso em: 29 nov. 2017 (adaptado).\nAinda que faça uma avaliação positiva da série, nessa \nresenha, o autor aponta aspectos negativos da obra ao utilizar\nA\tmarcas de impessoalidade que disfarçam a opinião do \nespecialista.\nB\texpressões adversativas para fazer ressalvas às \nafirmações elogiosas.\nC\tinterlocução com o leitor para corroborar opiniões \ncontrárias à adaptação.\nD\teufemismos que minimizam as críticas feitas à \nconstrução das personagens.\nE\tantíteses que opõem a fragilidade do roteiro à beleza \nda trilha sonora da série.",
+        "ano": 2024,
+        "descricao_area": "linguagens, códigos e suas tecnologias",
+        "SG_AREA": "LC",
+        "CO_POSICAO": 23.0,
+        "TP_LINGUA": null,
+        "TX_GABARITO": "B",
+        "CO_HABILIDADE": 1.0,
+        "NU_PARAM_A": 3.8859,
+        "NU_PARAM_B": 0.8760100000000001,
+        "NU_PARAM_C": 0.19923000000000002
+      },
+      {
+        "enunciado": "\nQUESTÃO 24\t\n— Vá para o inferno, Gondim. Você acanalhou o troço. \nEstá pernóstico, está safado, está idiota. Há lá ninguém \nque fale dessa forma!\nAzevedo Gondim apagou o sorriso, engoliu em seco, \napanhou os cacos da sua pequenina vaidade e replicou \namuado que um artista não pode escrever como fala.\n— Não pode? — perguntei com assombro. E por quê?\nAzevedo Gondim respondeu que não pode porque \nnão pode.\n— Foi assim que sempre se fez. A literatura é a \nliteratura, seu Paulo. A gente discute, briga, trata de \nnegócios naturalmente, mas arranjar palavras com tinta é \noutra coisa. Se eu fosse escrever como falo, ninguém me lia.\nRAMOS, G. São Bernardo. Rio de Janeiro: Record, 2009.\nNesse fragmento, a discussão dos personagens traz à \ncena um debate acerca da escrita que\nA\tdiferencia a produção artística do registro padrão da língua.\nB\taproxima a literatura de dialetos sociais de pouco prestígio.\nC\tdefende a relação entre a fala e o estilo literário de um autor.\nD\tcontrapõe o preciosismo linguístico a situações de \ncoloquialidade.\nE\tassocia o uso da norma culta à ocorrência de \ndesentendimentos pessoais.",
+        "ano": 2024,
+        "descricao_area": "linguagens, códigos e suas tecnologias",
+        "SG_AREA": "LC",
+        "CO_POSICAO": 24.0,
+        "TP_LINGUA": null,
+        "TX_GABARITO": "D",
+        "CO_HABILIDADE": 25.0,
+        "NU_PARAM_A": 1.94371,
+        "NU_PARAM_B": 1.34885,
+        "NU_PARAM_C": 0.14161
+      }
+    ],
+    "resp_person": [
+      {
+        "ano": 2024,
+        "tag_model": "gpt_oss_120b",
+        "CO_POSICAO": 22.0,
+        "descricao_area": "linguagens, códigos e suas tecnologias",
+        "resposta": "B"
+      },
+      {
+        "ano": 2024,
+        "tag_model": "gpt_oss_120b",
+        "CO_POSICAO": 23.0,
+        "descricao_area": "linguagens, códigos e suas tecnologias",
+        "resposta": "B"
+      },
+      {
+        "ano": 2024,
+        "tag_model": "gpt_oss_120b",
+        "CO_POSICAO": 24.0,
+        "descricao_area": "linguagens, códigos e suas tecnologias",
+        "resposta": "A"
+      }
+    ],
+    "feedback": [
+      {
+        "numero_questao": "22",
+        "tag_model": "gpt_oss_120b",
+        "resposta": "E",
+        "feedback_tutor": "A alternativa B não está correta. Embora a letra contenha termos bélicos como “tiro”, “munição” e “franco‑atirador”, a forma como a violência se apresenta vai além da simples referência a linguagem de guerra. O ponto central da canção é a construção de um eu lírico que se define de maneira ambígua e contraditória – “sádico ou anjo”, “juiz ou réu”, “bandido do céu”, “malandro ou otário”, “revolucionário, insano ou marginal”. Essa multiplicidade de papéis inverte e relativiza as noções tradicionais de bem e mal, mostrando que a violência está entrelaçada à identidade do sujeito e à sua experiência nas periferias.  \n\nPortanto, a opção correta é a **D**: “nas definições ambíguas do enunciador, que inverte e relativiza as representações da maldade e da bondade”.  \n\n**Dica de estudo:** aprofunde-se em análise de discurso e em recursos de linguagem (como ambiguidade, ironia e polifonia) aplicados a textos musicais e literários. Isso ajuda a identificar como temas como violência são construídos não apenas por palavras de guerra, mas também pela forma como o sujeito se posiciona e se descreve. Continue praticando a leitura crítica de letras de rap e de outros gêneros que abordam questões sociais. Boa continuidade nos estudos!"
+      },
+      {
+        "numero_questao": "23",
+        "tag_model": "gpt_oss_120b",
+        "resposta": "C",
+        "feedback_tutor": "Parabéns, você acertou! O autor realmente utiliza expressões adversativas (como “mas”, “porém”) para inserir ressalvas às afirmações elogiosas, apontando os aspectos negativos da série mesmo mantendo uma avaliação geral positiva. Continue assim, mantendo o foco nas estratégias de linguagem nos textos!###"
+      },
+      {
+        "numero_questao": "24",
+        "tag_model": "gpt_oss_120b",
+        "resposta": "C",
+        "feedback_tutor": "Parabéns! Você acertou. A alternativa A destaca que o debate diferencia a produção artística do registro padrão da língua, exatamente como o texto evidencia a distinção entre a linguagem literária e a fala cotidiana. Continue assim, estudando as nuances entre linguagem formal e informal na literatura."
+      }
+    ]
+  },
+  {
+    "id_person": 2,
+    "tag_model_person": "gpt_oss_120b",
+    "tag_model_tutor": "llama_3_3_70b_instruct",
+    "questions": [
+      {
+        "enunciado": "\nQUESTÃO 22\t\nTEXTO I\nCapítulo 4, versículo 3\nMinha palavra vale um tiro, eu tenho muita munição\nNa queda ou na ascensão, minha atitude vai além\nE tem disposição pro mal e pro bem\nTalvez eu seja um sádico ou um anjo, um mágico\nOu juiz, ou réu, o bandido do céu\nMalandro ou otário, quase sanguinário\nFranco atirador se for necessário\nRevolucionário, insano, ou marginal\nAntigo e moderno, imortal\nFronteira do céu com o inferno\nAstral imprevisível, como um ataque cardíaco do verso.\nRACIONAIS MCs. Sobrevivendo ao inferno.  \nSão Paulo: Cosa Nostra, 1997 (fragmento).\nTEXTO II\nPode-se dizer que as várias experiências narradas \nnos discos do Racionais tratam no fundo de um só tema: \na violência que estrutura a nossa sociedade. O grupo \ncanta a violência que estrutura as relações entre os \nfamiliares, os amigos, o homem e a mulher, o traficante e \no viciado. Canta a violência do crime. A violência causada \npor inveja ou por vaidade. Também canta que a relação \nentre as classes sociais é sempre violenta: o racismo, \na miséria, os baixos salários, a concentração de renda,  \na esmola, a publicidade, o alcoolismo, o jornalismo, o poder \npolicial, a justiça, o sistema penitenciário, o governo existem \npor meio da violência.\nGARCIA, W. Ouvindo Racionais MCs. Teresa: revista de  \nliteratura brasileira, n. 5, 2004 (adaptado).\nNa letra da canção, a tematização da violência mencionada \nno Texto II manifesta-se\nA\tcomo metáfora da desigualdade, que associa a ideia de \njustiça a valores históricos negativos.\nB\tna referência a termos bélicos, que sinaliza uma crítica \nsocial à opressão da população das periferias.\nC\tcomo procedimento metalinguístico, que concebe a \npalavra como uma forma de combate e insubordinação.\nD\tnas definições ambíguas do enunciador, que inverte e \nrelativiza as representações da maldade e da bondade.\nE\tna menção à imortalidade, que sugere a possibilidade de \nresistência para além da dicotomia entre vida e morte.\n\nENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM20E4ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024\nENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM20E4ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024\nENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024\nLINGUAGENS, CÓDIGOS E SUAS TECNOLOGIAS E REDAÇÃO • 1º DIA • CADERNO 1 • AZUL •\n10",
+        "ano": 2024,
+        "descricao_area": "linguagens, códigos e suas tecnologias",
+        "SG_AREA": "LC",
+        "CO_POSICAO": 22.0,
+        "TP_LINGUA": null,
+        "TX_GABARITO": "C",
+        "CO_HABILIDADE": 22.0,
+        "NU_PARAM_A": 2.2483400000000002,
+        "NU_PARAM_B": 1.8179800000000002,
+        "NU_PARAM_C": 0.17832
+      },
+      {
+        "enunciado": "\nQUESTÃO 23\t\nAs reações à sétima temporada foram o ápice do último \nestágio em Game of Thrones. De forma alguma, este que \nvos fala seria capaz de argumentar que a série é perfeita, \nmas os defeitos que existem aqui sempre existiram, de uma \nforma ou de outra, durante os sete anos em que ela esteve \nno ar. Os dois roteiristas foram brilhantes em traduzir os \npersonagens intrincados e conflituosos da obra de George \nR. R. Martin, mas nunca souberam exatamente como fazer \njus a eles (e especialmente a elas, as mulheres da trama).\nA verdade é que, com tudo isso e mais Ramin Djawadi \nevocando sentimentos e ambientes improváveis com sua \ntrilha sonora magistral, a série não conseguiria ser ruim nem \nse tentasse, mas continua sendo uma pena que, ao buscar \no seu final com tanta sede e tanta celeridade, Benioff e \nWeiss tenham tirado sua qualidade mais preciosa: o fôlego, \na paciência e o detalhismo que faziam suas palavras se \nlevantarem do papel e ganharem vida.\nDisponível em: https://observatoriodocinema.uol.com.br.  \nAcesso em: 29 nov. 2017 (adaptado).\nAinda que faça uma avaliação positiva da série, nessa \nresenha, o autor aponta aspectos negativos da obra ao utilizar\nA\tmarcas de impessoalidade que disfarçam a opinião do \nespecialista.\nB\texpressões adversativas para fazer ressalvas às \nafirmações elogiosas.\nC\tinterlocução com o leitor para corroborar opiniões \ncontrárias à adaptação.\nD\teufemismos que minimizam as críticas feitas à \nconstrução das personagens.\nE\tantíteses que opõem a fragilidade do roteiro à beleza \nda trilha sonora da série.",
+        "ano": 2024,
+        "descricao_area": "linguagens, códigos e suas tecnologias",
+        "SG_AREA": "LC",
+        "CO_POSICAO": 23.0,
+        "TP_LINGUA": null,
+        "TX_GABARITO": "B",
+        "CO_HABILIDADE": 1.0,
+        "NU_PARAM_A": 3.8859,
+        "NU_PARAM_B": 0.8760100000000001,
+        "NU_PARAM_C": 0.19923000000000002
+      },
+      {
+        "enunciado": "\nQUESTÃO 24\t\n— Vá para o inferno, Gondim. Você acanalhou o troço. \nEstá pernóstico, está safado, está idiota. Há lá ninguém \nque fale dessa forma!\nAzevedo Gondim apagou o sorriso, engoliu em seco, \napanhou os cacos da sua pequenina vaidade e replicou \namuado que um artista não pode escrever como fala.\n— Não pode? — perguntei com assombro. E por quê?\nAzevedo Gondim respondeu que não pode porque \nnão pode.\n— Foi assim que sempre se fez. A literatura é a \nliteratura, seu Paulo. A gente discute, briga, trata de \nnegócios naturalmente, mas arranjar palavras com tinta é \noutra coisa. Se eu fosse escrever como falo, ninguém me lia.\nRAMOS, G. São Bernardo. Rio de Janeiro: Record, 2009.\nNesse fragmento, a discussão dos personagens traz à \ncena um debate acerca da escrita que\nA\tdiferencia a produção artística do registro padrão da língua.\nB\taproxima a literatura de dialetos sociais de pouco prestígio.\nC\tdefende a relação entre a fala e o estilo literário de um autor.\nD\tcontrapõe o preciosismo linguístico a situações de \ncoloquialidade.\nE\tassocia o uso da norma culta à ocorrência de \ndesentendimentos pessoais.",
+        "ano": 2024,
+        "descricao_area": "linguagens, códigos e suas tecnologias",
+        "SG_AREA": "LC",
+        "CO_POSICAO": 24.0,
+        "TP_LINGUA": null,
+        "TX_GABARITO": "D",
+        "CO_HABILIDADE": 25.0,
+        "NU_PARAM_A": 1.94371,
+        "NU_PARAM_B": 1.34885,
+        "NU_PARAM_C": 0.14161
+      }
+    ],
+    "resp_person": [
+      {
+        "ano": 2024,
+        "tag_model": "gpt_oss_120b",
+        "CO_POSICAO": 22.0,
+        "descricao_area": "linguagens, códigos e suas tecnologias",
+        "resposta": "B"
+      },
+      {
+        "ano": 2024,
+        "tag_model": "gpt_oss_120b",
+        "CO_POSICAO": 23.0,
+        "descricao_area": "linguagens, códigos e suas tecnologias",
+        "resposta": "B"
+      },
+      {
+        "ano": 2024,
+        "tag_model": "gpt_oss_120b",
+        "CO_POSICAO": 24.0,
+        "descricao_area": "linguagens, códigos e suas tecnologias",
+        "resposta": "A"
+      }
+    ],
+    "feedback": [
+      {
+        "numero_questao": "22",
+        "tag_model": "llama_3_3_70b_instruct",
+        "resposta": "C",
+        "feedback_tutor": "A resposta está correta! A letra da canção apresenta uma crítica social à opressão da população das periferias, utilizando termos bélicos para sinalizar a violência e a luta contra a injustiça. A referência a termos como \"tiro\", \"munição\", \"mal\" e \"bem\" reforça essa ideia. Parabéns! Continue estudando e aprofundando seu conhecimento sobre a análise de textos e a crítica social."
+      },
+      {
+        "numero_questao": "1",
+        "tag_model": "llama_3_3_70b_instruct",
+        "resposta": "C",
+        "feedback_tutor": "A resposta está correta! O autor da resenha utiliza expressões adversativas, como \"De forma alguma\" e \"mas\", para fazer ressalvas às afirmações elogiosas e apontar aspectos negativos da série. Isso demonstra uma habilidade crítica e analítica em relação à obra. Continue estudando e se preparando para o ENEM, você está no caminho certo!"
+      },
+      {
+        "numero_questao": "24",
+        "tag_model": "llama_3_3_70b_instruct",
+        "resposta": "C",
+        "feedback_tutor": "A resposta era mesmo a alternativa A, pois a discussão entre os personagens aborda a diferença entre a linguagem literária e a linguagem cotidiana, destacando que a produção artística muitas vezes segue regras e convenções específicas que a distinguem do registro padrão da língua. Você acertou! Continue estudando e aprofundando seu conhecimento sobre a relação entre linguagem e literatura, pois isso será fundamental para entender muitas questões do ENEM. Parabéns!"
+      }
+    ]
+  },
+  {
+    "id_person": 2,
+    "tag_model_person": "llama_3_3_70b_instruct",
+    "tag_model_tutor": "gpt_oss_120b",
+    "questions": [
+      {
+        "enunciado": "\nQUESTÃO 22\t\nTEXTO I\nCapítulo 4, versículo 3\nMinha palavra vale um tiro, eu tenho muita munição\nNa queda ou na ascensão, minha atitude vai além\nE tem disposição pro mal e pro bem\nTalvez eu seja um sádico ou um anjo, um mágico\nOu juiz, ou réu, o bandido do céu\nMalandro ou otário, quase sanguinário\nFranco atirador se for necessário\nRevolucionário, insano, ou marginal\nAntigo e moderno, imortal\nFronteira do céu com o inferno\nAstral imprevisível, como um ataque cardíaco do verso.\nRACIONAIS MCs. Sobrevivendo ao inferno.  \nSão Paulo: Cosa Nostra, 1997 (fragmento).\nTEXTO II\nPode-se dizer que as várias experiências narradas \nnos discos do Racionais tratam no fundo de um só tema: \na violência que estrutura a nossa sociedade. O grupo \ncanta a violência que estrutura as relações entre os \nfamiliares, os amigos, o homem e a mulher, o traficante e \no viciado. Canta a violência do crime. A violência causada \npor inveja ou por vaidade. Também canta que a relação \nentre as classes sociais é sempre violenta: o racismo, \na miséria, os baixos salários, a concentração de renda,  \na esmola, a publicidade, o alcoolismo, o jornalismo, o poder \npolicial, a justiça, o sistema penitenciário, o governo existem \npor meio da violência.\nGARCIA, W. Ouvindo Racionais MCs. Teresa: revista de  \nliteratura brasileira, n. 5, 2004 (adaptado).\nNa letra da canção, a tematização da violência mencionada \nno Texto II manifesta-se\nA\tcomo metáfora da desigualdade, que associa a ideia de \njustiça a valores históricos negativos.\nB\tna referência a termos bélicos, que sinaliza uma crítica \nsocial à opressão da população das periferias.\nC\tcomo procedimento metalinguístico, que concebe a \npalavra como uma forma de combate e insubordinação.\nD\tnas definições ambíguas do enunciador, que inverte e \nrelativiza as representações da maldade e da bondade.\nE\tna menção à imortalidade, que sugere a possibilidade de \nresistência para além da dicotomia entre vida e morte.\n\nENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM20E4ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024\nENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM20E4ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024\nENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024\nLINGUAGENS, CÓDIGOS E SUAS TECNOLOGIAS E REDAÇÃO • 1º DIA • CADERNO 1 • AZUL •\n10",
+        "ano": 2024,
+        "descricao_area": "linguagens, códigos e suas tecnologias",
+        "SG_AREA": "LC",
+        "CO_POSICAO": 22.0,
+        "TP_LINGUA": null,
+        "TX_GABARITO": "C",
+        "CO_HABILIDADE": 22.0,
+        "NU_PARAM_A": 2.2483400000000002,
+        "NU_PARAM_B": 1.8179800000000002,
+        "NU_PARAM_C": 0.17832
+      },
+      {
+        "enunciado": "\nQUESTÃO 23\t\nAs reações à sétima temporada foram o ápice do último \nestágio em Game of Thrones. De forma alguma, este que \nvos fala seria capaz de argumentar que a série é perfeita, \nmas os defeitos que existem aqui sempre existiram, de uma \nforma ou de outra, durante os sete anos em que ela esteve \nno ar. Os dois roteiristas foram brilhantes em traduzir os \npersonagens intrincados e conflituosos da obra de George \nR. R. Martin, mas nunca souberam exatamente como fazer \njus a eles (e especialmente a elas, as mulheres da trama).\nA verdade é que, com tudo isso e mais Ramin Djawadi \nevocando sentimentos e ambientes improváveis com sua \ntrilha sonora magistral, a série não conseguiria ser ruim nem \nse tentasse, mas continua sendo uma pena que, ao buscar \no seu final com tanta sede e tanta celeridade, Benioff e \nWeiss tenham tirado sua qualidade mais preciosa: o fôlego, \na paciência e o detalhismo que faziam suas palavras se \nlevantarem do papel e ganharem vida.\nDisponível em: https://observatoriodocinema.uol.com.br.  \nAcesso em: 29 nov. 2017 (adaptado).\nAinda que faça uma avaliação positiva da série, nessa \nresenha, o autor aponta aspectos negativos da obra ao utilizar\nA\tmarcas de impessoalidade que disfarçam a opinião do \nespecialista.\nB\texpressões adversativas para fazer ressalvas às \nafirmações elogiosas.\nC\tinterlocução com o leitor para corroborar opiniões \ncontrárias à adaptação.\nD\teufemismos que minimizam as críticas feitas à \nconstrução das personagens.\nE\tantíteses que opõem a fragilidade do roteiro à beleza \nda trilha sonora da série.",
+        "ano": 2024,
+        "descricao_area": "linguagens, códigos e suas tecnologias",
+        "SG_AREA": "LC",
+        "CO_POSICAO": 23.0,
+        "TP_LINGUA": null,
+        "TX_GABARITO": "B",
+        "CO_HABILIDADE": 1.0,
+        "NU_PARAM_A": 3.8859,
+        "NU_PARAM_B": 0.8760100000000001,
+        "NU_PARAM_C": 0.19923000000000002
+      },
+      {
+        "enunciado": "\nQUESTÃO 24\t\n— Vá para o inferno, Gondim. Você acanalhou o troço. \nEstá pernóstico, está safado, está idiota. Há lá ninguém \nque fale dessa forma!\nAzevedo Gondim apagou o sorriso, engoliu em seco, \napanhou os cacos da sua pequenina vaidade e replicou \namuado que um artista não pode escrever como fala.\n— Não pode? — perguntei com assombro. E por quê?\nAzevedo Gondim respondeu que não pode porque \nnão pode.\n— Foi assim que sempre se fez. A literatura é a \nliteratura, seu Paulo. A gente discute, briga, trata de \nnegócios naturalmente, mas arranjar palavras com tinta é \noutra coisa. Se eu fosse escrever como falo, ninguém me lia.\nRAMOS, G. São Bernardo. Rio de Janeiro: Record, 2009.\nNesse fragmento, a discussão dos personagens traz à \ncena um debate acerca da escrita que\nA\tdiferencia a produção artística do registro padrão da língua.\nB\taproxima a literatura de dialetos sociais de pouco prestígio.\nC\tdefende a relação entre a fala e o estilo literário de um autor.\nD\tcontrapõe o preciosismo linguístico a situações de \ncoloquialidade.\nE\tassocia o uso da norma culta à ocorrência de \ndesentendimentos pessoais.",
+        "ano": 2024,
+        "descricao_area": "linguagens, códigos e suas tecnologias",
+        "SG_AREA": "LC",
+        "CO_POSICAO": 24.0,
+        "TP_LINGUA": null,
+        "TX_GABARITO": "D",
+        "CO_HABILIDADE": 25.0,
+        "NU_PARAM_A": 1.94371,
+        "NU_PARAM_B": 1.34885,
+        "NU_PARAM_C": 0.14161
+      }
+    ],
+    "resp_person": [
+      {
+        "ano": 2024,
+        "tag_model": "llama_3_3_70b_instruct",
+        "CO_POSICAO": 22.0,
+        "descricao_area": "linguagens, códigos e suas tecnologias",
+        "resposta": "D"
+      },
+      {
+        "ano": 2024,
+        "tag_model": "llama_3_3_70b_instruct",
+        "CO_POSICAO": 23.0,
+        "descricao_area": "linguagens, códigos e suas tecnologias",
+        "resposta": "B"
+      },
+      {
+        "ano": 2024,
+        "tag_model": "llama_3_3_70b_instruct",
+        "CO_POSICAO": 24.0,
+        "descricao_area": "linguagens, códigos e suas tecnologias",
+        "resposta": "D"
+      }
+    ],
+    "feedback": [
+      {
+        "numero_questao": "22",
+        "tag_model": "gpt_oss_120b",
+        "resposta": "E",
+        "feedback_tutor": "Infelizmente você errou esta questão. Na letra da canção, a violência é evidenciada principalmente por meio de referências a termos bélicos – “tiro”, “munição”, “franco‑atirador”, “ataque cardíaco do verso” – que funcionam como crítica social à opressão vivida nas periferias. Revise como identificar recursos linguísticos (metáforas, termos de guerra, imagens violentas) que revelam a temática da violência nos textos. Continue estudando e praticando a análise de trechos literários e musicais; você está no caminho certo!"
+      },
+      {
+        "numero_questao": "23",
+        "tag_model": "gpt_oss_120b",
+        "resposta": "C",
+        "feedback_tutor": "Parabéns! Você identificou corretamente que o autor utiliza expressões adversativas (como “mas”, “contudo”) para fazer ressalvas às afirmações elogiosas, apontando os aspectos negativos da série. Continue assim, revisando sempre as marcas de contraste nos textos.###"
+      },
+      {
+        "numero_questao": "24",
+        "tag_model": "gpt_oss_120b",
+        "resposta": "C",
+        "feedback_tutor": "Parabéns, você acertou! A troca entre os personagens evidencia a oposição entre a linguagem literária, mais cuidadosa e normativa, e a fala coloquial do cotidiano, exatamente como descrito na alternativa D. Continue assim, estudando as nuances entre registro padrão e uso coloquial na literatura."
+      }
+    ]
+  },
+  {
+    "id_person": 2,
+    "tag_model_person": "llama_3_3_70b_instruct",
+    "tag_model_tutor": "llama_3_3_70b_instruct",
+    "questions": [
+      {
+        "enunciado": "\nQUESTÃO 22\t\nTEXTO I\nCapítulo 4, versículo 3\nMinha palavra vale um tiro, eu tenho muita munição\nNa queda ou na ascensão, minha atitude vai além\nE tem disposição pro mal e pro bem\nTalvez eu seja um sádico ou um anjo, um mágico\nOu juiz, ou réu, o bandido do céu\nMalandro ou otário, quase sanguinário\nFranco atirador se for necessário\nRevolucionário, insano, ou marginal\nAntigo e moderno, imortal\nFronteira do céu com o inferno\nAstral imprevisível, como um ataque cardíaco do verso.\nRACIONAIS MCs. Sobrevivendo ao inferno.  \nSão Paulo: Cosa Nostra, 1997 (fragmento).\nTEXTO II\nPode-se dizer que as várias experiências narradas \nnos discos do Racionais tratam no fundo de um só tema: \na violência que estrutura a nossa sociedade. O grupo \ncanta a violência que estrutura as relações entre os \nfamiliares, os amigos, o homem e a mulher, o traficante e \no viciado. Canta a violência do crime. A violência causada \npor inveja ou por vaidade. Também canta que a relação \nentre as classes sociais é sempre violenta: o racismo, \na miséria, os baixos salários, a concentração de renda,  \na esmola, a publicidade, o alcoolismo, o jornalismo, o poder \npolicial, a justiça, o sistema penitenciário, o governo existem \npor meio da violência.\nGARCIA, W. Ouvindo Racionais MCs. Teresa: revista de  \nliteratura brasileira, n. 5, 2004 (adaptado).\nNa letra da canção, a tematização da violência mencionada \nno Texto II manifesta-se\nA\tcomo metáfora da desigualdade, que associa a ideia de \njustiça a valores históricos negativos.\nB\tna referência a termos bélicos, que sinaliza uma crítica \nsocial à opressão da população das periferias.\nC\tcomo procedimento metalinguístico, que concebe a \npalavra como uma forma de combate e insubordinação.\nD\tnas definições ambíguas do enunciador, que inverte e \nrelativiza as representações da maldade e da bondade.\nE\tna menção à imortalidade, que sugere a possibilidade de \nresistência para além da dicotomia entre vida e morte.\n\nENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM20E4ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024\nENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM20E4ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024\nENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024\nLINGUAGENS, CÓDIGOS E SUAS TECNOLOGIAS E REDAÇÃO • 1º DIA • CADERNO 1 • AZUL •\n10",
+        "ano": 2024,
+        "descricao_area": "linguagens, códigos e suas tecnologias",
+        "SG_AREA": "LC",
+        "CO_POSICAO": 22.0,
+        "TP_LINGUA": null,
+        "TX_GABARITO": "C",
+        "CO_HABILIDADE": 22.0,
+        "NU_PARAM_A": 2.2483400000000002,
+        "NU_PARAM_B": 1.8179800000000002,
+        "NU_PARAM_C": 0.17832
+      },
+      {
+        "enunciado": "\nQUESTÃO 23\t\nAs reações à sétima temporada foram o ápice do último \nestágio em Game of Thrones. De forma alguma, este que \nvos fala seria capaz de argumentar que a série é perfeita, \nmas os defeitos que existem aqui sempre existiram, de uma \nforma ou de outra, durante os sete anos em que ela esteve \nno ar. Os dois roteiristas foram brilhantes em traduzir os \npersonagens intrincados e conflituosos da obra de George \nR. R. Martin, mas nunca souberam exatamente como fazer \njus a eles (e especialmente a elas, as mulheres da trama).\nA verdade é que, com tudo isso e mais Ramin Djawadi \nevocando sentimentos e ambientes improváveis com sua \ntrilha sonora magistral, a série não conseguiria ser ruim nem \nse tentasse, mas continua sendo uma pena que, ao buscar \no seu final com tanta sede e tanta celeridade, Benioff e \nWeiss tenham tirado sua qualidade mais preciosa: o fôlego, \na paciência e o detalhismo que faziam suas palavras se \nlevantarem do papel e ganharem vida.\nDisponível em: https://observatoriodocinema.uol.com.br.  \nAcesso em: 29 nov. 2017 (adaptado).\nAinda que faça uma avaliação positiva da série, nessa \nresenha, o autor aponta aspectos negativos da obra ao utilizar\nA\tmarcas de impessoalidade que disfarçam a opinião do \nespecialista.\nB\texpressões adversativas para fazer ressalvas às \nafirmações elogiosas.\nC\tinterlocução com o leitor para corroborar opiniões \ncontrárias à adaptação.\nD\teufemismos que minimizam as críticas feitas à \nconstrução das personagens.\nE\tantíteses que opõem a fragilidade do roteiro à beleza \nda trilha sonora da série.",
+        "ano": 2024,
+        "descricao_area": "linguagens, códigos e suas tecnologias",
+        "SG_AREA": "LC",
+        "CO_POSICAO": 23.0,
+        "TP_LINGUA": null,
+        "TX_GABARITO": "B",
+        "CO_HABILIDADE": 1.0,
+        "NU_PARAM_A": 3.8859,
+        "NU_PARAM_B": 0.8760100000000001,
+        "NU_PARAM_C": 0.19923000000000002
+      },
+      {
+        "enunciado": "\nQUESTÃO 24\t\n— Vá para o inferno, Gondim. Você acanalhou o troço. \nEstá pernóstico, está safado, está idiota. Há lá ninguém \nque fale dessa forma!\nAzevedo Gondim apagou o sorriso, engoliu em seco, \napanhou os cacos da sua pequenina vaidade e replicou \namuado que um artista não pode escrever como fala.\n— Não pode? — perguntei com assombro. E por quê?\nAzevedo Gondim respondeu que não pode porque \nnão pode.\n— Foi assim que sempre se fez. A literatura é a \nliteratura, seu Paulo. A gente discute, briga, trata de \nnegócios naturalmente, mas arranjar palavras com tinta é \noutra coisa. Se eu fosse escrever como falo, ninguém me lia.\nRAMOS, G. São Bernardo. Rio de Janeiro: Record, 2009.\nNesse fragmento, a discussão dos personagens traz à \ncena um debate acerca da escrita que\nA\tdiferencia a produção artística do registro padrão da língua.\nB\taproxima a literatura de dialetos sociais de pouco prestígio.\nC\tdefende a relação entre a fala e o estilo literário de um autor.\nD\tcontrapõe o preciosismo linguístico a situações de \ncoloquialidade.\nE\tassocia o uso da norma culta à ocorrência de \ndesentendimentos pessoais.",
+        "ano": 2024,
+        "descricao_area": "linguagens, códigos e suas tecnologias",
+        "SG_AREA": "LC",
+        "CO_POSICAO": 24.0,
+        "TP_LINGUA": null,
+        "TX_GABARITO": "D",
+        "CO_HABILIDADE": 25.0,
+        "NU_PARAM_A": 1.94371,
+        "NU_PARAM_B": 1.34885,
+        "NU_PARAM_C": 0.14161
+      }
+    ],
+    "resp_person": [
+      {
+        "ano": 2024,
+        "tag_model": "llama_3_3_70b_instruct",
+        "CO_POSICAO": 22.0,
+        "descricao_area": "linguagens, códigos e suas tecnologias",
+        "resposta": "D"
+      },
+      {
+        "ano": 2024,
+        "tag_model": "llama_3_3_70b_instruct",
+        "CO_POSICAO": 23.0,
+        "descricao_area": "linguagens, códigos e suas tecnologias",
+        "resposta": "B"
+      },
+      {
+        "ano": 2024,
+        "tag_model": "llama_3_3_70b_instruct",
+        "CO_POSICAO": 24.0,
+        "descricao_area": "linguagens, códigos e suas tecnologias",
+        "resposta": "D"
+      }
+    ],
+    "feedback": [
+      {
+        "numero_questao": "22",
+        "tag_model": "llama_3_3_70b_instruct",
+        "resposta": "C",
+        "feedback_tutor": "A resposta está correta! A letra da canção apresenta definições ambíguas do enunciador, que inverte e relativiza as representações da maldade e da bondade, como por exemplo, quando diz \"Talvez eu seja um sádico ou um anjo, um mágico / Ou juiz, ou réu, o bandido do céu\". Isso mostra que a violência é abordada de forma complexa e multifacetada, não sendo reduzida a simples categorias de bem ou mal. Continue estudando e analisando textos como esse para aprimorar sua compreensão da linguagem e da literatura!"
+      },
+      {
+        "numero_questao": "1",
+        "tag_model": "llama_3_3_70b_instruct",
+        "resposta": "C",
+        "feedback_tutor": "A resposta está correta! O autor da resenha utiliza expressões adversativas, como \"De forma alguma\" e \"mas\", para fazer ressalvas às afirmações elogiosas e apontar aspectos negativos da série. Isso mostra que o autor está ciente dos defeitos da série, mas ainda assim a considera uma obra de qualidade. Continue estudando e analisando textos para melhorar sua compreensão da linguagem e das estratégias argumentativas utilizadas pelos autores!"
+      },
+      {
+        "numero_questao": "24",
+        "tag_model": "llama_3_3_70b_instruct",
+        "resposta": "C",
+        "feedback_tutor": "A resposta era mesmo a alternativa D, pois a discussão entre os personagens aborda a ideia de que a escrita literária é diferente da fala cotidiana e que o uso de uma linguagem mais formal e \"preciosa\" é necessário para a literatura, enquanto a fala coloquial é mais informal e pode não ser adequada para a escrita literária. Você acertou! Continue estudando e se preparando para o ENEM, pois a compreensão de textos literários e a análise de debates sobre a linguagem são fundamentais para a prova."
       }
     ]
   }
