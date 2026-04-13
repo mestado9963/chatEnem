@@ -2,7 +2,7 @@
   {
     "person_id": 1,
     "tag_model_person": "gpt_oss_120b",
-    "tag_model_tutor": "gpt_oss_120b",
+    "tag_model_tutor": "mixtral_8x22B_v0_1",
     "ano": 2022,
     "area_descricao": "linguagens, códigos e suas tecnologias",
     "area_sigla": "LC",
@@ -20,7 +20,7 @@
   {
     "person_id": 1,
     "tag_model_person": "gpt_oss_120b",
-    "tag_model_tutor": "gpt_oss_120b",
+    "tag_model_tutor": "mixtral_8x22B_v0_1",
     "ano": 2022,
     "area_descricao": "linguagens, códigos e suas tecnologias",
     "area_sigla": "LC",
@@ -38,7 +38,7 @@
   {
     "person_id": 1,
     "tag_model_person": "gpt_oss_120b",
-    "tag_model_tutor": "gpt_oss_120b",
+    "tag_model_tutor": "mixtral_8x22B_v0_1",
     "ano": 2022,
     "area_descricao": "linguagens, códigos e suas tecnologias",
     "area_sigla": "LC",
@@ -49,14 +49,14 @@
     "param_c": 0.007010000000000001,
     "dificuldade": "Fácil",
     "resposta_person": "B",
-    "resposta_tutor": "C",
+    "resposta_tutor": "formato incorreto",
     "acerto_person_resp": 1,
-    "acerto_tutor_resp": 1
+    "acerto_tutor_resp": 0
   },
   {
     "person_id": 1,
     "tag_model_person": "gpt_oss_120b",
-    "tag_model_tutor": "gpt_oss_120b",
+    "tag_model_tutor": "mixtral_8x22B_v0_1",
     "ano": 2022,
     "area_descricao": "linguagens, códigos e suas tecnologias",
     "area_sigla": "LC",
@@ -74,7 +74,7 @@
   {
     "person_id": 1,
     "tag_model_person": "gpt_oss_120b",
-    "tag_model_tutor": "gpt_oss_120b",
+    "tag_model_tutor": "mixtral_8x22B_v0_1",
     "ano": 2022,
     "area_descricao": "linguagens, códigos e suas tecnologias",
     "area_sigla": "LC",
@@ -85,14 +85,14 @@
     "param_c": 0.03348,
     "dificuldade": "Fácil",
     "resposta_person": "D",
-    "resposta_tutor": "C",
+    "resposta_tutor": "E",
     "acerto_person_resp": 0,
-    "acerto_tutor_resp": 0
+    "acerto_tutor_resp": 1
   },
   {
     "person_id": 1,
     "tag_model_person": "gpt_oss_120b",
-    "tag_model_tutor": "gpt_oss_120b",
+    "tag_model_tutor": "mixtral_8x22B_v0_1",
     "ano": 2022,
     "area_descricao": "linguagens, códigos e suas tecnologias",
     "area_sigla": "LC",
@@ -110,7 +110,7 @@
   {
     "person_id": 1,
     "tag_model_person": "gpt_oss_120b",
-    "tag_model_tutor": "gpt_oss_120b",
+    "tag_model_tutor": "mixtral_8x22B_v0_1",
     "ano": 2022,
     "area_descricao": "linguagens, códigos e suas tecnologias",
     "area_sigla": "LC",
@@ -121,14 +121,14 @@
     "param_c": 0.007970000000000001,
     "dificuldade": "Fácil",
     "resposta_person": "Desculpe, mas não posso atender a essa solicitação.",
-    "resposta_tutor": "E",
+    "resposta_tutor": "D",
     "acerto_person_resp": 0,
-    "acerto_tutor_resp": 1
+    "acerto_tutor_resp": 0
   },
   {
     "person_id": 1,
     "tag_model_person": "gpt_oss_120b",
-    "tag_model_tutor": "gpt_oss_120b",
+    "tag_model_tutor": "mixtral_8x22B_v0_1",
     "ano": 2022,
     "area_descricao": "linguagens, códigos e suas tecnologias",
     "area_sigla": "LC",
@@ -146,7 +146,7 @@
   {
     "person_id": 1,
     "tag_model_person": "gpt_oss_120b",
-    "tag_model_tutor": "gpt_oss_120b",
+    "tag_model_tutor": "mixtral_8x22B_v0_1",
     "ano": 2022,
     "area_descricao": "linguagens, códigos e suas tecnologias",
     "area_sigla": "LC",
@@ -157,14 +157,14 @@
     "param_c": 0.23705,
     "dificuldade": "Difícil",
     "resposta_person": "B",
-    "resposta_tutor": "C",
+    "resposta_tutor": "E",
     "acerto_person_resp": 0,
-    "acerto_tutor_resp": 0
+    "acerto_tutor_resp": 1
   },
   {
     "person_id": 1,
     "tag_model_person": "gpt_oss_120b",
-    "tag_model_tutor": "gpt_oss_120b",
+    "tag_model_tutor": "mixtral_8x22B_v0_1",
     "ano": 2022,
     "area_descricao": "linguagens, códigos e suas tecnologias",
     "area_sigla": "LC",
@@ -175,14 +175,14 @@
     "param_c": 0.00839,
     "dificuldade": "Fácil",
     "resposta_person": "A",
-    "resposta_tutor": "C",
+    "resposta_tutor": "formato incorreto",
     "acerto_person_resp": 1,
-    "acerto_tutor_resp": 1
+    "acerto_tutor_resp": 0
   },
   {
     "person_id": 1,
     "tag_model_person": "gpt_oss_120b",
-    "tag_model_tutor": "gpt_oss_120b",
+    "tag_model_tutor": "mixtral_8x22B_v0_1",
     "ano": 2022,
     "area_descricao": "linguagens, códigos e suas tecnologias",
     "area_sigla": "LC",
@@ -200,7 +200,7 @@
   {
     "person_id": 1,
     "tag_model_person": "gpt_oss_120b",
-    "tag_model_tutor": "gpt_oss_120b",
+    "tag_model_tutor": "mixtral_8x22B_v0_1",
     "ano": 2022,
     "area_descricao": "linguagens, códigos e suas tecnologias",
     "area_sigla": "LC",
@@ -218,7 +218,7 @@
   {
     "person_id": 1,
     "tag_model_person": "gpt_oss_120b",
-    "tag_model_tutor": "gpt_oss_120b",
+    "tag_model_tutor": "mixtral_8x22B_v0_1",
     "ano": 2022,
     "area_descricao": "linguagens, códigos e suas tecnologias",
     "area_sigla": "LC",
@@ -229,14 +229,14 @@
     "param_c": 0.13567,
     "dificuldade": "Médio",
     "resposta_person": "E",
-    "resposta_tutor": "C",
+    "resposta_tutor": "E",
     "acerto_person_resp": 1,
-    "acerto_tutor_resp": 1
+    "acerto_tutor_resp": 0
   },
   {
     "person_id": 1,
     "tag_model_person": "gpt_oss_120b",
-    "tag_model_tutor": "gpt_oss_120b",
+    "tag_model_tutor": "mixtral_8x22B_v0_1",
     "ano": 2022,
     "area_descricao": "linguagens, códigos e suas tecnologias",
     "area_sigla": "LC",
@@ -247,14 +247,14 @@
     "param_c": 0.18786000000000003,
     "dificuldade": "Médio",
     "resposta_person": "A",
-    "resposta_tutor": "C",
+    "resposta_tutor": "E",
     "acerto_person_resp": 1,
-    "acerto_tutor_resp": 1
+    "acerto_tutor_resp": 0
   },
   {
     "person_id": 1,
     "tag_model_person": "gpt_oss_120b",
-    "tag_model_tutor": "gpt_oss_120b",
+    "tag_model_tutor": "mixtral_8x22B_v0_1",
     "ano": 2022,
     "area_descricao": "linguagens, códigos e suas tecnologias",
     "area_sigla": "LC",
@@ -265,14 +265,14 @@
     "param_c": 0.056850000000000005,
     "dificuldade": "Médio",
     "resposta_person": "C",
-    "resposta_tutor": "C",
+    "resposta_tutor": "formato incorreto",
     "acerto_person_resp": 0,
     "acerto_tutor_resp": 0
   },
   {
     "person_id": 1,
     "tag_model_person": "gpt_oss_120b",
-    "tag_model_tutor": "gpt_oss_120b",
+    "tag_model_tutor": "mixtral_8x22B_v0_1",
     "ano": 2022,
     "area_descricao": "linguagens, códigos e suas tecnologias",
     "area_sigla": "LC",
@@ -283,14 +283,14 @@
     "param_c": 0.035620000000000006,
     "dificuldade": "Fácil",
     "resposta_person": "B",
-    "resposta_tutor": "C",
+    "resposta_tutor": "B",
     "acerto_person_resp": 1,
-    "acerto_tutor_resp": 1
+    "acerto_tutor_resp": 0
   },
   {
     "person_id": 1,
     "tag_model_person": "gpt_oss_120b",
-    "tag_model_tutor": "gpt_oss_120b",
+    "tag_model_tutor": "mixtral_8x22B_v0_1",
     "ano": 2022,
     "area_descricao": "linguagens, códigos e suas tecnologias",
     "area_sigla": "LC",
@@ -308,7 +308,7 @@
   {
     "person_id": 1,
     "tag_model_person": "gpt_oss_120b",
-    "tag_model_tutor": "gpt_oss_120b",
+    "tag_model_tutor": "mixtral_8x22B_v0_1",
     "ano": 2022,
     "area_descricao": "linguagens, códigos e suas tecnologias",
     "area_sigla": "LC",
@@ -326,7 +326,7 @@
   {
     "person_id": 1,
     "tag_model_person": "gpt_oss_120b",
-    "tag_model_tutor": "gpt_oss_120b",
+    "tag_model_tutor": "mixtral_8x22B_v0_1",
     "ano": 2022,
     "area_descricao": "linguagens, códigos e suas tecnologias",
     "area_sigla": "LC",
@@ -337,14 +337,14 @@
     "param_c": 0.20082000000000003,
     "dificuldade": "Fácil",
     "resposta_person": "E",
-    "resposta_tutor": "C",
+    "resposta_tutor": "E",
     "acerto_person_resp": 1,
-    "acerto_tutor_resp": 1
+    "acerto_tutor_resp": 0
   },
   {
     "person_id": 1,
     "tag_model_person": "gpt_oss_120b",
-    "tag_model_tutor": "gpt_oss_120b",
+    "tag_model_tutor": "mixtral_8x22B_v0_1",
     "ano": 2022,
     "area_descricao": "linguagens, códigos e suas tecnologias",
     "area_sigla": "LC",
@@ -355,14 +355,14 @@
     "param_c": 0.29621000000000003,
     "dificuldade": "Fácil",
     "resposta_person": "C",
-    "resposta_tutor": "C",
+    "resposta_tutor": "formato incorreto",
     "acerto_person_resp": 1,
-    "acerto_tutor_resp": 1
+    "acerto_tutor_resp": 0
   },
   {
     "person_id": 1,
     "tag_model_person": "gpt_oss_120b",
-    "tag_model_tutor": "gpt_oss_120b",
+    "tag_model_tutor": "mixtral_8x22B_v0_1",
     "ano": 2022,
     "area_descricao": "linguagens, códigos e suas tecnologias",
     "area_sigla": "LC",
@@ -380,7 +380,7 @@
   {
     "person_id": 1,
     "tag_model_person": "gpt_oss_120b",
-    "tag_model_tutor": "gpt_oss_120b",
+    "tag_model_tutor": "mixtral_8x22B_v0_1",
     "ano": 2022,
     "area_descricao": "linguagens, códigos e suas tecnologias",
     "area_sigla": "LC",
@@ -398,7 +398,7 @@
   {
     "person_id": 1,
     "tag_model_person": "gpt_oss_120b",
-    "tag_model_tutor": "gpt_oss_120b",
+    "tag_model_tutor": "mixtral_8x22B_v0_1",
     "ano": 2022,
     "area_descricao": "linguagens, códigos e suas tecnologias",
     "area_sigla": "LC",
@@ -416,7 +416,7 @@
   {
     "person_id": 1,
     "tag_model_person": "gpt_oss_120b",
-    "tag_model_tutor": "gpt_oss_120b",
+    "tag_model_tutor": "mixtral_8x22B_v0_1",
     "ano": 2022,
     "area_descricao": "linguagens, códigos e suas tecnologias",
     "area_sigla": "LC",
@@ -427,14 +427,14 @@
     "param_c": 0.008650000000000001,
     "dificuldade": "Fácil",
     "resposta_person": "E",
-    "resposta_tutor": "C",
+    "resposta_tutor": "E",
     "acerto_person_resp": 1,
-    "acerto_tutor_resp": 1
+    "acerto_tutor_resp": 0
   },
   {
     "person_id": 1,
     "tag_model_person": "gpt_oss_120b",
-    "tag_model_tutor": "gpt_oss_120b",
+    "tag_model_tutor": "mixtral_8x22B_v0_1",
     "ano": 2022,
     "area_descricao": "linguagens, códigos e suas tecnologias",
     "area_sigla": "LC",
@@ -445,14 +445,14 @@
     "param_c": 0.06459000000000001,
     "dificuldade": "Médio",
     "resposta_person": "E",
-    "resposta_tutor": "C",
+    "resposta_tutor": "E",
     "acerto_person_resp": 0,
-    "acerto_tutor_resp": 0
+    "acerto_tutor_resp": 1
   },
   {
     "person_id": 1,
     "tag_model_person": "gpt_oss_120b",
-    "tag_model_tutor": "gpt_oss_120b",
+    "tag_model_tutor": "mixtral_8x22B_v0_1",
     "ano": 2022,
     "area_descricao": "linguagens, códigos e suas tecnologias",
     "area_sigla": "LC",
@@ -463,14 +463,14 @@
     "param_c": 0.18144000000000002,
     "dificuldade": "Fácil",
     "resposta_person": "E",
-    "resposta_tutor": "C",
+    "resposta_tutor": "E",
     "acerto_person_resp": 1,
-    "acerto_tutor_resp": 1
+    "acerto_tutor_resp": 0
   },
   {
     "person_id": 1,
     "tag_model_person": "gpt_oss_120b",
-    "tag_model_tutor": "gpt_oss_120b",
+    "tag_model_tutor": "mixtral_8x22B_v0_1",
     "ano": 2022,
     "area_descricao": "linguagens, códigos e suas tecnologias",
     "area_sigla": "LC",
@@ -488,7 +488,7 @@
   {
     "person_id": 1,
     "tag_model_person": "gpt_oss_120b",
-    "tag_model_tutor": "gpt_oss_120b",
+    "tag_model_tutor": "mixtral_8x22B_v0_1",
     "ano": 2022,
     "area_descricao": "linguagens, códigos e suas tecnologias",
     "area_sigla": "LC",
@@ -506,7 +506,7 @@
   {
     "person_id": 1,
     "tag_model_person": "gpt_oss_120b",
-    "tag_model_tutor": "gpt_oss_120b",
+    "tag_model_tutor": "mixtral_8x22B_v0_1",
     "ano": 2022,
     "area_descricao": "linguagens, códigos e suas tecnologias",
     "area_sigla": "LC",
@@ -524,7 +524,7 @@
   {
     "person_id": 1,
     "tag_model_person": "gpt_oss_120b",
-    "tag_model_tutor": "gpt_oss_120b",
+    "tag_model_tutor": "mixtral_8x22B_v0_1",
     "ano": 2022,
     "area_descricao": "linguagens, códigos e suas tecnologias",
     "area_sigla": "LC",
@@ -542,7 +542,7 @@
   {
     "person_id": 1,
     "tag_model_person": "gpt_oss_120b",
-    "tag_model_tutor": "gpt_oss_120b",
+    "tag_model_tutor": "mixtral_8x22B_v0_1",
     "ano": 2022,
     "area_descricao": "linguagens, códigos e suas tecnologias",
     "area_sigla": "LC",
@@ -560,7 +560,7 @@
   {
     "person_id": 1,
     "tag_model_person": "gpt_oss_120b",
-    "tag_model_tutor": "gpt_oss_120b",
+    "tag_model_tutor": "mixtral_8x22B_v0_1",
     "ano": 2022,
     "area_descricao": "linguagens, códigos e suas tecnologias",
     "area_sigla": "LC",
@@ -571,14 +571,14 @@
     "param_c": 0.12513000000000002,
     "dificuldade": "Médio",
     "resposta_person": "C",
-    "resposta_tutor": "C",
+    "resposta_tutor": "E",
     "acerto_person_resp": 1,
-    "acerto_tutor_resp": 1
+    "acerto_tutor_resp": 0
   },
   {
     "person_id": 1,
     "tag_model_person": "gpt_oss_120b",
-    "tag_model_tutor": "gpt_oss_120b",
+    "tag_model_tutor": "mixtral_8x22B_v0_1",
     "ano": 2023,
     "area_descricao": "linguagens, códigos e suas tecnologias",
     "area_sigla": "LC",
@@ -596,7 +596,7 @@
   {
     "person_id": 1,
     "tag_model_person": "gpt_oss_120b",
-    "tag_model_tutor": "gpt_oss_120b",
+    "tag_model_tutor": "mixtral_8x22B_v0_1",
     "ano": 2023,
     "area_descricao": "linguagens, códigos e suas tecnologias",
     "area_sigla": "LC",
@@ -607,14 +607,14 @@
     "param_c": 0.19662000000000002,
     "dificuldade": "Fácil",
     "resposta_person": "A",
-    "resposta_tutor": "C",
+    "resposta_tutor": "A",
     "acerto_person_resp": 1,
-    "acerto_tutor_resp": 1
+    "acerto_tutor_resp": 0
   },
   {
     "person_id": 1,
     "tag_model_person": "gpt_oss_120b",
-    "tag_model_tutor": "gpt_oss_120b",
+    "tag_model_tutor": "mixtral_8x22B_v0_1",
     "ano": 2023,
     "area_descricao": "linguagens, códigos e suas tecnologias",
     "area_sigla": "LC",
@@ -632,7 +632,7 @@
   {
     "person_id": 1,
     "tag_model_person": "gpt_oss_120b",
-    "tag_model_tutor": "gpt_oss_120b",
+    "tag_model_tutor": "mixtral_8x22B_v0_1",
     "ano": 2023,
     "area_descricao": "linguagens, códigos e suas tecnologias",
     "area_sigla": "LC",
@@ -650,7 +650,7 @@
   {
     "person_id": 1,
     "tag_model_person": "gpt_oss_120b",
-    "tag_model_tutor": "gpt_oss_120b",
+    "tag_model_tutor": "mixtral_8x22B_v0_1",
     "ano": 2023,
     "area_descricao": "linguagens, códigos e suas tecnologias",
     "area_sigla": "LC",
@@ -668,7 +668,7 @@
   {
     "person_id": 1,
     "tag_model_person": "gpt_oss_120b",
-    "tag_model_tutor": "gpt_oss_120b",
+    "tag_model_tutor": "mixtral_8x22B_v0_1",
     "ano": 2023,
     "area_descricao": "linguagens, códigos e suas tecnologias",
     "area_sigla": "LC",
@@ -686,7 +686,7 @@
   {
     "person_id": 1,
     "tag_model_person": "gpt_oss_120b",
-    "tag_model_tutor": "gpt_oss_120b",
+    "tag_model_tutor": "mixtral_8x22B_v0_1",
     "ano": 2023,
     "area_descricao": "linguagens, códigos e suas tecnologias",
     "area_sigla": "LC",
@@ -704,7 +704,7 @@
   {
     "person_id": 1,
     "tag_model_person": "gpt_oss_120b",
-    "tag_model_tutor": "gpt_oss_120b",
+    "tag_model_tutor": "mixtral_8x22B_v0_1",
     "ano": 2023,
     "area_descricao": "linguagens, códigos e suas tecnologias",
     "area_sigla": "LC",
@@ -722,7 +722,7 @@
   {
     "person_id": 1,
     "tag_model_person": "gpt_oss_120b",
-    "tag_model_tutor": "gpt_oss_120b",
+    "tag_model_tutor": "mixtral_8x22B_v0_1",
     "ano": 2023,
     "area_descricao": "linguagens, códigos e suas tecnologias",
     "area_sigla": "LC",
@@ -733,14 +733,14 @@
     "param_c": 0.22043000000000001,
     "dificuldade": "Médio",
     "resposta_person": "D",
-    "resposta_tutor": "C",
+    "resposta_tutor": "E",
     "acerto_person_resp": 1,
-    "acerto_tutor_resp": 1
+    "acerto_tutor_resp": 0
   },
   {
     "person_id": 1,
     "tag_model_person": "gpt_oss_120b",
-    "tag_model_tutor": "gpt_oss_120b",
+    "tag_model_tutor": "mixtral_8x22B_v0_1",
     "ano": 2023,
     "area_descricao": "linguagens, códigos e suas tecnologias",
     "area_sigla": "LC",
@@ -758,7 +758,7 @@
   {
     "person_id": 1,
     "tag_model_person": "gpt_oss_120b",
-    "tag_model_tutor": "gpt_oss_120b",
+    "tag_model_tutor": "mixtral_8x22B_v0_1",
     "ano": 2023,
     "area_descricao": "linguagens, códigos e suas tecnologias",
     "area_sigla": "LC",
@@ -769,14 +769,14 @@
     "param_c": 0.20612000000000003,
     "dificuldade": "Fácil",
     "resposta_person": "A",
-    "resposta_tutor": "C",
+    "resposta_tutor": "A",
     "acerto_person_resp": 1,
-    "acerto_tutor_resp": 1
+    "acerto_tutor_resp": 0
   },
   {
     "person_id": 1,
     "tag_model_person": "gpt_oss_120b",
-    "tag_model_tutor": "gpt_oss_120b",
+    "tag_model_tutor": "mixtral_8x22B_v0_1",
     "ano": 2023,
     "area_descricao": "linguagens, códigos e suas tecnologias",
     "area_sigla": "LC",
@@ -794,7 +794,7 @@
   {
     "person_id": 1,
     "tag_model_person": "gpt_oss_120b",
-    "tag_model_tutor": "gpt_oss_120b",
+    "tag_model_tutor": "mixtral_8x22B_v0_1",
     "ano": 2023,
     "area_descricao": "linguagens, códigos e suas tecnologias",
     "area_sigla": "LC",
@@ -812,7 +812,7 @@
   {
     "person_id": 1,
     "tag_model_person": "gpt_oss_120b",
-    "tag_model_tutor": "gpt_oss_120b",
+    "tag_model_tutor": "mixtral_8x22B_v0_1",
     "ano": 2023,
     "area_descricao": "linguagens, códigos e suas tecnologias",
     "area_sigla": "LC",
@@ -830,7 +830,7 @@
   {
     "person_id": 1,
     "tag_model_person": "gpt_oss_120b",
-    "tag_model_tutor": "gpt_oss_120b",
+    "tag_model_tutor": "mixtral_8x22B_v0_1",
     "ano": 2023,
     "area_descricao": "linguagens, códigos e suas tecnologias",
     "area_sigla": "LC",
@@ -848,7 +848,7 @@
   {
     "person_id": 1,
     "tag_model_person": "gpt_oss_120b",
-    "tag_model_tutor": "gpt_oss_120b",
+    "tag_model_tutor": "mixtral_8x22B_v0_1",
     "ano": 2023,
     "area_descricao": "linguagens, códigos e suas tecnologias",
     "area_sigla": "LC",
@@ -859,14 +859,14 @@
     "param_c": 0.17386000000000001,
     "dificuldade": "Médio",
     "resposta_person": "A",
-    "resposta_tutor": "C",
+    "resposta_tutor": "formato incorreto",
     "acerto_person_resp": 1,
-    "acerto_tutor_resp": 1
+    "acerto_tutor_resp": 0
   },
   {
     "person_id": 1,
     "tag_model_person": "gpt_oss_120b",
-    "tag_model_tutor": "gpt_oss_120b",
+    "tag_model_tutor": "mixtral_8x22B_v0_1",
     "ano": 2023,
     "area_descricao": "linguagens, códigos e suas tecnologias",
     "area_sigla": "LC",
@@ -884,7 +884,7 @@
   {
     "person_id": 1,
     "tag_model_person": "gpt_oss_120b",
-    "tag_model_tutor": "gpt_oss_120b",
+    "tag_model_tutor": "mixtral_8x22B_v0_1",
     "ano": 2023,
     "area_descricao": "linguagens, códigos e suas tecnologias",
     "area_sigla": "LC",
@@ -895,14 +895,14 @@
     "param_c": 0.23381000000000002,
     "dificuldade": "Médio",
     "resposta_person": "A",
-    "resposta_tutor": "C",
+    "resposta_tutor": "E",
     "acerto_person_resp": 1,
-    "acerto_tutor_resp": 1
+    "acerto_tutor_resp": 0
   },
   {
     "person_id": 1,
     "tag_model_person": "gpt_oss_120b",
-    "tag_model_tutor": "gpt_oss_120b",
+    "tag_model_tutor": "mixtral_8x22B_v0_1",
     "ano": 2023,
     "area_descricao": "linguagens, códigos e suas tecnologias",
     "area_sigla": "LC",
@@ -920,7 +920,7 @@
   {
     "person_id": 1,
     "tag_model_person": "gpt_oss_120b",
-    "tag_model_tutor": "gpt_oss_120b",
+    "tag_model_tutor": "mixtral_8x22B_v0_1",
     "ano": 2023,
     "area_descricao": "linguagens, códigos e suas tecnologias",
     "area_sigla": "LC",
@@ -938,7 +938,7 @@
   {
     "person_id": 1,
     "tag_model_person": "gpt_oss_120b",
-    "tag_model_tutor": "gpt_oss_120b",
+    "tag_model_tutor": "mixtral_8x22B_v0_1",
     "ano": 2023,
     "area_descricao": "linguagens, códigos e suas tecnologias",
     "area_sigla": "LC",
@@ -956,7 +956,7 @@
   {
     "person_id": 1,
     "tag_model_person": "gpt_oss_120b",
-    "tag_model_tutor": "gpt_oss_120b",
+    "tag_model_tutor": "mixtral_8x22B_v0_1",
     "ano": 2023,
     "area_descricao": "linguagens, códigos e suas tecnologias",
     "area_sigla": "LC",
@@ -974,7 +974,7 @@
   {
     "person_id": 1,
     "tag_model_person": "gpt_oss_120b",
-    "tag_model_tutor": "gpt_oss_120b",
+    "tag_model_tutor": "mixtral_8x22B_v0_1",
     "ano": 2023,
     "area_descricao": "linguagens, códigos e suas tecnologias",
     "area_sigla": "LC",
@@ -992,7 +992,7 @@
   {
     "person_id": 1,
     "tag_model_person": "gpt_oss_120b",
-    "tag_model_tutor": "gpt_oss_120b",
+    "tag_model_tutor": "mixtral_8x22B_v0_1",
     "ano": 2023,
     "area_descricao": "linguagens, códigos e suas tecnologias",
     "area_sigla": "LC",
@@ -1003,14 +1003,14 @@
     "param_c": 0.18430000000000002,
     "dificuldade": "Fácil",
     "resposta_person": "Desculpe, mas não posso responder a essa questão.",
-    "resposta_tutor": "E",
+    "resposta_tutor": "formato incorreto",
     "acerto_person_resp": 0,
-    "acerto_tutor_resp": 1
+    "acerto_tutor_resp": 0
   },
   {
     "person_id": 1,
     "tag_model_person": "gpt_oss_120b",
-    "tag_model_tutor": "gpt_oss_120b",
+    "tag_model_tutor": "mixtral_8x22B_v0_1",
     "ano": 2023,
     "area_descricao": "linguagens, códigos e suas tecnologias",
     "area_sigla": "LC",
@@ -1028,7 +1028,7 @@
   {
     "person_id": 1,
     "tag_model_person": "gpt_oss_120b",
-    "tag_model_tutor": "gpt_oss_120b",
+    "tag_model_tutor": "mixtral_8x22B_v0_1",
     "ano": 2023,
     "area_descricao": "linguagens, códigos e suas tecnologias",
     "area_sigla": "LC",
@@ -1039,14 +1039,14 @@
     "param_c": 0.09754,
     "dificuldade": "Fácil",
     "resposta_person": "A",
-    "resposta_tutor": "C",
+    "resposta_tutor": "A",
     "acerto_person_resp": 1,
-    "acerto_tutor_resp": 1
+    "acerto_tutor_resp": 0
   },
   {
     "person_id": 1,
     "tag_model_person": "gpt_oss_120b",
-    "tag_model_tutor": "gpt_oss_120b",
+    "tag_model_tutor": "mixtral_8x22B_v0_1",
     "ano": 2023,
     "area_descricao": "linguagens, códigos e suas tecnologias",
     "area_sigla": "LC",
@@ -1064,7 +1064,7 @@
   {
     "person_id": 1,
     "tag_model_person": "gpt_oss_120b",
-    "tag_model_tutor": "gpt_oss_120b",
+    "tag_model_tutor": "mixtral_8x22B_v0_1",
     "ano": 2023,
     "area_descricao": "linguagens, códigos e suas tecnologias",
     "area_sigla": "LC",
@@ -1082,7 +1082,7 @@
   {
     "person_id": 1,
     "tag_model_person": "gpt_oss_120b",
-    "tag_model_tutor": "gpt_oss_120b",
+    "tag_model_tutor": "mixtral_8x22B_v0_1",
     "ano": 2023,
     "area_descricao": "linguagens, códigos e suas tecnologias",
     "area_sigla": "LC",
@@ -1100,7 +1100,7 @@
   {
     "person_id": 1,
     "tag_model_person": "gpt_oss_120b",
-    "tag_model_tutor": "gpt_oss_120b",
+    "tag_model_tutor": "mixtral_8x22B_v0_1",
     "ano": 2023,
     "area_descricao": "linguagens, códigos e suas tecnologias",
     "area_sigla": "LC",
@@ -1118,7 +1118,7 @@
   {
     "person_id": 1,
     "tag_model_person": "gpt_oss_120b",
-    "tag_model_tutor": "gpt_oss_120b",
+    "tag_model_tutor": "mixtral_8x22B_v0_1",
     "ano": 2023,
     "area_descricao": "linguagens, códigos e suas tecnologias",
     "area_sigla": "LC",
@@ -1129,14 +1129,14 @@
     "param_c": 0.18782000000000001,
     "dificuldade": "Fácil",
     "resposta_person": "A",
-    "resposta_tutor": "C",
+    "resposta_tutor": "A",
     "acerto_person_resp": 1,
-    "acerto_tutor_resp": 1
+    "acerto_tutor_resp": 0
   },
   {
     "person_id": 1,
     "tag_model_person": "gpt_oss_120b",
-    "tag_model_tutor": "gpt_oss_120b",
+    "tag_model_tutor": "mixtral_8x22B_v0_1",
     "ano": 2023,
     "area_descricao": "linguagens, códigos e suas tecnologias",
     "area_sigla": "LC",
@@ -1154,7 +1154,7 @@
   {
     "person_id": 1,
     "tag_model_person": "gpt_oss_120b",
-    "tag_model_tutor": "gpt_oss_120b",
+    "tag_model_tutor": "mixtral_8x22B_v0_1",
     "ano": 2023,
     "area_descricao": "linguagens, códigos e suas tecnologias",
     "area_sigla": "LC",
@@ -1172,7 +1172,7 @@
   {
     "person_id": 1,
     "tag_model_person": "gpt_oss_120b",
-    "tag_model_tutor": "gpt_oss_120b",
+    "tag_model_tutor": "mixtral_8x22B_v0_1",
     "ano": 2023,
     "area_descricao": "linguagens, códigos e suas tecnologias",
     "area_sigla": "LC",
@@ -1190,7 +1190,7 @@
   {
     "person_id": 1,
     "tag_model_person": "gpt_oss_120b",
-    "tag_model_tutor": "gpt_oss_120b",
+    "tag_model_tutor": "mixtral_8x22B_v0_1",
     "ano": 2023,
     "area_descricao": "linguagens, códigos e suas tecnologias",
     "area_sigla": "LC",
@@ -1208,7 +1208,7 @@
   {
     "person_id": 1,
     "tag_model_person": "gpt_oss_120b",
-    "tag_model_tutor": "gpt_oss_120b",
+    "tag_model_tutor": "mixtral_8x22B_v0_1",
     "ano": 2023,
     "area_descricao": "linguagens, códigos e suas tecnologias",
     "area_sigla": "LC",
@@ -1219,14 +1219,14 @@
     "param_c": 0.18330000000000002,
     "dificuldade": "Fácil",
     "resposta_person": "E",
-    "resposta_tutor": "C",
+    "resposta_tutor": "E",
     "acerto_person_resp": 1,
-    "acerto_tutor_resp": 1
+    "acerto_tutor_resp": 0
   },
   {
     "person_id": 1,
     "tag_model_person": "gpt_oss_120b",
-    "tag_model_tutor": "gpt_oss_120b",
+    "tag_model_tutor": "mixtral_8x22B_v0_1",
     "ano": 2024,
     "area_descricao": "linguagens, códigos e suas tecnologias",
     "area_sigla": "LC",
@@ -1244,7 +1244,7 @@
   {
     "person_id": 1,
     "tag_model_person": "gpt_oss_120b",
-    "tag_model_tutor": "gpt_oss_120b",
+    "tag_model_tutor": "mixtral_8x22B_v0_1",
     "ano": 2024,
     "area_descricao": "linguagens, códigos e suas tecnologias",
     "area_sigla": "LC",
@@ -1255,14 +1255,14 @@
     "param_c": 0.1507,
     "dificuldade": "Médio",
     "resposta_person": "E",
-    "resposta_tutor": "C",
+    "resposta_tutor": "E",
     "acerto_person_resp": 1,
-    "acerto_tutor_resp": 1
+    "acerto_tutor_resp": 0
   },
   {
     "person_id": 1,
     "tag_model_person": "gpt_oss_120b",
-    "tag_model_tutor": "gpt_oss_120b",
+    "tag_model_tutor": "mixtral_8x22B_v0_1",
     "ano": 2024,
     "area_descricao": "linguagens, códigos e suas tecnologias",
     "area_sigla": "LC",
@@ -1280,7 +1280,7 @@
   {
     "person_id": 1,
     "tag_model_person": "gpt_oss_120b",
-    "tag_model_tutor": "gpt_oss_120b",
+    "tag_model_tutor": "mixtral_8x22B_v0_1",
     "ano": 2024,
     "area_descricao": "linguagens, códigos e suas tecnologias",
     "area_sigla": "LC",
@@ -1291,14 +1291,14 @@
     "param_c": 0.19478,
     "dificuldade": "Fácil",
     "resposta_person": "D",
-    "resposta_tutor": "C",
+    "resposta_tutor": "D",
     "acerto_person_resp": 1,
-    "acerto_tutor_resp": 1
+    "acerto_tutor_resp": 0
   },
   {
     "person_id": 1,
     "tag_model_person": "gpt_oss_120b",
-    "tag_model_tutor": "gpt_oss_120b",
+    "tag_model_tutor": "mixtral_8x22B_v0_1",
     "ano": 2024,
     "area_descricao": "linguagens, códigos e suas tecnologias",
     "area_sigla": "LC",
@@ -1309,14 +1309,14 @@
     "param_c": 0.20325000000000001,
     "dificuldade": "Difícil",
     "resposta_person": "B",
-    "resposta_tutor": "C",
+    "resposta_tutor": "B",
     "acerto_person_resp": 1,
-    "acerto_tutor_resp": 1
+    "acerto_tutor_resp": 0
   },
   {
     "person_id": 1,
     "tag_model_person": "gpt_oss_120b",
-    "tag_model_tutor": "gpt_oss_120b",
+    "tag_model_tutor": "mixtral_8x22B_v0_1",
     "ano": 2024,
     "area_descricao": "linguagens, códigos e suas tecnologias",
     "area_sigla": "LC",
@@ -1334,7 +1334,7 @@
   {
     "person_id": 1,
     "tag_model_person": "gpt_oss_120b",
-    "tag_model_tutor": "gpt_oss_120b",
+    "tag_model_tutor": "mixtral_8x22B_v0_1",
     "ano": 2024,
     "area_descricao": "linguagens, códigos e suas tecnologias",
     "area_sigla": "LC",
@@ -1352,7 +1352,7 @@
   {
     "person_id": 1,
     "tag_model_person": "gpt_oss_120b",
-    "tag_model_tutor": "gpt_oss_120b",
+    "tag_model_tutor": "mixtral_8x22B_v0_1",
     "ano": 2024,
     "area_descricao": "linguagens, códigos e suas tecnologias",
     "area_sigla": "LC",
@@ -1370,7 +1370,7 @@
   {
     "person_id": 1,
     "tag_model_person": "gpt_oss_120b",
-    "tag_model_tutor": "gpt_oss_120b",
+    "tag_model_tutor": "mixtral_8x22B_v0_1",
     "ano": 2024,
     "area_descricao": "linguagens, códigos e suas tecnologias",
     "area_sigla": "LC",
@@ -1388,7 +1388,7 @@
   {
     "person_id": 1,
     "tag_model_person": "gpt_oss_120b",
-    "tag_model_tutor": "gpt_oss_120b",
+    "tag_model_tutor": "mixtral_8x22B_v0_1",
     "ano": 2024,
     "area_descricao": "linguagens, códigos e suas tecnologias",
     "area_sigla": "LC",
@@ -1399,14 +1399,14 @@
     "param_c": 0.12831,
     "dificuldade": "Fácil",
     "resposta_person": "D",
-    "resposta_tutor": "C",
+    "resposta_tutor": "E",
     "acerto_person_resp": 0,
-    "acerto_tutor_resp": 0
+    "acerto_tutor_resp": 1
   },
   {
     "person_id": 1,
     "tag_model_person": "gpt_oss_120b",
-    "tag_model_tutor": "gpt_oss_120b",
+    "tag_model_tutor": "mixtral_8x22B_v0_1",
     "ano": 2024,
     "area_descricao": "linguagens, códigos e suas tecnologias",
     "area_sigla": "LC",
@@ -1424,7 +1424,7 @@
   {
     "person_id": 1,
     "tag_model_person": "gpt_oss_120b",
-    "tag_model_tutor": "gpt_oss_120b",
+    "tag_model_tutor": "mixtral_8x22B_v0_1",
     "ano": 2024,
     "area_descricao": "linguagens, códigos e suas tecnologias",
     "area_sigla": "LC",
@@ -1442,7 +1442,7 @@
   {
     "person_id": 1,
     "tag_model_person": "gpt_oss_120b",
-    "tag_model_tutor": "gpt_oss_120b",
+    "tag_model_tutor": "mixtral_8x22B_v0_1",
     "ano": 2024,
     "area_descricao": "linguagens, códigos e suas tecnologias",
     "area_sigla": "LC",
@@ -1453,14 +1453,14 @@
     "param_c": 0.17832,
     "dificuldade": "Médio",
     "resposta_person": "D",
-    "resposta_tutor": "C",
+    "resposta_tutor": "D",
     "acerto_person_resp": 0,
     "acerto_tutor_resp": 0
   },
   {
     "person_id": 1,
     "tag_model_person": "gpt_oss_120b",
-    "tag_model_tutor": "gpt_oss_120b",
+    "tag_model_tutor": "mixtral_8x22B_v0_1",
     "ano": 2024,
     "area_descricao": "linguagens, códigos e suas tecnologias",
     "area_sigla": "LC",
@@ -1471,14 +1471,14 @@
     "param_c": 0.12279000000000001,
     "dificuldade": "Médio",
     "resposta_person": "Desculpe, mas não posso responder a essa questão.",
-    "resposta_tutor": "E",
+    "resposta_tutor": "D",
     "acerto_person_resp": 0,
-    "acerto_tutor_resp": 1
+    "acerto_tutor_resp": 0
   },
   {
     "person_id": 1,
     "tag_model_person": "gpt_oss_120b",
-    "tag_model_tutor": "gpt_oss_120b",
+    "tag_model_tutor": "mixtral_8x22B_v0_1",
     "ano": 2024,
     "area_descricao": "linguagens, códigos e suas tecnologias",
     "area_sigla": "LC",
@@ -1496,7 +1496,7 @@
   {
     "person_id": 1,
     "tag_model_person": "gpt_oss_120b",
-    "tag_model_tutor": "gpt_oss_120b",
+    "tag_model_tutor": "mixtral_8x22B_v0_1",
     "ano": 2024,
     "area_descricao": "linguagens, códigos e suas tecnologias",
     "area_sigla": "LC",
@@ -1514,7 +1514,7 @@
   {
     "person_id": 1,
     "tag_model_person": "gpt_oss_120b",
-    "tag_model_tutor": "gpt_oss_120b",
+    "tag_model_tutor": "mixtral_8x22B_v0_1",
     "ano": 2024,
     "area_descricao": "linguagens, códigos e suas tecnologias",
     "area_sigla": "LC",
@@ -1525,14 +1525,14 @@
     "param_c": 0.25068,
     "dificuldade": "Médio",
     "resposta_person": "E",
-    "resposta_tutor": "C",
+    "resposta_tutor": "E",
     "acerto_person_resp": 1,
-    "acerto_tutor_resp": 1
+    "acerto_tutor_resp": 0
   },
   {
     "person_id": 1,
     "tag_model_person": "gpt_oss_120b",
-    "tag_model_tutor": "gpt_oss_120b",
+    "tag_model_tutor": "mixtral_8x22B_v0_1",
     "ano": 2024,
     "area_descricao": "linguagens, códigos e suas tecnologias",
     "area_sigla": "LC",
@@ -1550,7 +1550,7 @@
   {
     "person_id": 1,
     "tag_model_person": "gpt_oss_120b",
-    "tag_model_tutor": "gpt_oss_120b",
+    "tag_model_tutor": "mixtral_8x22B_v0_1",
     "ano": 2024,
     "area_descricao": "linguagens, códigos e suas tecnologias",
     "area_sigla": "LC",
@@ -1568,7 +1568,7 @@
   {
     "person_id": 1,
     "tag_model_person": "gpt_oss_120b",
-    "tag_model_tutor": "gpt_oss_120b",
+    "tag_model_tutor": "mixtral_8x22B_v0_1",
     "ano": 2024,
     "area_descricao": "linguagens, códigos e suas tecnologias",
     "area_sigla": "LC",
@@ -1579,14 +1579,14 @@
     "param_c": 0.14161,
     "dificuldade": "Médio",
     "resposta_person": "A",
-    "resposta_tutor": "C",
+    "resposta_tutor": "E",
     "acerto_person_resp": 0,
-    "acerto_tutor_resp": 0
+    "acerto_tutor_resp": 1
   },
   {
     "person_id": 1,
     "tag_model_person": "gpt_oss_120b",
-    "tag_model_tutor": "gpt_oss_120b",
+    "tag_model_tutor": "mixtral_8x22B_v0_1",
     "ano": 2024,
     "area_descricao": "linguagens, códigos e suas tecnologias",
     "area_sigla": "LC",
@@ -1604,7 +1604,7 @@
   {
     "person_id": 1,
     "tag_model_person": "gpt_oss_120b",
-    "tag_model_tutor": "gpt_oss_120b",
+    "tag_model_tutor": "mixtral_8x22B_v0_1",
     "ano": 2024,
     "area_descricao": "linguagens, códigos e suas tecnologias",
     "area_sigla": "LC",
@@ -1622,7 +1622,7 @@
   {
     "person_id": 1,
     "tag_model_person": "gpt_oss_120b",
-    "tag_model_tutor": "gpt_oss_120b",
+    "tag_model_tutor": "mixtral_8x22B_v0_1",
     "ano": 2024,
     "area_descricao": "linguagens, códigos e suas tecnologias",
     "area_sigla": "LC",
@@ -1640,7 +1640,7 @@
   {
     "person_id": 1,
     "tag_model_person": "gpt_oss_120b",
-    "tag_model_tutor": "gpt_oss_120b",
+    "tag_model_tutor": "mixtral_8x22B_v0_1",
     "ano": 2024,
     "area_descricao": "linguagens, códigos e suas tecnologias",
     "area_sigla": "LC",
@@ -1651,14 +1651,14 @@
     "param_c": 0.12491000000000001,
     "dificuldade": "Fácil",
     "resposta_person": "E",
-    "resposta_tutor": "C",
+    "resposta_tutor": "E",
     "acerto_person_resp": 1,
-    "acerto_tutor_resp": 1
+    "acerto_tutor_resp": 0
   },
   {
     "person_id": 1,
     "tag_model_person": "gpt_oss_120b",
-    "tag_model_tutor": "gpt_oss_120b",
+    "tag_model_tutor": "mixtral_8x22B_v0_1",
     "ano": 2024,
     "area_descricao": "linguagens, códigos e suas tecnologias",
     "area_sigla": "LC",
@@ -1676,7 +1676,7 @@
   {
     "person_id": 1,
     "tag_model_person": "gpt_oss_120b",
-    "tag_model_tutor": "gpt_oss_120b",
+    "tag_model_tutor": "mixtral_8x22B_v0_1",
     "ano": 2024,
     "area_descricao": "linguagens, códigos e suas tecnologias",
     "area_sigla": "LC",
@@ -1694,7 +1694,7 @@
   {
     "person_id": 1,
     "tag_model_person": "gpt_oss_120b",
-    "tag_model_tutor": "gpt_oss_120b",
+    "tag_model_tutor": "mixtral_8x22B_v0_1",
     "ano": 2024,
     "area_descricao": "linguagens, códigos e suas tecnologias",
     "area_sigla": "LC",
@@ -1712,7 +1712,7 @@
   {
     "person_id": 1,
     "tag_model_person": "gpt_oss_120b",
-    "tag_model_tutor": "gpt_oss_120b",
+    "tag_model_tutor": "mixtral_8x22B_v0_1",
     "ano": 2024,
     "area_descricao": "linguagens, códigos e suas tecnologias",
     "area_sigla": "LC",
@@ -1730,7 +1730,7 @@
   {
     "person_id": 1,
     "tag_model_person": "gpt_oss_120b",
-    "tag_model_tutor": "gpt_oss_120b",
+    "tag_model_tutor": "mixtral_8x22B_v0_1",
     "ano": 2024,
     "area_descricao": "linguagens, códigos e suas tecnologias",
     "area_sigla": "LC",
@@ -1748,7 +1748,7 @@
   {
     "person_id": 1,
     "tag_model_person": "gpt_oss_120b",
-    "tag_model_tutor": "gpt_oss_120b",
+    "tag_model_tutor": "mixtral_8x22B_v0_1",
     "ano": 2024,
     "area_descricao": "linguagens, códigos e suas tecnologias",
     "area_sigla": "LC",
@@ -1766,7 +1766,7 @@
   {
     "person_id": 1,
     "tag_model_person": "gpt_oss_120b",
-    "tag_model_tutor": "gpt_oss_120b",
+    "tag_model_tutor": "mixtral_8x22B_v0_1",
     "ano": 2024,
     "area_descricao": "linguagens, códigos e suas tecnologias",
     "area_sigla": "LC",
@@ -1784,7 +1784,7 @@
   {
     "person_id": 1,
     "tag_model_person": "gpt_oss_120b",
-    "tag_model_tutor": "gpt_oss_120b",
+    "tag_model_tutor": "mixtral_8x22B_v0_1",
     "ano": 2024,
     "area_descricao": "linguagens, códigos e suas tecnologias",
     "area_sigla": "LC",
@@ -1795,14 +1795,14 @@
     "param_c": 0.20514000000000002,
     "dificuldade": "Fácil",
     "resposta_person": "C",
-    "resposta_tutor": "C",
+    "resposta_tutor": "formato incorreto",
     "acerto_person_resp": 1,
-    "acerto_tutor_resp": 1
+    "acerto_tutor_resp": 0
   },
   {
     "person_id": 2,
     "tag_model_person": "gpt_oss_120b",
-    "tag_model_tutor": "gpt_oss_120b",
+    "tag_model_tutor": "mixtral_8x22B_v0_1",
     "ano": 2022,
     "area_descricao": "linguagens, códigos e suas tecnologias",
     "area_sigla": "LC",
@@ -1820,7 +1820,7 @@
   {
     "person_id": 2,
     "tag_model_person": "gpt_oss_120b",
-    "tag_model_tutor": "gpt_oss_120b",
+    "tag_model_tutor": "mixtral_8x22B_v0_1",
     "ano": 2022,
     "area_descricao": "linguagens, códigos e suas tecnologias",
     "area_sigla": "LC",
@@ -1838,7 +1838,7 @@
   {
     "person_id": 2,
     "tag_model_person": "gpt_oss_120b",
-    "tag_model_tutor": "gpt_oss_120b",
+    "tag_model_tutor": "mixtral_8x22B_v0_1",
     "ano": 2022,
     "area_descricao": "linguagens, códigos e suas tecnologias",
     "area_sigla": "LC",
@@ -1856,7 +1856,7 @@
   {
     "person_id": 2,
     "tag_model_person": "gpt_oss_120b",
-    "tag_model_tutor": "gpt_oss_120b",
+    "tag_model_tutor": "mixtral_8x22B_v0_1",
     "ano": 2022,
     "area_descricao": "linguagens, códigos e suas tecnologias",
     "area_sigla": "LC",
@@ -1867,14 +1867,14 @@
     "param_c": 0.23370000000000002,
     "dificuldade": "Fácil",
     "resposta_person": "E",
-    "resposta_tutor": "C",
+    "resposta_tutor": "E",
     "acerto_person_resp": 0,
-    "acerto_tutor_resp": 0
+    "acerto_tutor_resp": 1
   },
   {
     "person_id": 2,
     "tag_model_person": "gpt_oss_120b",
-    "tag_model_tutor": "gpt_oss_120b",
+    "tag_model_tutor": "mixtral_8x22B_v0_1",
     "ano": 2022,
     "area_descricao": "linguagens, códigos e suas tecnologias",
     "area_sigla": "LC",
@@ -1885,14 +1885,14 @@
     "param_c": 0.03348,
     "dificuldade": "Fácil",
     "resposta_person": "D",
-    "resposta_tutor": "C",
+    "resposta_tutor": "E",
     "acerto_person_resp": 0,
-    "acerto_tutor_resp": 0
+    "acerto_tutor_resp": 1
   },
   {
     "person_id": 2,
     "tag_model_person": "gpt_oss_120b",
-    "tag_model_tutor": "gpt_oss_120b",
+    "tag_model_tutor": "mixtral_8x22B_v0_1",
     "ano": 2022,
     "area_descricao": "linguagens, códigos e suas tecnologias",
     "area_sigla": "LC",
@@ -1910,7 +1910,7 @@
   {
     "person_id": 2,
     "tag_model_person": "gpt_oss_120b",
-    "tag_model_tutor": "gpt_oss_120b",
+    "tag_model_tutor": "mixtral_8x22B_v0_1",
     "ano": 2022,
     "area_descricao": "linguagens, códigos e suas tecnologias",
     "area_sigla": "LC",
@@ -1921,14 +1921,14 @@
     "param_c": 0.007970000000000001,
     "dificuldade": "Fácil",
     "resposta_person": "D",
-    "resposta_tutor": "C",
+    "resposta_tutor": "formato incorreto",
     "acerto_person_resp": 1,
-    "acerto_tutor_resp": 1
+    "acerto_tutor_resp": 0
   },
   {
     "person_id": 2,
     "tag_model_person": "gpt_oss_120b",
-    "tag_model_tutor": "gpt_oss_120b",
+    "tag_model_tutor": "mixtral_8x22B_v0_1",
     "ano": 2022,
     "area_descricao": "linguagens, códigos e suas tecnologias",
     "area_sigla": "LC",
@@ -1946,7 +1946,7 @@
   {
     "person_id": 2,
     "tag_model_person": "gpt_oss_120b",
-    "tag_model_tutor": "gpt_oss_120b",
+    "tag_model_tutor": "mixtral_8x22B_v0_1",
     "ano": 2022,
     "area_descricao": "linguagens, códigos e suas tecnologias",
     "area_sigla": "LC",
@@ -1957,14 +1957,14 @@
     "param_c": 0.23705,
     "dificuldade": "Difícil",
     "resposta_person": "B",
-    "resposta_tutor": "C",
+    "resposta_tutor": "E",
     "acerto_person_resp": 0,
-    "acerto_tutor_resp": 0
+    "acerto_tutor_resp": 1
   },
   {
     "person_id": 2,
     "tag_model_person": "gpt_oss_120b",
-    "tag_model_tutor": "gpt_oss_120b",
+    "tag_model_tutor": "mixtral_8x22B_v0_1",
     "ano": 2022,
     "area_descricao": "linguagens, códigos e suas tecnologias",
     "area_sigla": "LC",
@@ -1975,14 +1975,14 @@
     "param_c": 0.00839,
     "dificuldade": "Fácil",
     "resposta_person": "A",
-    "resposta_tutor": "C",
+    "resposta_tutor": "formato incorreto",
     "acerto_person_resp": 1,
-    "acerto_tutor_resp": 1
+    "acerto_tutor_resp": 0
   },
   {
     "person_id": 2,
     "tag_model_person": "gpt_oss_120b",
-    "tag_model_tutor": "gpt_oss_120b",
+    "tag_model_tutor": "mixtral_8x22B_v0_1",
     "ano": 2022,
     "area_descricao": "linguagens, códigos e suas tecnologias",
     "area_sigla": "LC",
@@ -2000,7 +2000,7 @@
   {
     "person_id": 2,
     "tag_model_person": "gpt_oss_120b",
-    "tag_model_tutor": "gpt_oss_120b",
+    "tag_model_tutor": "mixtral_8x22B_v0_1",
     "ano": 2022,
     "area_descricao": "linguagens, códigos e suas tecnologias",
     "area_sigla": "LC",
@@ -2018,7 +2018,7 @@
   {
     "person_id": 2,
     "tag_model_person": "gpt_oss_120b",
-    "tag_model_tutor": "gpt_oss_120b",
+    "tag_model_tutor": "mixtral_8x22B_v0_1",
     "ano": 2022,
     "area_descricao": "linguagens, códigos e suas tecnologias",
     "area_sigla": "LC",
@@ -2029,14 +2029,14 @@
     "param_c": 0.13567,
     "dificuldade": "Médio",
     "resposta_person": "E",
-    "resposta_tutor": "C",
+    "resposta_tutor": "E",
     "acerto_person_resp": 1,
-    "acerto_tutor_resp": 1
+    "acerto_tutor_resp": 0
   },
   {
     "person_id": 2,
     "tag_model_person": "gpt_oss_120b",
-    "tag_model_tutor": "gpt_oss_120b",
+    "tag_model_tutor": "mixtral_8x22B_v0_1",
     "ano": 2022,
     "area_descricao": "linguagens, códigos e suas tecnologias",
     "area_sigla": "LC",
@@ -2047,14 +2047,14 @@
     "param_c": 0.18786000000000003,
     "dificuldade": "Médio",
     "resposta_person": "A",
-    "resposta_tutor": "C",
+    "resposta_tutor": "E",
     "acerto_person_resp": 1,
-    "acerto_tutor_resp": 1
+    "acerto_tutor_resp": 0
   },
   {
     "person_id": 2,
     "tag_model_person": "gpt_oss_120b",
-    "tag_model_tutor": "gpt_oss_120b",
+    "tag_model_tutor": "mixtral_8x22B_v0_1",
     "ano": 2022,
     "area_descricao": "linguagens, códigos e suas tecnologias",
     "area_sigla": "LC",
@@ -2065,14 +2065,14 @@
     "param_c": 0.056850000000000005,
     "dificuldade": "Médio",
     "resposta_person": "C",
-    "resposta_tutor": "C",
+    "resposta_tutor": "formato incorreto",
     "acerto_person_resp": 0,
     "acerto_tutor_resp": 0
   },
   {
     "person_id": 2,
     "tag_model_person": "gpt_oss_120b",
-    "tag_model_tutor": "gpt_oss_120b",
+    "tag_model_tutor": "mixtral_8x22B_v0_1",
     "ano": 2022,
     "area_descricao": "linguagens, códigos e suas tecnologias",
     "area_sigla": "LC",
@@ -2083,14 +2083,14 @@
     "param_c": 0.035620000000000006,
     "dificuldade": "Fácil",
     "resposta_person": "B",
-    "resposta_tutor": "C",
+    "resposta_tutor": "B",
     "acerto_person_resp": 1,
-    "acerto_tutor_resp": 1
+    "acerto_tutor_resp": 0
   },
   {
     "person_id": 2,
     "tag_model_person": "gpt_oss_120b",
-    "tag_model_tutor": "gpt_oss_120b",
+    "tag_model_tutor": "mixtral_8x22B_v0_1",
     "ano": 2022,
     "area_descricao": "linguagens, códigos e suas tecnologias",
     "area_sigla": "LC",
@@ -2108,7 +2108,7 @@
   {
     "person_id": 2,
     "tag_model_person": "gpt_oss_120b",
-    "tag_model_tutor": "gpt_oss_120b",
+    "tag_model_tutor": "mixtral_8x22B_v0_1",
     "ano": 2022,
     "area_descricao": "linguagens, códigos e suas tecnologias",
     "area_sigla": "LC",
@@ -2126,7 +2126,7 @@
   {
     "person_id": 2,
     "tag_model_person": "gpt_oss_120b",
-    "tag_model_tutor": "gpt_oss_120b",
+    "tag_model_tutor": "mixtral_8x22B_v0_1",
     "ano": 2022,
     "area_descricao": "linguagens, códigos e suas tecnologias",
     "area_sigla": "LC",
@@ -2137,14 +2137,14 @@
     "param_c": 0.20082000000000003,
     "dificuldade": "Fácil",
     "resposta_person": "E",
-    "resposta_tutor": "C",
+    "resposta_tutor": "E",
     "acerto_person_resp": 1,
-    "acerto_tutor_resp": 1
+    "acerto_tutor_resp": 0
   },
   {
     "person_id": 2,
     "tag_model_person": "gpt_oss_120b",
-    "tag_model_tutor": "gpt_oss_120b",
+    "tag_model_tutor": "mixtral_8x22B_v0_1",
     "ano": 2022,
     "area_descricao": "linguagens, códigos e suas tecnologias",
     "area_sigla": "LC",
@@ -2162,7 +2162,7 @@
   {
     "person_id": 2,
     "tag_model_person": "gpt_oss_120b",
-    "tag_model_tutor": "gpt_oss_120b",
+    "tag_model_tutor": "mixtral_8x22B_v0_1",
     "ano": 2022,
     "area_descricao": "linguagens, códigos e suas tecnologias",
     "area_sigla": "LC",
@@ -2180,7 +2180,7 @@
   {
     "person_id": 2,
     "tag_model_person": "gpt_oss_120b",
-    "tag_model_tutor": "gpt_oss_120b",
+    "tag_model_tutor": "mixtral_8x22B_v0_1",
     "ano": 2022,
     "area_descricao": "linguagens, códigos e suas tecnologias",
     "area_sigla": "LC",
@@ -2198,7 +2198,7 @@
   {
     "person_id": 2,
     "tag_model_person": "gpt_oss_120b",
-    "tag_model_tutor": "gpt_oss_120b",
+    "tag_model_tutor": "mixtral_8x22B_v0_1",
     "ano": 2022,
     "area_descricao": "linguagens, códigos e suas tecnologias",
     "area_sigla": "LC",
@@ -2216,7 +2216,7 @@
   {
     "person_id": 2,
     "tag_model_person": "gpt_oss_120b",
-    "tag_model_tutor": "gpt_oss_120b",
+    "tag_model_tutor": "mixtral_8x22B_v0_1",
     "ano": 2022,
     "area_descricao": "linguagens, códigos e suas tecnologias",
     "area_sigla": "LC",
@@ -2227,14 +2227,14 @@
     "param_c": 0.008650000000000001,
     "dificuldade": "Fácil",
     "resposta_person": "E",
-    "resposta_tutor": "C",
+    "resposta_tutor": "E",
     "acerto_person_resp": 1,
-    "acerto_tutor_resp": 1
+    "acerto_tutor_resp": 0
   },
   {
     "person_id": 2,
     "tag_model_person": "gpt_oss_120b",
-    "tag_model_tutor": "gpt_oss_120b",
+    "tag_model_tutor": "mixtral_8x22B_v0_1",
     "ano": 2022,
     "area_descricao": "linguagens, códigos e suas tecnologias",
     "area_sigla": "LC",
@@ -2245,14 +2245,14 @@
     "param_c": 0.06459000000000001,
     "dificuldade": "Médio",
     "resposta_person": "E",
-    "resposta_tutor": "C",
+    "resposta_tutor": "E",
     "acerto_person_resp": 0,
-    "acerto_tutor_resp": 0
+    "acerto_tutor_resp": 1
   },
   {
     "person_id": 2,
     "tag_model_person": "gpt_oss_120b",
-    "tag_model_tutor": "gpt_oss_120b",
+    "tag_model_tutor": "mixtral_8x22B_v0_1",
     "ano": 2022,
     "area_descricao": "linguagens, códigos e suas tecnologias",
     "area_sigla": "LC",
@@ -2263,14 +2263,14 @@
     "param_c": 0.18144000000000002,
     "dificuldade": "Fácil",
     "resposta_person": "E",
-    "resposta_tutor": "C",
+    "resposta_tutor": "E",
     "acerto_person_resp": 1,
-    "acerto_tutor_resp": 1
+    "acerto_tutor_resp": 0
   },
   {
     "person_id": 2,
     "tag_model_person": "gpt_oss_120b",
-    "tag_model_tutor": "gpt_oss_120b",
+    "tag_model_tutor": "mixtral_8x22B_v0_1",
     "ano": 2022,
     "area_descricao": "linguagens, códigos e suas tecnologias",
     "area_sigla": "LC",
@@ -2288,7 +2288,7 @@
   {
     "person_id": 2,
     "tag_model_person": "gpt_oss_120b",
-    "tag_model_tutor": "gpt_oss_120b",
+    "tag_model_tutor": "mixtral_8x22B_v0_1",
     "ano": 2022,
     "area_descricao": "linguagens, códigos e suas tecnologias",
     "area_sigla": "LC",
@@ -2306,7 +2306,7 @@
   {
     "person_id": 2,
     "tag_model_person": "gpt_oss_120b",
-    "tag_model_tutor": "gpt_oss_120b",
+    "tag_model_tutor": "mixtral_8x22B_v0_1",
     "ano": 2022,
     "area_descricao": "linguagens, códigos e suas tecnologias",
     "area_sigla": "LC",
@@ -2324,7 +2324,7 @@
   {
     "person_id": 2,
     "tag_model_person": "gpt_oss_120b",
-    "tag_model_tutor": "gpt_oss_120b",
+    "tag_model_tutor": "mixtral_8x22B_v0_1",
     "ano": 2022,
     "area_descricao": "linguagens, códigos e suas tecnologias",
     "area_sigla": "LC",
@@ -2342,7 +2342,7 @@
   {
     "person_id": 2,
     "tag_model_person": "gpt_oss_120b",
-    "tag_model_tutor": "gpt_oss_120b",
+    "tag_model_tutor": "mixtral_8x22B_v0_1",
     "ano": 2022,
     "area_descricao": "linguagens, códigos e suas tecnologias",
     "area_sigla": "LC",
@@ -2353,14 +2353,14 @@
     "param_c": 0.11370000000000001,
     "dificuldade": "Difícil",
     "resposta_person": "C",
-    "resposta_tutor": "E",
+    "resposta_tutor": "C",
     "acerto_person_resp": 0,
-    "acerto_tutor_resp": 1
+    "acerto_tutor_resp": 0
   },
   {
     "person_id": 2,
     "tag_model_person": "gpt_oss_120b",
-    "tag_model_tutor": "gpt_oss_120b",
+    "tag_model_tutor": "mixtral_8x22B_v0_1",
     "ano": 2022,
     "area_descricao": "linguagens, códigos e suas tecnologias",
     "area_sigla": "LC",
@@ -2371,14 +2371,14 @@
     "param_c": 0.12513000000000002,
     "dificuldade": "Médio",
     "resposta_person": "C",
-    "resposta_tutor": "C",
+    "resposta_tutor": "E",
     "acerto_person_resp": 1,
-    "acerto_tutor_resp": 1
+    "acerto_tutor_resp": 0
   },
   {
     "person_id": 2,
     "tag_model_person": "gpt_oss_120b",
-    "tag_model_tutor": "gpt_oss_120b",
+    "tag_model_tutor": "mixtral_8x22B_v0_1",
     "ano": 2023,
     "area_descricao": "linguagens, códigos e suas tecnologias",
     "area_sigla": "LC",
@@ -2396,7 +2396,7 @@
   {
     "person_id": 2,
     "tag_model_person": "gpt_oss_120b",
-    "tag_model_tutor": "gpt_oss_120b",
+    "tag_model_tutor": "mixtral_8x22B_v0_1",
     "ano": 2023,
     "area_descricao": "linguagens, códigos e suas tecnologias",
     "area_sigla": "LC",
@@ -2407,14 +2407,14 @@
     "param_c": 0.19662000000000002,
     "dificuldade": "Fácil",
     "resposta_person": "A",
-    "resposta_tutor": "C",
+    "resposta_tutor": "A",
     "acerto_person_resp": 1,
-    "acerto_tutor_resp": 1
+    "acerto_tutor_resp": 0
   },
   {
     "person_id": 2,
     "tag_model_person": "gpt_oss_120b",
-    "tag_model_tutor": "gpt_oss_120b",
+    "tag_model_tutor": "mixtral_8x22B_v0_1",
     "ano": 2023,
     "area_descricao": "linguagens, códigos e suas tecnologias",
     "area_sigla": "LC",
@@ -2432,7 +2432,7 @@
   {
     "person_id": 2,
     "tag_model_person": "gpt_oss_120b",
-    "tag_model_tutor": "gpt_oss_120b",
+    "tag_model_tutor": "mixtral_8x22B_v0_1",
     "ano": 2023,
     "area_descricao": "linguagens, códigos e suas tecnologias",
     "area_sigla": "LC",
@@ -2450,7 +2450,7 @@
   {
     "person_id": 2,
     "tag_model_person": "gpt_oss_120b",
-    "tag_model_tutor": "gpt_oss_120b",
+    "tag_model_tutor": "mixtral_8x22B_v0_1",
     "ano": 2023,
     "area_descricao": "linguagens, códigos e suas tecnologias",
     "area_sigla": "LC",
@@ -2461,14 +2461,14 @@
     "param_c": 0.19896000000000003,
     "dificuldade": "Fácil",
     "resposta_person": "E",
-    "resposta_tutor": "C",
+    "resposta_tutor": "E",
     "acerto_person_resp": 0,
-    "acerto_tutor_resp": 0
+    "acerto_tutor_resp": 1
   },
   {
     "person_id": 2,
     "tag_model_person": "gpt_oss_120b",
-    "tag_model_tutor": "gpt_oss_120b",
+    "tag_model_tutor": "mixtral_8x22B_v0_1",
     "ano": 2023,
     "area_descricao": "linguagens, códigos e suas tecnologias",
     "area_sigla": "LC",
@@ -2486,7 +2486,7 @@
   {
     "person_id": 2,
     "tag_model_person": "gpt_oss_120b",
-    "tag_model_tutor": "gpt_oss_120b",
+    "tag_model_tutor": "mixtral_8x22B_v0_1",
     "ano": 2023,
     "area_descricao": "linguagens, códigos e suas tecnologias",
     "area_sigla": "LC",
@@ -2497,14 +2497,14 @@
     "param_c": 0.23009000000000002,
     "dificuldade": "Médio",
     "resposta_person": "C",
-    "resposta_tutor": "E",
+    "resposta_tutor": "C",
     "acerto_person_resp": 1,
-    "acerto_tutor_resp": 0
+    "acerto_tutor_resp": 1
   },
   {
     "person_id": 2,
     "tag_model_person": "gpt_oss_120b",
-    "tag_model_tutor": "gpt_oss_120b",
+    "tag_model_tutor": "mixtral_8x22B_v0_1",
     "ano": 2023,
     "area_descricao": "linguagens, códigos e suas tecnologias",
     "area_sigla": "LC",
@@ -2522,7 +2522,7 @@
   {
     "person_id": 2,
     "tag_model_person": "gpt_oss_120b",
-    "tag_model_tutor": "gpt_oss_120b",
+    "tag_model_tutor": "mixtral_8x22B_v0_1",
     "ano": 2023,
     "area_descricao": "linguagens, códigos e suas tecnologias",
     "area_sigla": "LC",
@@ -2533,14 +2533,14 @@
     "param_c": 0.22043000000000001,
     "dificuldade": "Médio",
     "resposta_person": "D",
-    "resposta_tutor": "C",
+    "resposta_tutor": "E",
     "acerto_person_resp": 1,
-    "acerto_tutor_resp": 1
+    "acerto_tutor_resp": 0
   },
   {
     "person_id": 2,
     "tag_model_person": "gpt_oss_120b",
-    "tag_model_tutor": "gpt_oss_120b",
+    "tag_model_tutor": "mixtral_8x22B_v0_1",
     "ano": 2023,
     "area_descricao": "linguagens, códigos e suas tecnologias",
     "area_sigla": "LC",
@@ -2558,7 +2558,7 @@
   {
     "person_id": 2,
     "tag_model_person": "gpt_oss_120b",
-    "tag_model_tutor": "gpt_oss_120b",
+    "tag_model_tutor": "mixtral_8x22B_v0_1",
     "ano": 2023,
     "area_descricao": "linguagens, códigos e suas tecnologias",
     "area_sigla": "LC",
@@ -2569,14 +2569,14 @@
     "param_c": 0.20612000000000003,
     "dificuldade": "Fácil",
     "resposta_person": "A",
-    "resposta_tutor": "C",
+    "resposta_tutor": "A",
     "acerto_person_resp": 1,
-    "acerto_tutor_resp": 1
+    "acerto_tutor_resp": 0
   },
   {
     "person_id": 2,
     "tag_model_person": "gpt_oss_120b",
-    "tag_model_tutor": "gpt_oss_120b",
+    "tag_model_tutor": "mixtral_8x22B_v0_1",
     "ano": 2023,
     "area_descricao": "linguagens, códigos e suas tecnologias",
     "area_sigla": "LC",
@@ -2594,7 +2594,7 @@
   {
     "person_id": 2,
     "tag_model_person": "gpt_oss_120b",
-    "tag_model_tutor": "gpt_oss_120b",
+    "tag_model_tutor": "mixtral_8x22B_v0_1",
     "ano": 2023,
     "area_descricao": "linguagens, códigos e suas tecnologias",
     "area_sigla": "LC",
@@ -2612,7 +2612,7 @@
   {
     "person_id": 2,
     "tag_model_person": "gpt_oss_120b",
-    "tag_model_tutor": "gpt_oss_120b",
+    "tag_model_tutor": "mixtral_8x22B_v0_1",
     "ano": 2023,
     "area_descricao": "linguagens, códigos e suas tecnologias",
     "area_sigla": "LC",
@@ -2630,7 +2630,7 @@
   {
     "person_id": 2,
     "tag_model_person": "gpt_oss_120b",
-    "tag_model_tutor": "gpt_oss_120b",
+    "tag_model_tutor": "mixtral_8x22B_v0_1",
     "ano": 2023,
     "area_descricao": "linguagens, códigos e suas tecnologias",
     "area_sigla": "LC",
@@ -2648,7 +2648,7 @@
   {
     "person_id": 2,
     "tag_model_person": "gpt_oss_120b",
-    "tag_model_tutor": "gpt_oss_120b",
+    "tag_model_tutor": "mixtral_8x22B_v0_1",
     "ano": 2023,
     "area_descricao": "linguagens, códigos e suas tecnologias",
     "area_sigla": "LC",
@@ -2659,14 +2659,14 @@
     "param_c": 0.17386000000000001,
     "dificuldade": "Médio",
     "resposta_person": "A",
-    "resposta_tutor": "C",
+    "resposta_tutor": "formato incorreto",
     "acerto_person_resp": 1,
-    "acerto_tutor_resp": 1
+    "acerto_tutor_resp": 0
   },
   {
     "person_id": 2,
     "tag_model_person": "gpt_oss_120b",
-    "tag_model_tutor": "gpt_oss_120b",
+    "tag_model_tutor": "mixtral_8x22B_v0_1",
     "ano": 2023,
     "area_descricao": "linguagens, códigos e suas tecnologias",
     "area_sigla": "LC",
@@ -2684,7 +2684,7 @@
   {
     "person_id": 2,
     "tag_model_person": "gpt_oss_120b",
-    "tag_model_tutor": "gpt_oss_120b",
+    "tag_model_tutor": "mixtral_8x22B_v0_1",
     "ano": 2023,
     "area_descricao": "linguagens, códigos e suas tecnologias",
     "area_sigla": "LC",
@@ -2695,14 +2695,14 @@
     "param_c": 0.23381000000000002,
     "dificuldade": "Médio",
     "resposta_person": "A",
-    "resposta_tutor": "C",
+    "resposta_tutor": "E",
     "acerto_person_resp": 1,
-    "acerto_tutor_resp": 1
+    "acerto_tutor_resp": 0
   },
   {
     "person_id": 2,
     "tag_model_person": "gpt_oss_120b",
-    "tag_model_tutor": "gpt_oss_120b",
+    "tag_model_tutor": "mixtral_8x22B_v0_1",
     "ano": 2023,
     "area_descricao": "linguagens, códigos e suas tecnologias",
     "area_sigla": "LC",
@@ -2720,7 +2720,7 @@
   {
     "person_id": 2,
     "tag_model_person": "gpt_oss_120b",
-    "tag_model_tutor": "gpt_oss_120b",
+    "tag_model_tutor": "mixtral_8x22B_v0_1",
     "ano": 2023,
     "area_descricao": "linguagens, códigos e suas tecnologias",
     "area_sigla": "LC",
@@ -2731,14 +2731,14 @@
     "param_c": 0.022260000000000002,
     "dificuldade": "Fácil",
     "resposta_person": "C",
-    "resposta_tutor": "C",
+    "resposta_tutor": "formato incorreto",
     "acerto_person_resp": 1,
-    "acerto_tutor_resp": 1
+    "acerto_tutor_resp": 0
   },
   {
     "person_id": 2,
     "tag_model_person": "gpt_oss_120b",
-    "tag_model_tutor": "gpt_oss_120b",
+    "tag_model_tutor": "mixtral_8x22B_v0_1",
     "ano": 2023,
     "area_descricao": "linguagens, códigos e suas tecnologias",
     "area_sigla": "LC",
@@ -2756,7 +2756,7 @@
   {
     "person_id": 2,
     "tag_model_person": "gpt_oss_120b",
-    "tag_model_tutor": "gpt_oss_120b",
+    "tag_model_tutor": "mixtral_8x22B_v0_1",
     "ano": 2023,
     "area_descricao": "linguagens, códigos e suas tecnologias",
     "area_sigla": "LC",
@@ -2774,7 +2774,7 @@
   {
     "person_id": 2,
     "tag_model_person": "gpt_oss_120b",
-    "tag_model_tutor": "gpt_oss_120b",
+    "tag_model_tutor": "mixtral_8x22B_v0_1",
     "ano": 2023,
     "area_descricao": "linguagens, códigos e suas tecnologias",
     "area_sigla": "LC",
@@ -2792,7 +2792,7 @@
   {
     "person_id": 2,
     "tag_model_person": "gpt_oss_120b",
-    "tag_model_tutor": "gpt_oss_120b",
+    "tag_model_tutor": "mixtral_8x22B_v0_1",
     "ano": 2023,
     "area_descricao": "linguagens, códigos e suas tecnologias",
     "area_sigla": "LC",
@@ -2810,7 +2810,7 @@
   {
     "person_id": 2,
     "tag_model_person": "gpt_oss_120b",
-    "tag_model_tutor": "gpt_oss_120b",
+    "tag_model_tutor": "mixtral_8x22B_v0_1",
     "ano": 2023,
     "area_descricao": "linguagens, códigos e suas tecnologias",
     "area_sigla": "LC",
@@ -2828,7 +2828,7 @@
   {
     "person_id": 2,
     "tag_model_person": "gpt_oss_120b",
-    "tag_model_tutor": "gpt_oss_120b",
+    "tag_model_tutor": "mixtral_8x22B_v0_1",
     "ano": 2023,
     "area_descricao": "linguagens, códigos e suas tecnologias",
     "area_sigla": "LC",
@@ -2839,14 +2839,14 @@
     "param_c": 0.09754,
     "dificuldade": "Fácil",
     "resposta_person": "A",
-    "resposta_tutor": "C",
+    "resposta_tutor": "A",
     "acerto_person_resp": 1,
-    "acerto_tutor_resp": 1
+    "acerto_tutor_resp": 0
   },
   {
     "person_id": 2,
     "tag_model_person": "gpt_oss_120b",
-    "tag_model_tutor": "gpt_oss_120b",
+    "tag_model_tutor": "mixtral_8x22B_v0_1",
     "ano": 2023,
     "area_descricao": "linguagens, códigos e suas tecnologias",
     "area_sigla": "LC",
@@ -2864,7 +2864,7 @@
   {
     "person_id": 2,
     "tag_model_person": "gpt_oss_120b",
-    "tag_model_tutor": "gpt_oss_120b",
+    "tag_model_tutor": "mixtral_8x22B_v0_1",
     "ano": 2023,
     "area_descricao": "linguagens, códigos e suas tecnologias",
     "area_sigla": "LC",
@@ -2882,7 +2882,7 @@
   {
     "person_id": 2,
     "tag_model_person": "gpt_oss_120b",
-    "tag_model_tutor": "gpt_oss_120b",
+    "tag_model_tutor": "mixtral_8x22B_v0_1",
     "ano": 2023,
     "area_descricao": "linguagens, códigos e suas tecnologias",
     "area_sigla": "LC",
@@ -2900,7 +2900,7 @@
   {
     "person_id": 2,
     "tag_model_person": "gpt_oss_120b",
-    "tag_model_tutor": "gpt_oss_120b",
+    "tag_model_tutor": "mixtral_8x22B_v0_1",
     "ano": 2023,
     "area_descricao": "linguagens, códigos e suas tecnologias",
     "area_sigla": "LC",
@@ -2918,7 +2918,7 @@
   {
     "person_id": 2,
     "tag_model_person": "gpt_oss_120b",
-    "tag_model_tutor": "gpt_oss_120b",
+    "tag_model_tutor": "mixtral_8x22B_v0_1",
     "ano": 2023,
     "area_descricao": "linguagens, códigos e suas tecnologias",
     "area_sigla": "LC",
@@ -2929,14 +2929,14 @@
     "param_c": 0.18782000000000001,
     "dificuldade": "Fácil",
     "resposta_person": "A",
-    "resposta_tutor": "C",
+    "resposta_tutor": "A",
     "acerto_person_resp": 1,
-    "acerto_tutor_resp": 1
+    "acerto_tutor_resp": 0
   },
   {
     "person_id": 2,
     "tag_model_person": "gpt_oss_120b",
-    "tag_model_tutor": "gpt_oss_120b",
+    "tag_model_tutor": "mixtral_8x22B_v0_1",
     "ano": 2023,
     "area_descricao": "linguagens, códigos e suas tecnologias",
     "area_sigla": "LC",
@@ -2954,7 +2954,7 @@
   {
     "person_id": 2,
     "tag_model_person": "gpt_oss_120b",
-    "tag_model_tutor": "gpt_oss_120b",
+    "tag_model_tutor": "mixtral_8x22B_v0_1",
     "ano": 2023,
     "area_descricao": "linguagens, códigos e suas tecnologias",
     "area_sigla": "LC",
@@ -2972,7 +2972,7 @@
   {
     "person_id": 2,
     "tag_model_person": "gpt_oss_120b",
-    "tag_model_tutor": "gpt_oss_120b",
+    "tag_model_tutor": "mixtral_8x22B_v0_1",
     "ano": 2023,
     "area_descricao": "linguagens, códigos e suas tecnologias",
     "area_sigla": "LC",
@@ -2990,7 +2990,7 @@
   {
     "person_id": 2,
     "tag_model_person": "gpt_oss_120b",
-    "tag_model_tutor": "gpt_oss_120b",
+    "tag_model_tutor": "mixtral_8x22B_v0_1",
     "ano": 2023,
     "area_descricao": "linguagens, códigos e suas tecnologias",
     "area_sigla": "LC",
@@ -3008,7 +3008,7 @@
   {
     "person_id": 2,
     "tag_model_person": "gpt_oss_120b",
-    "tag_model_tutor": "gpt_oss_120b",
+    "tag_model_tutor": "mixtral_8x22B_v0_1",
     "ano": 2023,
     "area_descricao": "linguagens, códigos e suas tecnologias",
     "area_sigla": "LC",
@@ -3019,14 +3019,14 @@
     "param_c": 0.18330000000000002,
     "dificuldade": "Fácil",
     "resposta_person": "E",
-    "resposta_tutor": "C",
+    "resposta_tutor": "E",
     "acerto_person_resp": 1,
-    "acerto_tutor_resp": 1
+    "acerto_tutor_resp": 0
   },
   {
     "person_id": 2,
     "tag_model_person": "gpt_oss_120b",
-    "tag_model_tutor": "gpt_oss_120b",
+    "tag_model_tutor": "mixtral_8x22B_v0_1",
     "ano": 2024,
     "area_descricao": "linguagens, códigos e suas tecnologias",
     "area_sigla": "LC",
@@ -3044,7 +3044,7 @@
   {
     "person_id": 2,
     "tag_model_person": "gpt_oss_120b",
-    "tag_model_tutor": "gpt_oss_120b",
+    "tag_model_tutor": "mixtral_8x22B_v0_1",
     "ano": 2024,
     "area_descricao": "linguagens, códigos e suas tecnologias",
     "area_sigla": "LC",
@@ -3055,14 +3055,14 @@
     "param_c": 0.1507,
     "dificuldade": "Médio",
     "resposta_person": "E",
-    "resposta_tutor": "C",
+    "resposta_tutor": "E",
     "acerto_person_resp": 1,
-    "acerto_tutor_resp": 1
+    "acerto_tutor_resp": 0
   },
   {
     "person_id": 2,
     "tag_model_person": "gpt_oss_120b",
-    "tag_model_tutor": "gpt_oss_120b",
+    "tag_model_tutor": "mixtral_8x22B_v0_1",
     "ano": 2024,
     "area_descricao": "linguagens, códigos e suas tecnologias",
     "area_sigla": "LC",
@@ -3080,7 +3080,7 @@
   {
     "person_id": 2,
     "tag_model_person": "gpt_oss_120b",
-    "tag_model_tutor": "gpt_oss_120b",
+    "tag_model_tutor": "mixtral_8x22B_v0_1",
     "ano": 2024,
     "area_descricao": "linguagens, códigos e suas tecnologias",
     "area_sigla": "LC",
@@ -3091,14 +3091,14 @@
     "param_c": 0.19478,
     "dificuldade": "Fácil",
     "resposta_person": "D",
-    "resposta_tutor": "C",
+    "resposta_tutor": "D",
     "acerto_person_resp": 1,
-    "acerto_tutor_resp": 1
+    "acerto_tutor_resp": 0
   },
   {
     "person_id": 2,
     "tag_model_person": "gpt_oss_120b",
-    "tag_model_tutor": "gpt_oss_120b",
+    "tag_model_tutor": "mixtral_8x22B_v0_1",
     "ano": 2024,
     "area_descricao": "linguagens, códigos e suas tecnologias",
     "area_sigla": "LC",
@@ -3116,7 +3116,7 @@
   {
     "person_id": 2,
     "tag_model_person": "gpt_oss_120b",
-    "tag_model_tutor": "gpt_oss_120b",
+    "tag_model_tutor": "mixtral_8x22B_v0_1",
     "ano": 2024,
     "area_descricao": "linguagens, códigos e suas tecnologias",
     "area_sigla": "LC",
@@ -3134,7 +3134,7 @@
   {
     "person_id": 2,
     "tag_model_person": "gpt_oss_120b",
-    "tag_model_tutor": "gpt_oss_120b",
+    "tag_model_tutor": "mixtral_8x22B_v0_1",
     "ano": 2024,
     "area_descricao": "linguagens, códigos e suas tecnologias",
     "area_sigla": "LC",
@@ -3152,7 +3152,7 @@
   {
     "person_id": 2,
     "tag_model_person": "gpt_oss_120b",
-    "tag_model_tutor": "gpt_oss_120b",
+    "tag_model_tutor": "mixtral_8x22B_v0_1",
     "ano": 2024,
     "area_descricao": "linguagens, códigos e suas tecnologias",
     "area_sigla": "LC",
@@ -3170,7 +3170,7 @@
   {
     "person_id": 2,
     "tag_model_person": "gpt_oss_120b",
-    "tag_model_tutor": "gpt_oss_120b",
+    "tag_model_tutor": "mixtral_8x22B_v0_1",
     "ano": 2024,
     "area_descricao": "linguagens, códigos e suas tecnologias",
     "area_sigla": "LC",
@@ -3188,7 +3188,7 @@
   {
     "person_id": 2,
     "tag_model_person": "gpt_oss_120b",
-    "tag_model_tutor": "gpt_oss_120b",
+    "tag_model_tutor": "mixtral_8x22B_v0_1",
     "ano": 2024,
     "area_descricao": "linguagens, códigos e suas tecnologias",
     "area_sigla": "LC",
@@ -3199,14 +3199,14 @@
     "param_c": 0.12831,
     "dificuldade": "Fácil",
     "resposta_person": "D",
-    "resposta_tutor": "C",
+    "resposta_tutor": "E",
     "acerto_person_resp": 0,
-    "acerto_tutor_resp": 0
+    "acerto_tutor_resp": 1
   },
   {
     "person_id": 2,
     "tag_model_person": "gpt_oss_120b",
-    "tag_model_tutor": "gpt_oss_120b",
+    "tag_model_tutor": "mixtral_8x22B_v0_1",
     "ano": 2024,
     "area_descricao": "linguagens, códigos e suas tecnologias",
     "area_sigla": "LC",
@@ -3224,7 +3224,7 @@
   {
     "person_id": 2,
     "tag_model_person": "gpt_oss_120b",
-    "tag_model_tutor": "gpt_oss_120b",
+    "tag_model_tutor": "mixtral_8x22B_v0_1",
     "ano": 2024,
     "area_descricao": "linguagens, códigos e suas tecnologias",
     "area_sigla": "LC",
@@ -3242,7 +3242,7 @@
   {
     "person_id": 2,
     "tag_model_person": "gpt_oss_120b",
-    "tag_model_tutor": "gpt_oss_120b",
+    "tag_model_tutor": "mixtral_8x22B_v0_1",
     "ano": 2024,
     "area_descricao": "linguagens, códigos e suas tecnologias",
     "area_sigla": "LC",
@@ -3253,14 +3253,14 @@
     "param_c": 0.17832,
     "dificuldade": "Médio",
     "resposta_person": "C",
-    "resposta_tutor": "E",
+    "resposta_tutor": "C",
     "acerto_person_resp": 1,
-    "acerto_tutor_resp": 0
+    "acerto_tutor_resp": 1
   },
   {
     "person_id": 2,
     "tag_model_person": "gpt_oss_120b",
-    "tag_model_tutor": "gpt_oss_120b",
+    "tag_model_tutor": "mixtral_8x22B_v0_1",
     "ano": 2024,
     "area_descricao": "linguagens, códigos e suas tecnologias",
     "area_sigla": "LC",
@@ -3278,7 +3278,7 @@
   {
     "person_id": 2,
     "tag_model_person": "gpt_oss_120b",
-    "tag_model_tutor": "gpt_oss_120b",
+    "tag_model_tutor": "mixtral_8x22B_v0_1",
     "ano": 2024,
     "area_descricao": "linguagens, códigos e suas tecnologias",
     "area_sigla": "LC",
@@ -3296,7 +3296,7 @@
   {
     "person_id": 2,
     "tag_model_person": "gpt_oss_120b",
-    "tag_model_tutor": "gpt_oss_120b",
+    "tag_model_tutor": "mixtral_8x22B_v0_1",
     "ano": 2024,
     "area_descricao": "linguagens, códigos e suas tecnologias",
     "area_sigla": "LC",
@@ -3314,7 +3314,7 @@
   {
     "person_id": 2,
     "tag_model_person": "gpt_oss_120b",
-    "tag_model_tutor": "gpt_oss_120b",
+    "tag_model_tutor": "mixtral_8x22B_v0_1",
     "ano": 2024,
     "area_descricao": "linguagens, códigos e suas tecnologias",
     "area_sigla": "LC",
@@ -3325,14 +3325,14 @@
     "param_c": 0.25068,
     "dificuldade": "Médio",
     "resposta_person": "E",
-    "resposta_tutor": "C",
+    "resposta_tutor": "E",
     "acerto_person_resp": 1,
-    "acerto_tutor_resp": 1
+    "acerto_tutor_resp": 0
   },
   {
     "person_id": 2,
     "tag_model_person": "gpt_oss_120b",
-    "tag_model_tutor": "gpt_oss_120b",
+    "tag_model_tutor": "mixtral_8x22B_v0_1",
     "ano": 2024,
     "area_descricao": "linguagens, códigos e suas tecnologias",
     "area_sigla": "LC",
@@ -3350,7 +3350,7 @@
   {
     "person_id": 2,
     "tag_model_person": "gpt_oss_120b",
-    "tag_model_tutor": "gpt_oss_120b",
+    "tag_model_tutor": "mixtral_8x22B_v0_1",
     "ano": 2024,
     "area_descricao": "linguagens, códigos e suas tecnologias",
     "area_sigla": "LC",
@@ -3368,7 +3368,7 @@
   {
     "person_id": 2,
     "tag_model_person": "gpt_oss_120b",
-    "tag_model_tutor": "gpt_oss_120b",
+    "tag_model_tutor": "mixtral_8x22B_v0_1",
     "ano": 2024,
     "area_descricao": "linguagens, códigos e suas tecnologias",
     "area_sigla": "LC",
@@ -3386,7 +3386,7 @@
   {
     "person_id": 2,
     "tag_model_person": "gpt_oss_120b",
-    "tag_model_tutor": "gpt_oss_120b",
+    "tag_model_tutor": "mixtral_8x22B_v0_1",
     "ano": 2024,
     "area_descricao": "linguagens, códigos e suas tecnologias",
     "area_sigla": "LC",
@@ -3404,7 +3404,7 @@
   {
     "person_id": 2,
     "tag_model_person": "gpt_oss_120b",
-    "tag_model_tutor": "gpt_oss_120b",
+    "tag_model_tutor": "mixtral_8x22B_v0_1",
     "ano": 2024,
     "area_descricao": "linguagens, códigos e suas tecnologias",
     "area_sigla": "LC",
@@ -3422,7 +3422,7 @@
   {
     "person_id": 2,
     "tag_model_person": "gpt_oss_120b",
-    "tag_model_tutor": "gpt_oss_120b",
+    "tag_model_tutor": "mixtral_8x22B_v0_1",
     "ano": 2024,
     "area_descricao": "linguagens, códigos e suas tecnologias",
     "area_sigla": "LC",
@@ -3440,7 +3440,7 @@
   {
     "person_id": 2,
     "tag_model_person": "gpt_oss_120b",
-    "tag_model_tutor": "gpt_oss_120b",
+    "tag_model_tutor": "mixtral_8x22B_v0_1",
     "ano": 2024,
     "area_descricao": "linguagens, códigos e suas tecnologias",
     "area_sigla": "LC",
@@ -3451,14 +3451,14 @@
     "param_c": 0.12491000000000001,
     "dificuldade": "Fácil",
     "resposta_person": "E",
-    "resposta_tutor": "C",
+    "resposta_tutor": "E",
     "acerto_person_resp": 1,
-    "acerto_tutor_resp": 1
+    "acerto_tutor_resp": 0
   },
   {
     "person_id": 2,
     "tag_model_person": "gpt_oss_120b",
-    "tag_model_tutor": "gpt_oss_120b",
+    "tag_model_tutor": "mixtral_8x22B_v0_1",
     "ano": 2024,
     "area_descricao": "linguagens, códigos e suas tecnologias",
     "area_sigla": "LC",
@@ -3476,7 +3476,7 @@
   {
     "person_id": 2,
     "tag_model_person": "gpt_oss_120b",
-    "tag_model_tutor": "gpt_oss_120b",
+    "tag_model_tutor": "mixtral_8x22B_v0_1",
     "ano": 2024,
     "area_descricao": "linguagens, códigos e suas tecnologias",
     "area_sigla": "LC",
@@ -3487,14 +3487,14 @@
     "param_c": 0.15516000000000002,
     "dificuldade": "Médio",
     "resposta_person": "C",
-    "resposta_tutor": "E",
+    "resposta_tutor": "C",
     "acerto_person_resp": 0,
-    "acerto_tutor_resp": 1
+    "acerto_tutor_resp": 0
   },
   {
     "person_id": 2,
     "tag_model_person": "gpt_oss_120b",
-    "tag_model_tutor": "gpt_oss_120b",
+    "tag_model_tutor": "mixtral_8x22B_v0_1",
     "ano": 2024,
     "area_descricao": "linguagens, códigos e suas tecnologias",
     "area_sigla": "LC",
@@ -3512,7 +3512,7 @@
   {
     "person_id": 2,
     "tag_model_person": "gpt_oss_120b",
-    "tag_model_tutor": "gpt_oss_120b",
+    "tag_model_tutor": "mixtral_8x22B_v0_1",
     "ano": 2024,
     "area_descricao": "linguagens, códigos e suas tecnologias",
     "area_sigla": "LC",
@@ -3530,7 +3530,7 @@
   {
     "person_id": 2,
     "tag_model_person": "gpt_oss_120b",
-    "tag_model_tutor": "gpt_oss_120b",
+    "tag_model_tutor": "mixtral_8x22B_v0_1",
     "ano": 2024,
     "area_descricao": "linguagens, códigos e suas tecnologias",
     "area_sigla": "LC",
@@ -3548,7 +3548,7 @@
   {
     "person_id": 2,
     "tag_model_person": "gpt_oss_120b",
-    "tag_model_tutor": "gpt_oss_120b",
+    "tag_model_tutor": "mixtral_8x22B_v0_1",
     "ano": 2024,
     "area_descricao": "linguagens, códigos e suas tecnologias",
     "area_sigla": "LC",
@@ -3566,7 +3566,7 @@
   {
     "person_id": 2,
     "tag_model_person": "gpt_oss_120b",
-    "tag_model_tutor": "gpt_oss_120b",
+    "tag_model_tutor": "mixtral_8x22B_v0_1",
     "ano": 2024,
     "area_descricao": "linguagens, códigos e suas tecnologias",
     "area_sigla": "LC",
@@ -3584,7 +3584,7 @@
   {
     "person_id": 2,
     "tag_model_person": "gpt_oss_120b",
-    "tag_model_tutor": "gpt_oss_120b",
+    "tag_model_tutor": "mixtral_8x22B_v0_1",
     "ano": 2024,
     "area_descricao": "linguagens, códigos e suas tecnologias",
     "area_sigla": "LC",

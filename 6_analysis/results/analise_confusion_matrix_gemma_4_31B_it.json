@@ -1,0 +1,22 @@
+[
+  {
+    "person_id": 1,
+    "tag_model_person": "gpt_oss_120b",
+    "tag_model_tutor": "gemma_4_31B_it",
+    "true_positive": 55,
+    "true_negative": 18,
+    "false_positive": 1,
+    "false_negative": 2,
+    "quantidade_questoes": 100
+  },
+  {
+    "person_id": 2,
+    "tag_model_person": "gpt_oss_120b",
+    "tag_model_tutor": "gemma_4_31B_it",
+    "true_positive": 84,
+    "true_negative": 12,
+    "false_positive": 1,
+    "false_negative": 2,
+    "quantidade_questoes": 100
+  }
+]
