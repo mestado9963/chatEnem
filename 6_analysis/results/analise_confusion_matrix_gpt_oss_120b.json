@@ -1,0 +1,22 @@
+[
+  {
+    "person_id": 1,
+    "tag_model_person": "gpt_oss_120b",
+    "tag_model_tutor": "gpt_oss_120b",
+    "true_positive": 28,
+    "true_negative": 0,
+    "false_positive": 4,
+    "false_negative": 0,
+    "quantidade_questoes": 32
+  },
+  {
+    "person_id": 2,
+    "tag_model_person": "gpt_oss_120b",
+    "tag_model_tutor": "gpt_oss_120b",
+    "true_positive": 28,
+    "true_negative": 0,
+    "false_positive": 3,
+    "false_negative": 1,
+    "quantidade_questoes": 32
+  }
+]
