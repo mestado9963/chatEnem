@@ -121,7 +121,7 @@
     "param_c": 0.007970000000000001,
     "dificuldade": "Fácil",
     "resposta_person": "Desculpe, mas não posso atender a essa solicitação.",
-    "resposta_tutor": "D",
+    "resposta_tutor": "C",
     "acerto_person_resp": 0,
     "acerto_tutor_resp": 0
   },
@@ -283,9 +283,9 @@
     "param_c": 0.035620000000000006,
     "dificuldade": "Fácil",
     "resposta_person": "B",
-    "resposta_tutor": "B",
+    "resposta_tutor": "C",
     "acerto_person_resp": 1,
-    "acerto_tutor_resp": 0
+    "acerto_tutor_resp": 1
   },
   {
     "person_id": 1,
@@ -607,9 +607,9 @@
     "param_c": 0.19662000000000002,
     "dificuldade": "Fácil",
     "resposta_person": "A",
-    "resposta_tutor": "A",
+    "resposta_tutor": "C",
     "acerto_person_resp": 1,
-    "acerto_tutor_resp": 0
+    "acerto_tutor_resp": 1
   },
   {
     "person_id": 1,
@@ -769,9 +769,9 @@
     "param_c": 0.20612000000000003,
     "dificuldade": "Fácil",
     "resposta_person": "A",
-    "resposta_tutor": "A",
+    "resposta_tutor": "C",
     "acerto_person_resp": 1,
-    "acerto_tutor_resp": 0
+    "acerto_tutor_resp": 1
   },
   {
     "person_id": 1,
@@ -1039,9 +1039,9 @@
     "param_c": 0.09754,
     "dificuldade": "Fácil",
     "resposta_person": "A",
-    "resposta_tutor": "A",
+    "resposta_tutor": "C",
     "acerto_person_resp": 1,
-    "acerto_tutor_resp": 0
+    "acerto_tutor_resp": 1
   },
   {
     "person_id": 1,
@@ -1129,9 +1129,9 @@
     "param_c": 0.18782000000000001,
     "dificuldade": "Fácil",
     "resposta_person": "A",
-    "resposta_tutor": "A",
+    "resposta_tutor": "C",
     "acerto_person_resp": 1,
-    "acerto_tutor_resp": 0
+    "acerto_tutor_resp": 1
   },
   {
     "person_id": 1,
@@ -1291,9 +1291,9 @@
     "param_c": 0.19478,
     "dificuldade": "Fácil",
     "resposta_person": "D",
-    "resposta_tutor": "D",
+    "resposta_tutor": "C",
     "acerto_person_resp": 1,
-    "acerto_tutor_resp": 0
+    "acerto_tutor_resp": 1
   },
   {
     "person_id": 1,
@@ -1309,9 +1309,9 @@
     "param_c": 0.20325000000000001,
     "dificuldade": "Difícil",
     "resposta_person": "B",
-    "resposta_tutor": "B",
+    "resposta_tutor": "C",
     "acerto_person_resp": 1,
-    "acerto_tutor_resp": 0
+    "acerto_tutor_resp": 1
   },
   {
     "person_id": 1,
@@ -1453,7 +1453,7 @@
     "param_c": 0.17832,
     "dificuldade": "Médio",
     "resposta_person": "D",
-    "resposta_tutor": "D",
+    "resposta_tutor": "C",
     "acerto_person_resp": 0,
     "acerto_tutor_resp": 0
   },
@@ -1471,9 +1471,9 @@
     "param_c": 0.12279000000000001,
     "dificuldade": "Médio",
     "resposta_person": "Desculpe, mas não posso responder a essa questão.",
-    "resposta_tutor": "D",
+    "resposta_tutor": "E",
     "acerto_person_resp": 0,
-    "acerto_tutor_resp": 0
+    "acerto_tutor_resp": 1
   },
   {
     "person_id": 1,
@@ -2083,9 +2083,9 @@
     "param_c": 0.035620000000000006,
     "dificuldade": "Fácil",
     "resposta_person": "B",
-    "resposta_tutor": "B",
+    "resposta_tutor": "C",
     "acerto_person_resp": 1,
-    "acerto_tutor_resp": 0
+    "acerto_tutor_resp": 1
   },
   {
     "person_id": 2,
@@ -2407,9 +2407,9 @@
     "param_c": 0.19662000000000002,
     "dificuldade": "Fácil",
     "resposta_person": "A",
-    "resposta_tutor": "A",
+    "resposta_tutor": "C",
     "acerto_person_resp": 1,
-    "acerto_tutor_resp": 0
+    "acerto_tutor_resp": 1
   },
   {
     "person_id": 2,
@@ -2569,9 +2569,9 @@
     "param_c": 0.20612000000000003,
     "dificuldade": "Fácil",
     "resposta_person": "A",
-    "resposta_tutor": "A",
+    "resposta_tutor": "C",
     "acerto_person_resp": 1,
-    "acerto_tutor_resp": 0
+    "acerto_tutor_resp": 1
   },
   {
     "person_id": 2,
@@ -2839,9 +2839,9 @@
     "param_c": 0.09754,
     "dificuldade": "Fácil",
     "resposta_person": "A",
-    "resposta_tutor": "A",
+    "resposta_tutor": "C",
     "acerto_person_resp": 1,
-    "acerto_tutor_resp": 0
+    "acerto_tutor_resp": 1
   },
   {
     "person_id": 2,
@@ -2929,9 +2929,9 @@
     "param_c": 0.18782000000000001,
     "dificuldade": "Fácil",
     "resposta_person": "A",
-    "resposta_tutor": "A",
+    "resposta_tutor": "C",
     "acerto_person_resp": 1,
-    "acerto_tutor_resp": 0
+    "acerto_tutor_resp": 1
   },
   {
     "person_id": 2,
@@ -3091,9 +3091,9 @@
     "param_c": 0.19478,
     "dificuldade": "Fácil",
     "resposta_person": "D",
-    "resposta_tutor": "D",
+    "resposta_tutor": "C",
     "acerto_person_resp": 1,
-    "acerto_tutor_resp": 0
+    "acerto_tutor_resp": 1
   },
   {
     "person_id": 2,

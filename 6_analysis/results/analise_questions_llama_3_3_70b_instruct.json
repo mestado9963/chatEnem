@@ -120,10 +120,10 @@
     "param_b": -0.29879,
     "param_c": 0.007970000000000001,
     "dificuldade": "Fácil",
-    "resposta_person": "Desculpe, mas não posso atender a essa solicitação.",
-    "resposta_tutor": "formato incorreto",
-    "acerto_person_resp": 0,
-    "acerto_tutor_resp": 0
+    "resposta_person": "D",
+    "resposta_tutor": "C",
+    "acerto_person_resp": 1,
+    "acerto_tutor_resp": 1
   },
   {
     "person_id": 1,
@@ -210,7 +210,7 @@
     "param_b": 0.69547,
     "param_c": 0.07827,
     "dificuldade": "Fácil",
-    "resposta_person": "Desculpe, mas não consigo responder a essa questão.",
+    "resposta_person": "C",
     "resposta_tutor": "E",
     "acerto_person_resp": 0,
     "acerto_tutor_resp": 1
@@ -463,9 +463,9 @@
     "param_c": 0.18144000000000002,
     "dificuldade": "Fácil",
     "resposta_person": "E",
-    "resposta_tutor": "E",
+    "resposta_tutor": "C",
     "acerto_person_resp": 1,
-    "acerto_tutor_resp": 0
+    "acerto_tutor_resp": 1
   },
   {
     "person_id": 1,
@@ -696,7 +696,7 @@
     "param_b": 1.19798,
     "param_c": 0.23009000000000002,
     "dificuldade": "Médio",
-    "resposta_person": "Desculpe, mas não tenho condições de responder a essa questão.",
+    "resposta_person": "A",
     "resposta_tutor": "E",
     "acerto_person_resp": 0,
     "acerto_tutor_resp": 1
@@ -804,7 +804,7 @@
     "param_b": 1.23174,
     "param_c": 0.22153,
     "dificuldade": "Médio",
-    "resposta_person": "Desculpe, mas não consigo responder a essa questão.",
+    "resposta_person": "E",
     "resposta_tutor": "E",
     "acerto_person_resp": 0,
     "acerto_tutor_resp": 1
@@ -1002,10 +1002,10 @@
     "param_b": 0.2806,
     "param_c": 0.18430000000000002,
     "dificuldade": "Fácil",
-    "resposta_person": "Desculpe, mas não posso responder a essa questão.",
-    "resposta_tutor": "formato incorreto",
+    "resposta_person": "B",
+    "resposta_tutor": "E",
     "acerto_person_resp": 0,
-    "acerto_tutor_resp": 0
+    "acerto_tutor_resp": 1
   },
   {
     "person_id": 1,
@@ -1470,10 +1470,10 @@
     "param_b": 1.01911,
     "param_c": 0.12279000000000001,
     "dificuldade": "Médio",
-    "resposta_person": "Desculpe, mas não posso responder a essa questão.",
-    "resposta_tutor": "formato incorreto",
-    "acerto_person_resp": 0,
-    "acerto_tutor_resp": 0
+    "resposta_person": "D",
+    "resposta_tutor": "C",
+    "acerto_person_resp": 1,
+    "acerto_tutor_resp": 1
   },
   {
     "person_id": 1,
@@ -1614,10 +1614,10 @@
     "param_b": -0.38987000000000005,
     "param_c": 0.01152,
     "dificuldade": "Fácil",
-    "resposta_person": "Desculpe, mas não possuo habilidades para responder a questão.",
-    "resposta_tutor": "E",
+    "resposta_person": "E",
+    "resposta_tutor": "C",
     "acerto_person_resp": 0,
-    "acerto_tutor_resp": 1
+    "acerto_tutor_resp": 0
   },
   {
     "person_id": 1,
@@ -1740,10 +1740,10 @@
     "param_b": 0.046130000000000004,
     "param_c": 0.2554,
     "dificuldade": "Fácil",
-    "resposta_person": "Desculpe, mas não posso responder a essa questão.",
-    "resposta_tutor": "formato incorreto",
+    "resposta_person": "C",
+    "resposta_tutor": "E",
     "acerto_person_resp": 0,
-    "acerto_tutor_resp": 0
+    "acerto_tutor_resp": 1
   },
   {
     "person_id": 1,
@@ -1758,10 +1758,10 @@
     "param_b": -0.03216,
     "param_c": 0.14822000000000002,
     "dificuldade": "Fácil",
-    "resposta_person": "Desculpe, mas não tenho condições de responder a essa questão.",
-    "resposta_tutor": "E",
+    "resposta_person": "A",
+    "resposta_tutor": "C",
     "acerto_person_resp": 0,
-    "acerto_tutor_resp": 1
+    "acerto_tutor_resp": 0
   },
   {
     "person_id": 1,
@@ -2227,9 +2227,9 @@
     "param_c": 0.008650000000000001,
     "dificuldade": "Fácil",
     "resposta_person": "E",
-    "resposta_tutor": "E",
+    "resposta_tutor": "C",
     "acerto_person_resp": 1,
-    "acerto_tutor_resp": 0
+    "acerto_tutor_resp": 1
   },
   {
     "person_id": 2,

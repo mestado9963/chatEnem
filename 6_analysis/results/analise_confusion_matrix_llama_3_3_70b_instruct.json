@@ -3,20 +3,20 @@
     "person_id": 1,
     "tag_model_person": "gpt_oss_120b",
     "tag_model_tutor": "llama_3_3_70b_instruct",
-    "true_positive": 74,
+    "true_positive": 77,
     "true_negative": 9,
-    "false_positive": 11,
-    "false_negative": 2,
+    "false_positive": 13,
+    "false_negative": 1,
     "quantidade_questoes": 100
   },
   {
     "person_id": 2,
     "tag_model_person": "gpt_oss_120b",
     "tag_model_tutor": "llama_3_3_70b_instruct",
-    "true_positive": 83,
+    "true_positive": 84,
     "true_negative": 3,
     "false_positive": 11,
-    "false_negative": 3,
+    "false_negative": 2,
     "quantidade_questoes": 100
   }
 ]
