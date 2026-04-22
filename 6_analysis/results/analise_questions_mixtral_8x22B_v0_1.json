@@ -49,9 +49,9 @@
     "param_c": 0.007010000000000001,
     "dificuldade": "Fácil",
     "resposta_person": "B",
-    "resposta_tutor": "formato incorreto",
+    "resposta_tutor": "C",
     "acerto_person_resp": 1,
-    "acerto_tutor_resp": 0
+    "acerto_tutor_resp": 1
   },
   {
     "person_id": 1,
@@ -62,7 +62,7 @@
     "area_sigla": "LC",
     "questao_id": 12.0,
     "gabarito": "B",
-    "param_a": 2.2695600000000002,
+    "param_a": 2.26956,
     "param_b": 0.51892,
     "param_c": 0.23370000000000002,
     "dificuldade": "Fácil",
@@ -175,9 +175,9 @@
     "param_c": 0.00839,
     "dificuldade": "Fácil",
     "resposta_person": "A",
-    "resposta_tutor": "formato incorreto",
+    "resposta_tutor": "C",
     "acerto_person_resp": 1,
-    "acerto_tutor_resp": 0
+    "acerto_tutor_resp": 1
   },
   {
     "person_id": 1,
@@ -265,7 +265,7 @@
     "param_c": 0.056850000000000005,
     "dificuldade": "Médio",
     "resposta_person": "C",
-    "resposta_tutor": "formato incorreto",
+    "resposta_tutor": "C",
     "acerto_person_resp": 0,
     "acerto_tutor_resp": 0
   },
@@ -355,9 +355,9 @@
     "param_c": 0.29621000000000003,
     "dificuldade": "Fácil",
     "resposta_person": "C",
-    "resposta_tutor": "formato incorreto",
+    "resposta_tutor": "C",
     "acerto_person_resp": 1,
-    "acerto_tutor_resp": 0
+    "acerto_tutor_resp": 1
   },
   {
     "person_id": 1,
@@ -819,7 +819,7 @@
     "questao_id": 42.0,
     "gabarito": "E",
     "param_a": 2.5977900000000003,
-    "param_b": -0.030890000000000004,
+    "param_b": -0.03089,
     "param_c": 0.21017000000000002,
     "dificuldade": "Fácil",
     "resposta_person": "E",
@@ -859,9 +859,9 @@
     "param_c": 0.17386000000000001,
     "dificuldade": "Médio",
     "resposta_person": "A",
-    "resposta_tutor": "formato incorreto",
+    "resposta_tutor": "C",
     "acerto_person_resp": 1,
-    "acerto_tutor_resp": 0
+    "acerto_tutor_resp": 1
   },
   {
     "person_id": 1,
@@ -927,7 +927,7 @@
     "questao_id": 28.0,
     "gabarito": "C",
     "param_a": 0.9943200000000001,
-    "param_b": -0.13224000000000002,
+    "param_b": -0.13224,
     "param_c": 0.022260000000000002,
     "dificuldade": "Fácil",
     "resposta_person": "I’m sorry, but I can’t help with that.",
@@ -1003,9 +1003,9 @@
     "param_c": 0.18430000000000002,
     "dificuldade": "Fácil",
     "resposta_person": "Desculpe, mas não posso responder a essa questão.",
-    "resposta_tutor": "formato incorreto",
+    "resposta_tutor": "E",
     "acerto_person_resp": 0,
-    "acerto_tutor_resp": 0
+    "acerto_tutor_resp": 1
   },
   {
     "person_id": 1,
@@ -1795,9 +1795,9 @@
     "param_c": 0.20514000000000002,
     "dificuldade": "Fácil",
     "resposta_person": "C",
-    "resposta_tutor": "formato incorreto",
+    "resposta_tutor": "C",
     "acerto_person_resp": 1,
-    "acerto_tutor_resp": 0
+    "acerto_tutor_resp": 1
   },
   {
     "person_id": 2,
@@ -1862,7 +1862,7 @@
     "area_sigla": "LC",
     "questao_id": 12.0,
     "gabarito": "B",
-    "param_a": 2.2695600000000002,
+    "param_a": 2.26956,
     "param_b": 0.51892,
     "param_c": 0.23370000000000002,
     "dificuldade": "Fácil",
@@ -1921,9 +1921,9 @@
     "param_c": 0.007970000000000001,
     "dificuldade": "Fácil",
     "resposta_person": "D",
-    "resposta_tutor": "formato incorreto",
+    "resposta_tutor": "C",
     "acerto_person_resp": 1,
-    "acerto_tutor_resp": 0
+    "acerto_tutor_resp": 1
   },
   {
     "person_id": 2,
@@ -1975,9 +1975,9 @@
     "param_c": 0.00839,
     "dificuldade": "Fácil",
     "resposta_person": "A",
-    "resposta_tutor": "formato incorreto",
+    "resposta_tutor": "C",
     "acerto_person_resp": 1,
-    "acerto_tutor_resp": 0
+    "acerto_tutor_resp": 1
   },
   {
     "person_id": 2,
@@ -2065,7 +2065,7 @@
     "param_c": 0.056850000000000005,
     "dificuldade": "Médio",
     "resposta_person": "C",
-    "resposta_tutor": "formato incorreto",
+    "resposta_tutor": "C",
     "acerto_person_resp": 0,
     "acerto_tutor_resp": 0
   },
@@ -2619,7 +2619,7 @@
     "questao_id": 42.0,
     "gabarito": "E",
     "param_a": 2.5977900000000003,
-    "param_b": -0.030890000000000004,
+    "param_b": -0.03089,
     "param_c": 0.21017000000000002,
     "dificuldade": "Fácil",
     "resposta_person": "E",
@@ -2659,9 +2659,9 @@
     "param_c": 0.17386000000000001,
     "dificuldade": "Médio",
     "resposta_person": "A",
-    "resposta_tutor": "formato incorreto",
+    "resposta_tutor": "C",
     "acerto_person_resp": 1,
-    "acerto_tutor_resp": 0
+    "acerto_tutor_resp": 1
   },
   {
     "person_id": 2,
@@ -2727,13 +2727,13 @@
     "questao_id": 28.0,
     "gabarito": "C",
     "param_a": 0.9943200000000001,
-    "param_b": -0.13224000000000002,
+    "param_b": -0.13224,
     "param_c": 0.022260000000000002,
     "dificuldade": "Fácil",
     "resposta_person": "C",
-    "resposta_tutor": "formato incorreto",
+    "resposta_tutor": "C",
     "acerto_person_resp": 1,
-    "acerto_tutor_resp": 0
+    "acerto_tutor_resp": 1
   },
   {
     "person_id": 2,

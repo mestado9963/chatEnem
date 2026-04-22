@@ -62,7 +62,7 @@
     "area_sigla": "LC",
     "questao_id": 12.0,
     "gabarito": "B",
-    "param_a": 2.2695600000000002,
+    "param_a": 2.26956,
     "param_b": 0.51892,
     "param_c": 0.23370000000000002,
     "dificuldade": "Fácil",
@@ -85,9 +85,9 @@
     "param_c": 0.03348,
     "dificuldade": "Fácil",
     "resposta_person": "D",
-    "resposta_tutor": "formato incorreto",
+    "resposta_tutor": "E",
     "acerto_person_resp": 0,
-    "acerto_tutor_resp": 0
+    "acerto_tutor_resp": 1
   },
   {
     "person_id": 1,
@@ -157,9 +157,9 @@
     "param_c": 0.23705,
     "dificuldade": "Difícil",
     "resposta_person": "B",
-    "resposta_tutor": "formato incorreto",
+    "resposta_tutor": "E",
     "acerto_person_resp": 0,
-    "acerto_tutor_resp": 0
+    "acerto_tutor_resp": 1
   },
   {
     "person_id": 1,
@@ -337,9 +337,9 @@
     "param_c": 0.20082000000000003,
     "dificuldade": "Fácil",
     "resposta_person": "E",
-    "resposta_tutor": "formato incorreto",
+    "resposta_tutor": "C",
     "acerto_person_resp": 1,
-    "acerto_tutor_resp": 0
+    "acerto_tutor_resp": 1
   },
   {
     "person_id": 1,
@@ -355,9 +355,9 @@
     "param_c": 0.29621000000000003,
     "dificuldade": "Fácil",
     "resposta_person": "C",
-    "resposta_tutor": "formato incorreto",
+    "resposta_tutor": "C",
     "acerto_person_resp": 1,
-    "acerto_tutor_resp": 0
+    "acerto_tutor_resp": 1
   },
   {
     "person_id": 1,
@@ -373,9 +373,9 @@
     "param_c": 0.17382,
     "dificuldade": "Fácil",
     "resposta_person": "B",
-    "resposta_tutor": "formato incorreto",
+    "resposta_tutor": "C",
     "acerto_person_resp": 1,
-    "acerto_tutor_resp": 0
+    "acerto_tutor_resp": 1
   },
   {
     "person_id": 1,
@@ -445,9 +445,9 @@
     "param_c": 0.06459000000000001,
     "dificuldade": "Médio",
     "resposta_person": "E",
-    "resposta_tutor": "formato incorreto",
+    "resposta_tutor": "E",
     "acerto_person_resp": 0,
-    "acerto_tutor_resp": 0
+    "acerto_tutor_resp": 1
   },
   {
     "person_id": 1,
@@ -463,9 +463,9 @@
     "param_c": 0.18144000000000002,
     "dificuldade": "Fácil",
     "resposta_person": "E",
-    "resposta_tutor": "E",
+    "resposta_tutor": "C",
     "acerto_person_resp": 1,
-    "acerto_tutor_resp": 0
+    "acerto_tutor_resp": 1
   },
   {
     "person_id": 1,
@@ -499,9 +499,9 @@
     "param_c": 0.12178000000000001,
     "dificuldade": "Fácil",
     "resposta_person": "B",
-    "resposta_tutor": "formato incorreto",
+    "resposta_tutor": "C",
     "acerto_person_resp": 1,
-    "acerto_tutor_resp": 0
+    "acerto_tutor_resp": 1
   },
   {
     "person_id": 1,
@@ -517,9 +517,9 @@
     "param_c": 0.21415,
     "dificuldade": "Médio",
     "resposta_person": "B",
-    "resposta_tutor": "formato incorreto",
+    "resposta_tutor": "C",
     "acerto_person_resp": 1,
-    "acerto_tutor_resp": 0
+    "acerto_tutor_resp": 1
   },
   {
     "person_id": 1,
@@ -607,9 +607,9 @@
     "param_c": 0.19662000000000002,
     "dificuldade": "Fácil",
     "resposta_person": "A",
-    "resposta_tutor": "formato incorreto",
+    "resposta_tutor": "C",
     "acerto_person_resp": 1,
-    "acerto_tutor_resp": 0
+    "acerto_tutor_resp": 1
   },
   {
     "person_id": 1,
@@ -625,9 +625,9 @@
     "param_c": 0.00564,
     "dificuldade": "Fácil",
     "resposta_person": "D",
-    "resposta_tutor": "formato incorreto",
+    "resposta_tutor": "C",
     "acerto_person_resp": 1,
-    "acerto_tutor_resp": 0
+    "acerto_tutor_resp": 1
   },
   {
     "person_id": 1,
@@ -643,9 +643,9 @@
     "param_c": 0.22049000000000002,
     "dificuldade": "Difícil",
     "resposta_person": "E",
-    "resposta_tutor": "formato incorreto",
+    "resposta_tutor": "C",
     "acerto_person_resp": 1,
-    "acerto_tutor_resp": 0
+    "acerto_tutor_resp": 1
   },
   {
     "person_id": 1,
@@ -661,9 +661,9 @@
     "param_c": 0.19896000000000003,
     "dificuldade": "Fácil",
     "resposta_person": "B",
-    "resposta_tutor": "formato incorreto",
+    "resposta_tutor": "C",
     "acerto_person_resp": 1,
-    "acerto_tutor_resp": 0
+    "acerto_tutor_resp": 1
   },
   {
     "person_id": 1,
@@ -733,9 +733,9 @@
     "param_c": 0.22043000000000001,
     "dificuldade": "Médio",
     "resposta_person": "D",
-    "resposta_tutor": "formato incorreto",
+    "resposta_tutor": "C",
     "acerto_person_resp": 1,
-    "acerto_tutor_resp": 0
+    "acerto_tutor_resp": 1
   },
   {
     "person_id": 1,
@@ -819,7 +819,7 @@
     "questao_id": 42.0,
     "gabarito": "E",
     "param_a": 2.5977900000000003,
-    "param_b": -0.030890000000000004,
+    "param_b": -0.03089,
     "param_c": 0.21017000000000002,
     "dificuldade": "Fácil",
     "resposta_person": "E",
@@ -927,7 +927,7 @@
     "questao_id": 28.0,
     "gabarito": "C",
     "param_a": 0.9943200000000001,
-    "param_b": -0.13224000000000002,
+    "param_b": -0.13224,
     "param_c": 0.022260000000000002,
     "dificuldade": "Fácil",
     "resposta_person": "I’m sorry, but I can’t help with that.",
@@ -985,9 +985,9 @@
     "param_c": 0.16206,
     "dificuldade": "Fácil",
     "resposta_person": "A",
-    "resposta_tutor": "formato incorreto",
+    "resposta_tutor": "C",
     "acerto_person_resp": 1,
-    "acerto_tutor_resp": 0
+    "acerto_tutor_resp": 1
   },
   {
     "person_id": 1,
@@ -1327,9 +1327,9 @@
     "param_c": 0.00587,
     "dificuldade": "Fácil",
     "resposta_person": "B",
-    "resposta_tutor": "formato incorreto",
+    "resposta_tutor": "C",
     "acerto_person_resp": 1,
-    "acerto_tutor_resp": 0
+    "acerto_tutor_resp": 1
   },
   {
     "person_id": 1,
@@ -1345,9 +1345,9 @@
     "param_c": 0.24860000000000002,
     "dificuldade": "Médio",
     "resposta_person": "C",
-    "resposta_tutor": "formato incorreto",
+    "resposta_tutor": "C",
     "acerto_person_resp": 1,
-    "acerto_tutor_resp": 0
+    "acerto_tutor_resp": 1
   },
   {
     "person_id": 1,
@@ -1453,9 +1453,9 @@
     "param_c": 0.17832,
     "dificuldade": "Médio",
     "resposta_person": "D",
-    "resposta_tutor": "formato incorreto",
+    "resposta_tutor": "E",
     "acerto_person_resp": 0,
-    "acerto_tutor_resp": 0
+    "acerto_tutor_resp": 1
   },
   {
     "person_id": 1,
@@ -1507,9 +1507,9 @@
     "param_c": 0.19923000000000002,
     "dificuldade": "Fácil",
     "resposta_person": "B",
-    "resposta_tutor": "formato incorreto",
+    "resposta_tutor": "C",
     "acerto_person_resp": 1,
-    "acerto_tutor_resp": 0
+    "acerto_tutor_resp": 1
   },
   {
     "person_id": 1,
@@ -1561,9 +1561,9 @@
     "param_c": 0.21069000000000002,
     "dificuldade": "Fácil",
     "resposta_person": "D",
-    "resposta_tutor": "formato incorreto",
+    "resposta_tutor": "C",
     "acerto_person_resp": 1,
-    "acerto_tutor_resp": 0
+    "acerto_tutor_resp": 1
   },
   {
     "person_id": 1,
@@ -1615,9 +1615,9 @@
     "param_c": 0.01152,
     "dificuldade": "Fácil",
     "resposta_person": "Desculpe, mas não possuo habilidades para responder a questão.",
-    "resposta_tutor": "formato incorreto",
+    "resposta_tutor": "E",
     "acerto_person_resp": 0,
-    "acerto_tutor_resp": 0
+    "acerto_tutor_resp": 1
   },
   {
     "person_id": 1,
@@ -1651,9 +1651,9 @@
     "param_c": 0.12491000000000001,
     "dificuldade": "Fácil",
     "resposta_person": "E",
-    "resposta_tutor": "formato incorreto",
+    "resposta_tutor": "C",
     "acerto_person_resp": 1,
-    "acerto_tutor_resp": 0
+    "acerto_tutor_resp": 1
   },
   {
     "person_id": 1,
@@ -1669,9 +1669,9 @@
     "param_c": 0.05369,
     "dificuldade": "Fácil",
     "resposta_person": "B",
-    "resposta_tutor": "formato incorreto",
+    "resposta_tutor": "C",
     "acerto_person_resp": 1,
-    "acerto_tutor_resp": 0
+    "acerto_tutor_resp": 1
   },
   {
     "person_id": 1,
@@ -1687,9 +1687,9 @@
     "param_c": 0.15516000000000002,
     "dificuldade": "Médio",
     "resposta_person": "D",
-    "resposta_tutor": "formato incorreto",
+    "resposta_tutor": "C",
     "acerto_person_resp": 1,
-    "acerto_tutor_resp": 0
+    "acerto_tutor_resp": 1
   },
   {
     "person_id": 1,
@@ -1723,9 +1723,9 @@
     "param_c": 0.20588,
     "dificuldade": "Fácil",
     "resposta_person": "D",
-    "resposta_tutor": "formato incorreto",
+    "resposta_tutor": "C",
     "acerto_person_resp": 1,
-    "acerto_tutor_resp": 0
+    "acerto_tutor_resp": 1
   },
   {
     "person_id": 1,
@@ -1862,7 +1862,7 @@
     "area_sigla": "LC",
     "questao_id": 12.0,
     "gabarito": "B",
-    "param_a": 2.2695600000000002,
+    "param_a": 2.26956,
     "param_b": 0.51892,
     "param_c": 0.23370000000000002,
     "dificuldade": "Fácil",
@@ -1885,9 +1885,9 @@
     "param_c": 0.03348,
     "dificuldade": "Fácil",
     "resposta_person": "D",
-    "resposta_tutor": "formato incorreto",
+    "resposta_tutor": "E",
     "acerto_person_resp": 0,
-    "acerto_tutor_resp": 0
+    "acerto_tutor_resp": 1
   },
   {
     "person_id": 2,
@@ -2619,7 +2619,7 @@
     "questao_id": 42.0,
     "gabarito": "E",
     "param_a": 2.5977900000000003,
-    "param_b": -0.030890000000000004,
+    "param_b": -0.03089,
     "param_c": 0.21017000000000002,
     "dificuldade": "Fácil",
     "resposta_person": "E",
@@ -2727,7 +2727,7 @@
     "questao_id": 28.0,
     "gabarito": "C",
     "param_a": 0.9943200000000001,
-    "param_b": -0.13224000000000002,
+    "param_b": -0.13224,
     "param_c": 0.022260000000000002,
     "dificuldade": "Fácil",
     "resposta_person": "C",

@@ -3,9 +3,9 @@
     "person_id": 1,
     "tag_model_person": "gpt_oss_120b",
     "tag_model_tutor": "mixtral_8x22B_v0_1",
-    "true_positive": 52,
-    "true_negative": 14,
-    "false_positive": 5,
+    "true_positive": 57,
+    "true_negative": 15,
+    "false_positive": 6,
     "false_negative": 12,
     "quantidade_questoes": 100
   },
@@ -13,9 +13,9 @@
     "person_id": 2,
     "tag_model_person": "gpt_oss_120b",
     "tag_model_tutor": "mixtral_8x22B_v0_1",
-    "true_positive": 63,
+    "true_positive": 67,
     "true_negative": 6,
-    "false_positive": 7,
+    "false_positive": 8,
     "false_negative": 13,
     "quantidade_questoes": 100
   }
