@@ -1,135 +1,101 @@
-# Chat ENEM - Assistente Virtual para Estudantes do ENEM
+# Tutorial de Replicação do Experimento - Chat ENEM
 
-## Autor e Contexto
------ 
-Mestrando em Ciências da Computação 2025.1  
-Orientador: ----
+Este tutorial detalha o passo a passo para replicar o experimento do projeto **Chat ENEM**, utilizando todos os scripts, dados e notebooks presentes no diretório `/chat_enem`. O objetivo é garantir a reprodutibilidade dos resultados, desde a extração dos dados brutos até a análise final dos experimentos.
 
-O Chat ENEM é um assistente virtual projetado para apoiar estudantes a aumentarem seu rendimento nas provas do ENEM. Utilizando tecnologias modernas de Inteligência Artificial e Processamento de Linguagem Natural, o sistema oferece um ambiente interativo onde os estudantes podem fazer perguntas, receber questões personalizadas e obter explicações detalhadas sobre os diferentes conteúdos do exame.
+## Índice
+1. [Introdução](#introducao)
+2. [Pré-requisitos](#pre-requisitos)
+3. [Estrutura do Projeto](#estrutura-do-projeto)
+4. [Passo a Passo do Experimento](#passo-a-passo)
+    - [1. Coleta e Organização dos Dados](#1-coleta-e-organizacao-dos-dados)
+    - [2. Extração de Dados para Dataset](#2-extracao-de-dados-para-dataset)
+    - [3. Preparação dos Datasets](#3-preparacao-dos-datasets)
+    - [4. Extração de Personas e Habilidades](#4-extracao-de-personas-e-habilidades)
+    - [5. Execução dos Experimentos](#5-execucao-dos-experimentos)
+    - [6. Análise dos Resultados](#6-analise-dos-resultados)
+5. [Execução da Aplicação Principal](#execucao-da-aplicacao)
+6. [Licença](#licenca)
 
-## Funcionalidades do Projeto
+---
 
-### Sistema Multi-Agente (RN002)
-O projeto utiliza uma arquitetura sofisticada de agentes inteligentes integrada com ChromaDB, composta por:
+## <a name="introducao"></a>1. Introdução
+O Chat ENEM é um assistente virtual multiagente para estudantes do ENEM, com arquitetura baseada em agentes inteligentes, busca semântica e adaptação de dificuldade via TRI. Este tutorial mostra como replicar o pipeline experimental, desde a coleta dos dados até a análise dos resultados.
 
-- **Agente Recomendador (AR)**: Responsável por analisar as perguntas dos usuários, identificar a área de conhecimento e o nível de dificuldade desejado, e formatar o prompt para o Agente de Itens.
-
-- **Agente de Itens (ITA)**: Especializado em questões do ENEM, utiliza ChromaDB para armazenamento e busca vetorial eficiente. O agente considera:
-  - Área de conhecimento específica
-  - Nível de dificuldade baseado no TRI
-  - Similaridade semântica com a pergunta do usuário
-  
-O sistema utiliza embeddings e busca semântica para garantir recomendações precisas e contextualizadas.
-
-### Áreas de Conhecimento
-O sistema abrange todas as áreas do ENEM:
-- Linguagens, Códigos e suas Tecnologias
-- Ciências Humanas e suas Tecnologias
-- Ciências da Natureza e suas Tecnologias
-- Matemática e suas Tecnologias
-
-### Sistema de Dificuldade Adaptativa
-Utiliza a Teoria de Resposta ao Item (TRI) para ajustar o nível das questões recomendadas, proporcionando uma experiência de aprendizado personalizada.
-
-## Como Executar em sua Máquina Local
-
-### Pré-requisitos
+## <a name="pre-requisitos"></a>2. Pré-requisitos
 - Python 3.9 ou superior
-- pip (gerenciador de pacotes Python)
+- pip
 - Git
+- (Opcional) Ambiente virtual Python
 
-### Passo a Passo
-
-1. **Clone o repositório**
-```bash
-git clone https://github.com/https://github.com/mestado9963/chatEnem.git
-cd chat_enem
+## <a name="estrutura-do-projeto"></a>3. Estrutura do Projeto
+```
+1_data/                # Dados brutos do ENEM (CSV)
+2_dataset_extraction/  # Notebooks/scripts para extração dos datasets
+3_datasets/            # Datasets prontos para treino/teste (JSON)
+4_persons_extraction/  # Extração de personas e habilidades
+5_experiments/         # Scripts, configs e resultados dos experimentos
+6_analysis/            # Notebooks e scripts de análise dos resultados
 ```
 
-2. **Crie e ative um ambiente virtual**
-```bash
-python -m venv venv
-source venv/bin/activate  # No macOS/Linux
-# ou
-.\venv\Scripts\activate  # No Windows
-```
+## <a name="passo-a-passo"></a>4. Passo a Passo do Experimento
 
-3. **Instale as dependências**
-```bash
-pip install -r requirements.txt
-```
+### <a name="1-coleta-e-organizacao-dos-dados"></a>1. Coleta e Organização dos Dados (`1_data/`)
+- Os arquivos CSV de provas e itens do ENEM estão organizados por ano.
+- Exemplo de arquivos: `cd_provas.csv`, `ITENS_PROVA_2022.csv`, `PARTICIPANTES_2024.csv`, `RESULTADOS_2024.csv`.
+- **Ação:** Certifique-se de que todos os arquivos necessários estão presentes em `1_data/`.
 
-4. **Execute a aplicação**
+### <a name="2-extracao-de-dados-para-dataset"></a>2. Extração de Dados para Dataset (`2_dataset_extraction/`)
+- Utilize o notebook `dataset_questoes_enem.ipynb` para processar os dados brutos e gerar os datasets estruturados.
+- **Ação:**
+    1. Abra o notebook.
+    2. Execute as células para gerar os arquivos JSON de questões.
+    3. Os arquivos gerados serão salvos em `3_datasets/enem/<ano>/train/` e `test/`.
+
+### <a name="3-preparacao-dos-datasets"></a>3. Preparação dos Datasets (`3_datasets/`)
+- Os datasets finais para treino e teste estão organizados por ano.
+- Exemplo: `3_datasets/enem/2022/train/enem_questoes.json`
+- **Ação:** Verifique se os arquivos JSON foram gerados corretamente.
+
+### <a name="4-extracao-de-personas-e-habilidades"></a>4. Extração de Personas e Habilidades (`4_persons_extraction/`)
+- Contém arquivos como `habilidades_matriz_referencia.json` e `persons.json`.
+- **Ação:**
+    1. Utilize os scripts/notebooks para extrair e validar as personas e habilidades.
+    2. Esses dados são usados para personalização dos agentes e análise posterior.
+
+### <a name="5-execucao-dos-experimentos"></a>5. Execução dos Experimentos (`5_experiments/`)
+- Scripts e notebooks para rodar experimentos com diferentes configurações de LLMs e agentes.
+- Exemplo de arquivos:
+    - `llm_config.py` e `llm_config_example.py`: Configuração dos modelos.
+    - `tutor_feedbacks_*.json`: Resultados de interações com tutores.
+    - Notebooks: `tutor_resp.ipynb`, `persons_resp.ipynb`.
+- **Ação:**
+    1. Ajuste as configurações em `llm_config.py` conforme necessário.
+    2. Execute os notebooks para gerar respostas e feedbacks dos tutores.
+    3. Os resultados serão salvos em arquivos JSON para análise.
+
+### <a name="6-analise-dos-resultados"></a>6. Análise dos Resultados (`6_analysis/`)
+- Notebooks e scripts para análise quantitativa e qualitativa dos resultados dos experimentos.
+- Exemplo de arquivos:
+    - `analysis_research.ipynb`: Análise geral.
+    - `analise_questions.json`, `analise_confusion_matrix_*.json`: Resultados de análise.
+    - Subpastas `RQ1/`, `RQ2/`, `RQ3/`: Análises específicas por questão de pesquisa.
+- **Ação:**
+    1. Execute os notebooks de análise para gerar gráficos, tabelas e insights.
+    2. Os resultados podem ser utilizados para compor relatórios e artigos.
+
+## <a name="execucao-da-aplicacao"></a>5. Execução da Aplicação Principal
+
+Após replicar o experimento, você pode executar a aplicação principal:
+
 ```bash
 streamlit run chat_enem.py
 ```
 
-A aplicação estará disponível em `http://localhost:8501`
+Acesse em `http://localhost:8501` e configure as chaves de API conforme instruções na interface.
 
-5. **Configure as chaves de API**
-Na interface do Streamlit, você encontrará dois campos de texto para inserir suas chaves de API:
-- Chave API para o Agente Recomendador (AR)
-- Chave API para o Agente de Itens (ITA)
-
-As chaves são configuradas em tempo de execução e armazenadas de forma segura na sessão do Streamlit.
-
-6. **Utilizando o Chat**
-Ao interagir com o sistema, siga estas diretrizes para obter melhores resultados:
-- Especifique claramente a área de conhecimento desejada
-- Indique o nível de dificuldade pretendido (fácil, médio, difícil)
-- Use palavras-chave relevantes ao conteúdo
-- Exemplo de prompt: "Preciso de uma questão difícil de matemática sobre funções trigonométricas"
-
-O Agente Recomendador (AR) processará seu prompt e:
-1. Identificará a área de conhecimento
-2. Determinará o nível de dificuldade
-3. Extrairá palavras-chave importantes
-4. Direcionará a busca para o Agente de Itens (ITA) apropriado
-
-## Estrutura do Projeto
-
-### Base de Dados
-O sistema utiliza dois tipos de armazenamento:
-
-1. **Arquivos JSON** organizados nas seguintes pastas:
-   - `data_agent_1/` - Questões de Linguagens
-   - `data_agent_2/` - Questões de Ciências Humanas
-   - `data_agent_3/` - Ciências da Natureza
-   - `data_agent_4/` - Matemática
-
-2. **Base de Dados Vetorial (ChromaDB)**:
-   - Cada agente mantém sua própria base em `data_agent_X/chroma_db/`
-   - Otimizado para busca semântica e recuperação eficiente
-   - Armazena embeddings das questões para comparação por similaridade
-
-### Formato dos Dados
-Cada questão no banco de dados segue o formato:
-```json
-{
-    "enunciado": "Texto da questão",
-    "label": "área de conhecimento",
-    "cor_prova": "COR"
-}
-```
-
-## Arquitetura do Sistema
-
-### Fluxo de Processamento
-1. Usuário submete pergunta via interface Streamlit
-2. AR processa e identifica:
-   - Área de conhecimento
-   - Nível de dificuldade
-   - Palavras-chave relevantes
-3. ITA realiza:
-   - Busca vetorial no ChromaDB
-   - Filtragem por dificuldade (TRI)
-   - Seleção das questões mais relevantes
-4. Sistema apresenta as questões ao usuário
-
-### Integração com APIs
-- OpenAI API: Processamento de linguagem natural e embeddings
-- HuggingFace API: PLN e classificação específica
-
-## Licença
+## <a name="licenca"></a>6. Licença
 Este projeto está sob a licença MIT. Veja o arquivo LICENSE para mais detalhes.
-# chatEnem
+
+---
+
+**Contato:** Para dúvidas ou sugestões, entre em contato com o autor do projeto.
