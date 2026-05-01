@@ -42,8 +42,8 @@ Utiliza a Teoria de Resposta ao Item (TRI) para ajustar o nível das questões r
 
 1. **Clone o repositório**
 ```bash
-git clone https://github.com/CarlosAlbertoUFS/TEESI_2025.git
-cd TEESI_2025
+git clone https://github.com/https://github.com/mestado9963/chatEnem.git
+cd chat_enem
 ```
 
 2. **Crie e ative um ambiente virtual**
