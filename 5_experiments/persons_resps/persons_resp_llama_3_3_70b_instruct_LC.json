@@ -1,7 +1,7 @@
 [
   {
     "id_person": 1,
-    "tag_model_person": "gpt_oss_120b",
+    "tag_model_person": "llama_3_3_70b_instruct",
     "questions": [
       {
         "enunciado": "\nQUESTÃO 11\t\nOra, sempre que surge uma nova técnica, ela quer \ndemonstrar que revogará as regras e coerções que \npresidiram o nascimento de todas as outras invenções \ndo passado. Ela se pretende orgulhosa e única. Como \nse a nova técnica carreasse com ela, automaticamente, \npara seus novos usuários, uma propensão natural a fazer \neconomia de qualquer aprendizagem. Como se ela se \npreparasse para varrer tudo que a precedeu, ao mesmo \ntempo transformando em analfabetos todos os que \nousassem repeli-la.\nFui testemunha dessa mudança ao longo de toda \na minha vida. Ao passo que, na realidade, é o contrário \nque acontece. Cada nova técnica exige uma longa \niniciação numa nova linguagem, ainda mais longa na \nmedida em que nosso espírito é formatado pela utilização \ndas linguagens que precederam o nascimento da \nrecém-chegada.\nECO, U.; CARRIÈRE, J.-C. Não contem com o fim do livro. \nRio de Janeiro: Record, 2010 (adaptado).\nO texto revela que, quando a sociedade promove o \ndesenvolvimento de uma nova técnica, o que mais \nimpacta seus usuários é a\nA\t\nA\t dificuldade na apropriação da nova linguagem.\nB\t\nB\t valorização da utilização da nova tecnologia.\nC\t\nC\t recorrência das mudanças tecnológicas.\nD\t\nD\t suplantação imediata dos conhecimentos prévios.\nE\t\nE\t rapidez no aprendizado do manuseio das novas \ninvenções.",
@@ -607,700 +607,700 @@
     "resp": [
       {
         "ano": 2022,
-        "tag_model": "gpt_oss_120b",
+        "tag_model": "llama_3_3_70b_instruct",
         "CO_POSICAO": 11.0,
         "descricao_area": "linguagens, códigos e suas tecnologias",
         "resposta": "A"
       },
       {
         "ano": 2022,
-        "tag_model": "gpt_oss_120b",
+        "tag_model": "llama_3_3_70b_instruct",
         "CO_POSICAO": 20.0,
         "descricao_area": "linguagens, códigos e suas tecnologias",
         "resposta": "C"
       },
       {
         "ano": 2022,
-        "tag_model": "gpt_oss_120b",
+        "tag_model": "llama_3_3_70b_instruct",
         "CO_POSICAO": 41.0,
         "descricao_area": "linguagens, códigos e suas tecnologias",
         "resposta": "B"
       },
       {
         "ano": 2022,
-        "tag_model": "gpt_oss_120b",
+        "tag_model": "llama_3_3_70b_instruct",
         "CO_POSICAO": 12.0,
         "descricao_area": "linguagens, códigos e suas tecnologias",
         "resposta": "B"
       },
       {
         "ano": 2022,
-        "tag_model": "gpt_oss_120b",
+        "tag_model": "llama_3_3_70b_instruct",
         "CO_POSICAO": 31.0,
         "descricao_area": "linguagens, códigos e suas tecnologias",
-        "resposta": "D"
+        "resposta": "A"
       },
       {
         "ano": 2022,
-        "tag_model": "gpt_oss_120b",
+        "tag_model": "llama_3_3_70b_instruct",
         "CO_POSICAO": 26.0,
         "descricao_area": "linguagens, códigos e suas tecnologias",
         "resposta": "C"
       },
       {
         "ano": 2022,
-        "tag_model": "gpt_oss_120b",
+        "tag_model": "llama_3_3_70b_instruct",
         "CO_POSICAO": 14.0,
         "descricao_area": "linguagens, códigos e suas tecnologias",
         "resposta": "D"
       },
       {
         "ano": 2022,
-        "tag_model": "gpt_oss_120b",
+        "tag_model": "llama_3_3_70b_instruct",
         "CO_POSICAO": 25.0,
-        "descricao_area": "linguagens, códigos e suas tecnologias",
-        "resposta": "C"
-      },
-      {
-        "ano": 2022,
-        "tag_model": "gpt_oss_120b",
-        "CO_POSICAO": 8.0,
         "descricao_area": "linguagens, códigos e suas tecnologias",
         "resposta": "B"
       },
       {
         "ano": 2022,
-        "tag_model": "gpt_oss_120b",
+        "tag_model": "llama_3_3_70b_instruct",
+        "CO_POSICAO": 8.0,
+        "descricao_area": "linguagens, códigos e suas tecnologias",
+        "resposta": "A"
+      },
+      {
+        "ano": 2022,
+        "tag_model": "llama_3_3_70b_instruct",
         "CO_POSICAO": 37.0,
         "descricao_area": "linguagens, códigos e suas tecnologias",
         "resposta": "A"
       },
       {
         "ano": 2022,
-        "tag_model": "gpt_oss_120b",
+        "tag_model": "llama_3_3_70b_instruct",
         "CO_POSICAO": 34.0,
         "descricao_area": "linguagens, códigos e suas tecnologias",
         "resposta": "D"
       },
       {
         "ano": 2022,
-        "tag_model": "gpt_oss_120b",
+        "tag_model": "llama_3_3_70b_instruct",
         "CO_POSICAO": 42.0,
         "descricao_area": "linguagens, códigos e suas tecnologias",
         "resposta": "D"
       },
       {
         "ano": 2022,
-        "tag_model": "gpt_oss_120b",
+        "tag_model": "llama_3_3_70b_instruct",
         "CO_POSICAO": 22.0,
         "descricao_area": "linguagens, códigos e suas tecnologias",
         "resposta": "E"
       },
       {
         "ano": 2022,
-        "tag_model": "gpt_oss_120b",
+        "tag_model": "llama_3_3_70b_instruct",
         "CO_POSICAO": 18.0,
         "descricao_area": "linguagens, códigos e suas tecnologias",
         "resposta": "A"
       },
       {
         "ano": 2022,
-        "tag_model": "gpt_oss_120b",
+        "tag_model": "llama_3_3_70b_instruct",
         "CO_POSICAO": 23.0,
         "descricao_area": "linguagens, códigos e suas tecnologias",
-        "resposta": "E"
+        "resposta": "A"
       },
       {
         "ano": 2022,
-        "tag_model": "gpt_oss_120b",
+        "tag_model": "llama_3_3_70b_instruct",
         "CO_POSICAO": 28.0,
         "descricao_area": "linguagens, códigos e suas tecnologias",
         "resposta": "B"
       },
       {
         "ano": 2022,
-        "tag_model": "gpt_oss_120b",
+        "tag_model": "llama_3_3_70b_instruct",
         "CO_POSICAO": 6.0,
         "descricao_area": "linguagens, códigos e suas tecnologias",
-        "resposta": "C"
+        "resposta": "E"
       },
       {
         "ano": 2022,
-        "tag_model": "gpt_oss_120b",
+        "tag_model": "llama_3_3_70b_instruct",
         "CO_POSICAO": 40.0,
         "descricao_area": "linguagens, códigos e suas tecnologias",
         "resposta": "D"
       },
       {
         "ano": 2022,
-        "tag_model": "gpt_oss_120b",
+        "tag_model": "llama_3_3_70b_instruct",
         "CO_POSICAO": 24.0,
         "descricao_area": "linguagens, códigos e suas tecnologias",
         "resposta": "E"
       },
       {
         "ano": 2022,
-        "tag_model": "gpt_oss_120b",
+        "tag_model": "llama_3_3_70b_instruct",
         "CO_POSICAO": 36.0,
         "descricao_area": "linguagens, códigos e suas tecnologias",
         "resposta": "C"
       },
       {
         "ano": 2022,
-        "tag_model": "gpt_oss_120b",
+        "tag_model": "llama_3_3_70b_instruct",
         "CO_POSICAO": 21.0,
         "descricao_area": "linguagens, códigos e suas tecnologias",
         "resposta": "B"
       },
       {
         "ano": 2022,
-        "tag_model": "gpt_oss_120b",
+        "tag_model": "llama_3_3_70b_instruct",
         "CO_POSICAO": 19.0,
         "descricao_area": "linguagens, códigos e suas tecnologias",
         "resposta": "C"
       },
       {
         "ano": 2022,
-        "tag_model": "gpt_oss_120b",
+        "tag_model": "llama_3_3_70b_instruct",
         "CO_POSICAO": 35.0,
         "descricao_area": "linguagens, códigos e suas tecnologias",
         "resposta": "C"
       },
       {
         "ano": 2022,
-        "tag_model": "gpt_oss_120b",
+        "tag_model": "llama_3_3_70b_instruct",
         "CO_POSICAO": 43.0,
+        "descricao_area": "linguagens, códigos e suas tecnologias",
+        "resposta": "A"
+      },
+      {
+        "ano": 2022,
+        "tag_model": "llama_3_3_70b_instruct",
+        "CO_POSICAO": 29.0,
         "descricao_area": "linguagens, códigos e suas tecnologias",
         "resposta": "E"
       },
       {
         "ano": 2022,
-        "tag_model": "gpt_oss_120b",
-        "CO_POSICAO": 29.0,
-        "descricao_area": "linguagens, códigos e suas tecnologias",
-        "resposta": "D"
-      },
-      {
-        "ano": 2022,
-        "tag_model": "gpt_oss_120b",
+        "tag_model": "llama_3_3_70b_instruct",
         "CO_POSICAO": 45.0,
         "descricao_area": "linguagens, códigos e suas tecnologias",
         "resposta": "E"
       },
       {
         "ano": 2022,
-        "tag_model": "gpt_oss_120b",
+        "tag_model": "llama_3_3_70b_instruct",
         "CO_POSICAO": 30.0,
         "descricao_area": "linguagens, códigos e suas tecnologias",
         "resposta": "C"
       },
       {
         "ano": 2022,
-        "tag_model": "gpt_oss_120b",
+        "tag_model": "llama_3_3_70b_instruct",
         "CO_POSICAO": 13.0,
         "descricao_area": "linguagens, códigos e suas tecnologias",
         "resposta": "B"
       },
       {
         "ano": 2022,
-        "tag_model": "gpt_oss_120b",
+        "tag_model": "llama_3_3_70b_instruct",
         "CO_POSICAO": 17.0,
         "descricao_area": "linguagens, códigos e suas tecnologias",
         "resposta": "B"
       },
       {
         "ano": 2022,
-        "tag_model": "gpt_oss_120b",
+        "tag_model": "llama_3_3_70b_instruct",
         "CO_POSICAO": 33.0,
         "descricao_area": "linguagens, códigos e suas tecnologias",
         "resposta": "A"
       },
       {
         "ano": 2022,
-        "tag_model": "gpt_oss_120b",
+        "tag_model": "llama_3_3_70b_instruct",
         "CO_POSICAO": 16.0,
         "descricao_area": "linguagens, códigos e suas tecnologias",
-        "resposta": "C"
+        "resposta": "A"
       },
       {
         "ano": 2022,
-        "tag_model": "gpt_oss_120b",
+        "tag_model": "llama_3_3_70b_instruct",
         "CO_POSICAO": 10.0,
         "descricao_area": "linguagens, códigos e suas tecnologias",
         "resposta": "C"
       },
       {
         "ano": 2023,
-        "tag_model": "gpt_oss_120b",
+        "tag_model": "llama_3_3_70b_instruct",
         "CO_POSICAO": 15.0,
         "descricao_area": "linguagens, códigos e suas tecnologias",
         "resposta": "B"
       },
       {
         "ano": 2023,
-        "tag_model": "gpt_oss_120b",
+        "tag_model": "llama_3_3_70b_instruct",
         "CO_POSICAO": 38.0,
         "descricao_area": "linguagens, códigos e suas tecnologias",
         "resposta": "A"
       },
       {
         "ano": 2023,
-        "tag_model": "gpt_oss_120b",
+        "tag_model": "llama_3_3_70b_instruct",
         "CO_POSICAO": 11.0,
         "descricao_area": "linguagens, códigos e suas tecnologias",
         "resposta": "D"
       },
       {
         "ano": 2023,
-        "tag_model": "gpt_oss_120b",
+        "tag_model": "llama_3_3_70b_instruct",
         "CO_POSICAO": 20.0,
         "descricao_area": "linguagens, códigos e suas tecnologias",
         "resposta": "E"
       },
       {
         "ano": 2023,
-        "tag_model": "gpt_oss_120b",
+        "tag_model": "llama_3_3_70b_instruct",
         "CO_POSICAO": 41.0,
         "descricao_area": "linguagens, códigos e suas tecnologias",
         "resposta": "B"
       },
       {
         "ano": 2023,
-        "tag_model": "gpt_oss_120b",
+        "tag_model": "llama_3_3_70b_instruct",
         "CO_POSICAO": 12.0,
         "descricao_area": "linguagens, códigos e suas tecnologias",
-        "resposta": "C"
+        "resposta": "B"
       },
       {
         "ano": 2023,
-        "tag_model": "gpt_oss_120b",
+        "tag_model": "llama_3_3_70b_instruct",
         "CO_POSICAO": 31.0,
         "descricao_area": "linguagens, códigos e suas tecnologias",
         "resposta": "C"
       },
       {
         "ano": 2023,
-        "tag_model": "gpt_oss_120b",
+        "tag_model": "llama_3_3_70b_instruct",
         "CO_POSICAO": 26.0,
         "descricao_area": "linguagens, códigos e suas tecnologias",
         "resposta": "B"
       },
       {
         "ano": 2023,
-        "tag_model": "gpt_oss_120b",
+        "tag_model": "llama_3_3_70b_instruct",
         "CO_POSICAO": 14.0,
         "descricao_area": "linguagens, códigos e suas tecnologias",
         "resposta": "B"
       },
       {
         "ano": 2023,
-        "tag_model": "gpt_oss_120b",
+        "tag_model": "llama_3_3_70b_instruct",
         "CO_POSICAO": 25.0,
         "descricao_area": "linguagens, códigos e suas tecnologias",
         "resposta": "B"
       },
       {
         "ano": 2023,
-        "tag_model": "gpt_oss_120b",
+        "tag_model": "llama_3_3_70b_instruct",
         "CO_POSICAO": 27.0,
         "descricao_area": "linguagens, códigos e suas tecnologias",
         "resposta": "A"
       },
       {
         "ano": 2023,
-        "tag_model": "gpt_oss_120b",
+        "tag_model": "llama_3_3_70b_instruct",
         "CO_POSICAO": 8.0,
         "descricao_area": "linguagens, códigos e suas tecnologias",
         "resposta": "C"
       },
       {
         "ano": 2023,
-        "tag_model": "gpt_oss_120b",
+        "tag_model": "llama_3_3_70b_instruct",
         "CO_POSICAO": 37.0,
         "descricao_area": "linguagens, códigos e suas tecnologias",
         "resposta": "C"
       },
       {
         "ano": 2023,
-        "tag_model": "gpt_oss_120b",
+        "tag_model": "llama_3_3_70b_instruct",
         "CO_POSICAO": 42.0,
         "descricao_area": "linguagens, códigos e suas tecnologias",
         "resposta": "E"
       },
       {
         "ano": 2023,
-        "tag_model": "gpt_oss_120b",
+        "tag_model": "llama_3_3_70b_instruct",
         "CO_POSICAO": 22.0,
         "descricao_area": "linguagens, códigos e suas tecnologias",
         "resposta": "C"
       },
       {
         "ano": 2023,
-        "tag_model": "gpt_oss_120b",
+        "tag_model": "llama_3_3_70b_instruct",
         "CO_POSICAO": 32.0,
         "descricao_area": "linguagens, códigos e suas tecnologias",
         "resposta": "A"
       },
       {
         "ano": 2023,
-        "tag_model": "gpt_oss_120b",
+        "tag_model": "llama_3_3_70b_instruct",
         "CO_POSICAO": 18.0,
         "descricao_area": "linguagens, códigos e suas tecnologias",
         "resposta": "B"
       },
       {
         "ano": 2023,
-        "tag_model": "gpt_oss_120b",
+        "tag_model": "llama_3_3_70b_instruct",
         "CO_POSICAO": 7.0,
         "descricao_area": "linguagens, códigos e suas tecnologias",
         "resposta": "A"
       },
       {
         "ano": 2023,
-        "tag_model": "gpt_oss_120b",
+        "tag_model": "llama_3_3_70b_instruct",
         "CO_POSICAO": 23.0,
         "descricao_area": "linguagens, códigos e suas tecnologias",
         "resposta": "C"
       },
       {
         "ano": 2023,
-        "tag_model": "gpt_oss_120b",
+        "tag_model": "llama_3_3_70b_instruct",
         "CO_POSICAO": 28.0,
         "descricao_area": "linguagens, códigos e suas tecnologias",
         "resposta": "C"
       },
       {
         "ano": 2023,
-        "tag_model": "gpt_oss_120b",
+        "tag_model": "llama_3_3_70b_instruct",
         "CO_POSICAO": 6.0,
         "descricao_area": "linguagens, códigos e suas tecnologias",
         "resposta": "D"
       },
       {
         "ano": 2023,
-        "tag_model": "gpt_oss_120b",
+        "tag_model": "llama_3_3_70b_instruct",
         "CO_POSICAO": 40.0,
         "descricao_area": "linguagens, códigos e suas tecnologias",
         "resposta": "B"
       },
       {
         "ano": 2023,
-        "tag_model": "gpt_oss_120b",
+        "tag_model": "llama_3_3_70b_instruct",
         "CO_POSICAO": 36.0,
         "descricao_area": "linguagens, códigos e suas tecnologias",
         "resposta": "A"
       },
       {
         "ano": 2023,
-        "tag_model": "gpt_oss_120b",
+        "tag_model": "llama_3_3_70b_instruct",
         "CO_POSICAO": 21.0,
         "descricao_area": "linguagens, códigos e suas tecnologias",
         "resposta": "D"
       },
       {
         "ano": 2023,
-        "tag_model": "gpt_oss_120b",
+        "tag_model": "llama_3_3_70b_instruct",
         "CO_POSICAO": 19.0,
         "descricao_area": "linguagens, códigos e suas tecnologias",
         "resposta": "D"
       },
       {
         "ano": 2023,
-        "tag_model": "gpt_oss_120b",
+        "tag_model": "llama_3_3_70b_instruct",
         "CO_POSICAO": 35.0,
         "descricao_area": "linguagens, códigos e suas tecnologias",
         "resposta": "A"
       },
       {
         "ano": 2023,
-        "tag_model": "gpt_oss_120b",
+        "tag_model": "llama_3_3_70b_instruct",
         "CO_POSICAO": 43.0,
         "descricao_area": "linguagens, códigos e suas tecnologias",
         "resposta": "A"
       },
       {
         "ano": 2023,
-        "tag_model": "gpt_oss_120b",
+        "tag_model": "llama_3_3_70b_instruct",
         "CO_POSICAO": 29.0,
         "descricao_area": "linguagens, códigos e suas tecnologias",
-        "resposta": "B"
+        "resposta": "E"
       },
       {
         "ano": 2023,
-        "tag_model": "gpt_oss_120b",
+        "tag_model": "llama_3_3_70b_instruct",
         "CO_POSICAO": 39.0,
         "descricao_area": "linguagens, códigos e suas tecnologias",
         "resposta": "C"
       },
       {
         "ano": 2023,
-        "tag_model": "gpt_oss_120b",
+        "tag_model": "llama_3_3_70b_instruct",
         "CO_POSICAO": 45.0,
         "descricao_area": "linguagens, códigos e suas tecnologias",
-        "resposta": "B"
+        "resposta": "E"
       },
       {
         "ano": 2023,
-        "tag_model": "gpt_oss_120b",
+        "tag_model": "llama_3_3_70b_instruct",
         "CO_POSICAO": 30.0,
         "descricao_area": "linguagens, códigos e suas tecnologias",
         "resposta": "A"
       },
       {
         "ano": 2023,
-        "tag_model": "gpt_oss_120b",
+        "tag_model": "llama_3_3_70b_instruct",
         "CO_POSICAO": 9.0,
         "descricao_area": "linguagens, códigos e suas tecnologias",
         "resposta": "E"
       },
       {
         "ano": 2023,
-        "tag_model": "gpt_oss_120b",
+        "tag_model": "llama_3_3_70b_instruct",
         "CO_POSICAO": 13.0,
         "descricao_area": "linguagens, códigos e suas tecnologias",
         "resposta": "C"
       },
       {
         "ano": 2023,
-        "tag_model": "gpt_oss_120b",
+        "tag_model": "llama_3_3_70b_instruct",
         "CO_POSICAO": 17.0,
         "descricao_area": "linguagens, códigos e suas tecnologias",
         "resposta": "D"
       },
       {
         "ano": 2023,
-        "tag_model": "gpt_oss_120b",
+        "tag_model": "llama_3_3_70b_instruct",
         "CO_POSICAO": 16.0,
         "descricao_area": "linguagens, códigos e suas tecnologias",
         "resposta": "A"
       },
       {
         "ano": 2023,
-        "tag_model": "gpt_oss_120b",
+        "tag_model": "llama_3_3_70b_instruct",
         "CO_POSICAO": 10.0,
         "descricao_area": "linguagens, códigos e suas tecnologias",
         "resposta": "E"
       },
       {
         "ano": 2024,
-        "tag_model": "gpt_oss_120b",
+        "tag_model": "llama_3_3_70b_instruct",
         "CO_POSICAO": 15.0,
         "descricao_area": "linguagens, códigos e suas tecnologias",
         "resposta": "B"
       },
       {
         "ano": 2024,
-        "tag_model": "gpt_oss_120b",
+        "tag_model": "llama_3_3_70b_instruct",
         "CO_POSICAO": 11.0,
         "descricao_area": "linguagens, códigos e suas tecnologias",
         "resposta": "E"
       },
       {
         "ano": 2024,
-        "tag_model": "gpt_oss_120b",
+        "tag_model": "llama_3_3_70b_instruct",
         "CO_POSICAO": 20.0,
         "descricao_area": "linguagens, códigos e suas tecnologias",
         "resposta": "C"
       },
       {
         "ano": 2024,
-        "tag_model": "gpt_oss_120b",
+        "tag_model": "llama_3_3_70b_instruct",
         "CO_POSICAO": 12.0,
         "descricao_area": "linguagens, códigos e suas tecnologias",
         "resposta": "D"
       },
       {
         "ano": 2024,
-        "tag_model": "gpt_oss_120b",
+        "tag_model": "llama_3_3_70b_instruct",
         "CO_POSICAO": 31.0,
         "descricao_area": "linguagens, códigos e suas tecnologias",
         "resposta": "B"
       },
       {
         "ano": 2024,
-        "tag_model": "gpt_oss_120b",
+        "tag_model": "llama_3_3_70b_instruct",
         "CO_POSICAO": 26.0,
         "descricao_area": "linguagens, códigos e suas tecnologias",
         "resposta": "B"
       },
       {
         "ano": 2024,
-        "tag_model": "gpt_oss_120b",
+        "tag_model": "llama_3_3_70b_instruct",
         "CO_POSICAO": 14.0,
         "descricao_area": "linguagens, códigos e suas tecnologias",
         "resposta": "C"
       },
       {
         "ano": 2024,
-        "tag_model": "gpt_oss_120b",
+        "tag_model": "llama_3_3_70b_instruct",
         "CO_POSICAO": 27.0,
         "descricao_area": "linguagens, códigos e suas tecnologias",
-        "resposta": "C"
+        "resposta": "D"
       },
       {
         "ano": 2024,
-        "tag_model": "gpt_oss_120b",
+        "tag_model": "llama_3_3_70b_instruct",
         "CO_POSICAO": 8.0,
         "descricao_area": "linguagens, códigos e suas tecnologias",
         "resposta": "B"
       },
       {
         "ano": 2024,
-        "tag_model": "gpt_oss_120b",
+        "tag_model": "llama_3_3_70b_instruct",
         "CO_POSICAO": 37.0,
         "descricao_area": "linguagens, códigos e suas tecnologias",
         "resposta": "D"
       },
       {
         "ano": 2024,
-        "tag_model": "gpt_oss_120b",
+        "tag_model": "llama_3_3_70b_instruct",
         "CO_POSICAO": 34.0,
         "descricao_area": "linguagens, códigos e suas tecnologias",
         "resposta": "B"
       },
       {
         "ano": 2024,
-        "tag_model": "gpt_oss_120b",
+        "tag_model": "llama_3_3_70b_instruct",
         "CO_POSICAO": 42.0,
         "descricao_area": "linguagens, códigos e suas tecnologias",
         "resposta": "D"
       },
       {
         "ano": 2024,
-        "tag_model": "gpt_oss_120b",
+        "tag_model": "llama_3_3_70b_instruct",
         "CO_POSICAO": 22.0,
         "descricao_area": "linguagens, códigos e suas tecnologias",
         "resposta": "D"
       },
       {
         "ano": 2024,
-        "tag_model": "gpt_oss_120b",
+        "tag_model": "llama_3_3_70b_instruct",
         "CO_POSICAO": 18.0,
         "descricao_area": "linguagens, códigos e suas tecnologias",
         "resposta": "D"
       },
       {
         "ano": 2024,
-        "tag_model": "gpt_oss_120b",
+        "tag_model": "llama_3_3_70b_instruct",
         "CO_POSICAO": 7.0,
         "descricao_area": "linguagens, códigos e suas tecnologias",
         "resposta": "C"
       },
       {
         "ano": 2024,
-        "tag_model": "gpt_oss_120b",
+        "tag_model": "llama_3_3_70b_instruct",
         "CO_POSICAO": 23.0,
         "descricao_area": "linguagens, códigos e suas tecnologias",
         "resposta": "B"
       },
       {
         "ano": 2024,
-        "tag_model": "gpt_oss_120b",
+        "tag_model": "llama_3_3_70b_instruct",
         "CO_POSICAO": 28.0,
         "descricao_area": "linguagens, códigos e suas tecnologias",
         "resposta": "E"
       },
       {
         "ano": 2024,
-        "tag_model": "gpt_oss_120b",
+        "tag_model": "llama_3_3_70b_instruct",
         "CO_POSICAO": 6.0,
         "descricao_area": "linguagens, códigos e suas tecnologias",
         "resposta": "E"
       },
       {
         "ano": 2024,
-        "tag_model": "gpt_oss_120b",
+        "tag_model": "llama_3_3_70b_instruct",
         "CO_POSICAO": 40.0,
         "descricao_area": "linguagens, códigos e suas tecnologias",
         "resposta": "D"
       },
       {
         "ano": 2024,
-        "tag_model": "gpt_oss_120b",
+        "tag_model": "llama_3_3_70b_instruct",
         "CO_POSICAO": 24.0,
         "descricao_area": "linguagens, códigos e suas tecnologias",
         "resposta": "A"
       },
       {
         "ano": 2024,
-        "tag_model": "gpt_oss_120b",
+        "tag_model": "llama_3_3_70b_instruct",
         "CO_POSICAO": 19.0,
         "descricao_area": "linguagens, códigos e suas tecnologias",
         "resposta": "D"
       },
       {
         "ano": 2024,
-        "tag_model": "gpt_oss_120b",
+        "tag_model": "llama_3_3_70b_instruct",
         "CO_POSICAO": 35.0,
         "descricao_area": "linguagens, códigos e suas tecnologias",
         "resposta": "D"
       },
       {
         "ano": 2024,
-        "tag_model": "gpt_oss_120b",
+        "tag_model": "llama_3_3_70b_instruct",
         "CO_POSICAO": 29.0,
         "descricao_area": "linguagens, códigos e suas tecnologias",
         "resposta": "D"
       },
       {
         "ano": 2024,
-        "tag_model": "gpt_oss_120b",
+        "tag_model": "llama_3_3_70b_instruct",
         "CO_POSICAO": 39.0,
         "descricao_area": "linguagens, códigos e suas tecnologias",
         "resposta": "E"
       },
       {
         "ano": 2024,
-        "tag_model": "gpt_oss_120b",
+        "tag_model": "llama_3_3_70b_instruct",
         "CO_POSICAO": 45.0,
         "descricao_area": "linguagens, códigos e suas tecnologias",
         "resposta": "B"
       },
       {
         "ano": 2024,
-        "tag_model": "gpt_oss_120b",
+        "tag_model": "llama_3_3_70b_instruct",
         "CO_POSICAO": 30.0,
         "descricao_area": "linguagens, códigos e suas tecnologias",
         "resposta": "D"
       },
       {
         "ano": 2024,
-        "tag_model": "gpt_oss_120b",
+        "tag_model": "llama_3_3_70b_instruct",
         "CO_POSICAO": 9.0,
         "descricao_area": "linguagens, códigos e suas tecnologias",
         "resposta": "E"
       },
       {
         "ano": 2024,
-        "tag_model": "gpt_oss_120b",
+        "tag_model": "llama_3_3_70b_instruct",
         "CO_POSICAO": 13.0,
         "descricao_area": "linguagens, códigos e suas tecnologias",
         "resposta": "D"
       },
       {
         "ano": 2024,
-        "tag_model": "gpt_oss_120b",
+        "tag_model": "llama_3_3_70b_instruct",
         "CO_POSICAO": 44.0,
         "descricao_area": "linguagens, códigos e suas tecnologias",
         "resposta": "E"
       },
       {
         "ano": 2024,
-        "tag_model": "gpt_oss_120b",
+        "tag_model": "llama_3_3_70b_instruct",
         "CO_POSICAO": 17.0,
         "descricao_area": "linguagens, códigos e suas tecnologias",
         "resposta": "E"
       },
       {
         "ano": 2024,
-        "tag_model": "gpt_oss_120b",
+        "tag_model": "llama_3_3_70b_instruct",
         "CO_POSICAO": 16.0,
         "descricao_area": "linguagens, códigos e suas tecnologias",
         "resposta": "D"
       },
       {
         "ano": 2024,
-        "tag_model": "gpt_oss_120b",
+        "tag_model": "llama_3_3_70b_instruct",
         "CO_POSICAO": 10.0,
         "descricao_area": "linguagens, códigos e suas tecnologias",
         "resposta": "C"
@@ -1310,7 +1310,7 @@
   },
   {
     "id_person": 2,
-    "tag_model_person": "gpt_oss_120b",
+    "tag_model_person": "llama_3_3_70b_instruct",
     "questions": [
       {
         "enunciado": "\nQUESTÃO 11\t\nOra, sempre que surge uma nova técnica, ela quer \ndemonstrar que revogará as regras e coerções que \npresidiram o nascimento de todas as outras invenções \ndo passado. Ela se pretende orgulhosa e única. Como \nse a nova técnica carreasse com ela, automaticamente, \npara seus novos usuários, uma propensão natural a fazer \neconomia de qualquer aprendizagem. Como se ela se \npreparasse para varrer tudo que a precedeu, ao mesmo \ntempo transformando em analfabetos todos os que \nousassem repeli-la.\nFui testemunha dessa mudança ao longo de toda \na minha vida. Ao passo que, na realidade, é o contrário \nque acontece. Cada nova técnica exige uma longa \niniciação numa nova linguagem, ainda mais longa na \nmedida em que nosso espírito é formatado pela utilização \ndas linguagens que precederam o nascimento da \nrecém-chegada.\nECO, U.; CARRIÈRE, J.-C. Não contem com o fim do livro. \nRio de Janeiro: Record, 2010 (adaptado).\nO texto revela que, quando a sociedade promove o \ndesenvolvimento de uma nova técnica, o que mais \nimpacta seus usuários é a\nA\t\nA\t dificuldade na apropriação da nova linguagem.\nB\t\nB\t valorização da utilização da nova tecnologia.\nC\t\nC\t recorrência das mudanças tecnológicas.\nD\t\nD\t suplantação imediata dos conhecimentos prévios.\nE\t\nE\t rapidez no aprendizado do manuseio das novas \ninvenções.",
@@ -1916,700 +1916,700 @@
     "resp": [
       {
         "ano": 2022,
-        "tag_model": "gpt_oss_120b",
+        "tag_model": "llama_3_3_70b_instruct",
         "CO_POSICAO": 11.0,
         "descricao_area": "linguagens, códigos e suas tecnologias",
         "resposta": "A"
       },
       {
         "ano": 2022,
-        "tag_model": "gpt_oss_120b",
+        "tag_model": "llama_3_3_70b_instruct",
         "CO_POSICAO": 20.0,
         "descricao_area": "linguagens, códigos e suas tecnologias",
         "resposta": "C"
       },
       {
         "ano": 2022,
-        "tag_model": "gpt_oss_120b",
+        "tag_model": "llama_3_3_70b_instruct",
         "CO_POSICAO": 41.0,
         "descricao_area": "linguagens, códigos e suas tecnologias",
         "resposta": "B"
       },
       {
         "ano": 2022,
-        "tag_model": "gpt_oss_120b",
+        "tag_model": "llama_3_3_70b_instruct",
         "CO_POSICAO": 12.0,
         "descricao_area": "linguagens, códigos e suas tecnologias",
         "resposta": "B"
       },
       {
         "ano": 2022,
-        "tag_model": "gpt_oss_120b",
+        "tag_model": "llama_3_3_70b_instruct",
         "CO_POSICAO": 31.0,
         "descricao_area": "linguagens, códigos e suas tecnologias",
-        "resposta": "D"
+        "resposta": "A"
       },
       {
         "ano": 2022,
-        "tag_model": "gpt_oss_120b",
+        "tag_model": "llama_3_3_70b_instruct",
         "CO_POSICAO": 26.0,
         "descricao_area": "linguagens, códigos e suas tecnologias",
         "resposta": "C"
       },
       {
         "ano": 2022,
-        "tag_model": "gpt_oss_120b",
+        "tag_model": "llama_3_3_70b_instruct",
         "CO_POSICAO": 14.0,
         "descricao_area": "linguagens, códigos e suas tecnologias",
         "resposta": "D"
       },
       {
         "ano": 2022,
-        "tag_model": "gpt_oss_120b",
+        "tag_model": "llama_3_3_70b_instruct",
         "CO_POSICAO": 25.0,
         "descricao_area": "linguagens, códigos e suas tecnologias",
-        "resposta": "C"
+        "resposta": "B"
       },
       {
         "ano": 2022,
-        "tag_model": "gpt_oss_120b",
+        "tag_model": "llama_3_3_70b_instruct",
         "CO_POSICAO": 8.0,
         "descricao_area": "linguagens, códigos e suas tecnologias",
         "resposta": "A"
       },
       {
         "ano": 2022,
-        "tag_model": "gpt_oss_120b",
+        "tag_model": "llama_3_3_70b_instruct",
         "CO_POSICAO": 37.0,
         "descricao_area": "linguagens, códigos e suas tecnologias",
         "resposta": "A"
       },
       {
         "ano": 2022,
-        "tag_model": "gpt_oss_120b",
+        "tag_model": "llama_3_3_70b_instruct",
         "CO_POSICAO": 34.0,
         "descricao_area": "linguagens, códigos e suas tecnologias",
         "resposta": "D"
       },
       {
         "ano": 2022,
-        "tag_model": "gpt_oss_120b",
+        "tag_model": "llama_3_3_70b_instruct",
         "CO_POSICAO": 42.0,
         "descricao_area": "linguagens, códigos e suas tecnologias",
         "resposta": "D"
       },
       {
         "ano": 2022,
-        "tag_model": "gpt_oss_120b",
+        "tag_model": "llama_3_3_70b_instruct",
         "CO_POSICAO": 22.0,
         "descricao_area": "linguagens, códigos e suas tecnologias",
         "resposta": "E"
       },
       {
         "ano": 2022,
-        "tag_model": "gpt_oss_120b",
+        "tag_model": "llama_3_3_70b_instruct",
         "CO_POSICAO": 18.0,
         "descricao_area": "linguagens, códigos e suas tecnologias",
         "resposta": "A"
       },
       {
         "ano": 2022,
-        "tag_model": "gpt_oss_120b",
+        "tag_model": "llama_3_3_70b_instruct",
         "CO_POSICAO": 23.0,
         "descricao_area": "linguagens, códigos e suas tecnologias",
-        "resposta": "C"
+        "resposta": "A"
       },
       {
         "ano": 2022,
-        "tag_model": "gpt_oss_120b",
+        "tag_model": "llama_3_3_70b_instruct",
         "CO_POSICAO": 28.0,
         "descricao_area": "linguagens, códigos e suas tecnologias",
         "resposta": "B"
       },
       {
         "ano": 2022,
-        "tag_model": "gpt_oss_120b",
+        "tag_model": "llama_3_3_70b_instruct",
         "CO_POSICAO": 6.0,
         "descricao_area": "linguagens, códigos e suas tecnologias",
-        "resposta": "C"
+        "resposta": "E"
       },
       {
         "ano": 2022,
-        "tag_model": "gpt_oss_120b",
+        "tag_model": "llama_3_3_70b_instruct",
         "CO_POSICAO": 40.0,
         "descricao_area": "linguagens, códigos e suas tecnologias",
         "resposta": "D"
       },
       {
         "ano": 2022,
-        "tag_model": "gpt_oss_120b",
+        "tag_model": "llama_3_3_70b_instruct",
         "CO_POSICAO": 24.0,
         "descricao_area": "linguagens, códigos e suas tecnologias",
         "resposta": "E"
       },
       {
         "ano": 2022,
-        "tag_model": "gpt_oss_120b",
+        "tag_model": "llama_3_3_70b_instruct",
         "CO_POSICAO": 36.0,
         "descricao_area": "linguagens, códigos e suas tecnologias",
         "resposta": "C"
       },
       {
         "ano": 2022,
-        "tag_model": "gpt_oss_120b",
+        "tag_model": "llama_3_3_70b_instruct",
         "CO_POSICAO": 21.0,
         "descricao_area": "linguagens, códigos e suas tecnologias",
         "resposta": "B"
       },
       {
         "ano": 2022,
-        "tag_model": "gpt_oss_120b",
+        "tag_model": "llama_3_3_70b_instruct",
         "CO_POSICAO": 19.0,
         "descricao_area": "linguagens, códigos e suas tecnologias",
         "resposta": "C"
       },
       {
         "ano": 2022,
-        "tag_model": "gpt_oss_120b",
+        "tag_model": "llama_3_3_70b_instruct",
         "CO_POSICAO": 35.0,
         "descricao_area": "linguagens, códigos e suas tecnologias",
         "resposta": "C"
       },
       {
         "ano": 2022,
-        "tag_model": "gpt_oss_120b",
+        "tag_model": "llama_3_3_70b_instruct",
         "CO_POSICAO": 43.0,
         "descricao_area": "linguagens, códigos e suas tecnologias",
         "resposta": "E"
       },
       {
         "ano": 2022,
-        "tag_model": "gpt_oss_120b",
+        "tag_model": "llama_3_3_70b_instruct",
         "CO_POSICAO": 29.0,
         "descricao_area": "linguagens, códigos e suas tecnologias",
-        "resposta": "D"
+        "resposta": "E"
       },
       {
         "ano": 2022,
-        "tag_model": "gpt_oss_120b",
+        "tag_model": "llama_3_3_70b_instruct",
         "CO_POSICAO": 45.0,
         "descricao_area": "linguagens, códigos e suas tecnologias",
         "resposta": "E"
       },
       {
         "ano": 2022,
-        "tag_model": "gpt_oss_120b",
+        "tag_model": "llama_3_3_70b_instruct",
         "CO_POSICAO": 30.0,
         "descricao_area": "linguagens, códigos e suas tecnologias",
         "resposta": "C"
       },
       {
         "ano": 2022,
-        "tag_model": "gpt_oss_120b",
+        "tag_model": "llama_3_3_70b_instruct",
         "CO_POSICAO": 13.0,
         "descricao_area": "linguagens, códigos e suas tecnologias",
         "resposta": "B"
       },
       {
         "ano": 2022,
-        "tag_model": "gpt_oss_120b",
+        "tag_model": "llama_3_3_70b_instruct",
         "CO_POSICAO": 17.0,
         "descricao_area": "linguagens, códigos e suas tecnologias",
         "resposta": "B"
       },
       {
         "ano": 2022,
-        "tag_model": "gpt_oss_120b",
+        "tag_model": "llama_3_3_70b_instruct",
         "CO_POSICAO": 33.0,
         "descricao_area": "linguagens, códigos e suas tecnologias",
         "resposta": "A"
       },
       {
         "ano": 2022,
-        "tag_model": "gpt_oss_120b",
+        "tag_model": "llama_3_3_70b_instruct",
         "CO_POSICAO": 16.0,
         "descricao_area": "linguagens, códigos e suas tecnologias",
-        "resposta": "C"
+        "resposta": "E"
       },
       {
         "ano": 2022,
-        "tag_model": "gpt_oss_120b",
+        "tag_model": "llama_3_3_70b_instruct",
         "CO_POSICAO": 10.0,
         "descricao_area": "linguagens, códigos e suas tecnologias",
         "resposta": "C"
       },
       {
         "ano": 2023,
-        "tag_model": "gpt_oss_120b",
+        "tag_model": "llama_3_3_70b_instruct",
         "CO_POSICAO": 15.0,
         "descricao_area": "linguagens, códigos e suas tecnologias",
         "resposta": "B"
       },
       {
         "ano": 2023,
-        "tag_model": "gpt_oss_120b",
+        "tag_model": "llama_3_3_70b_instruct",
         "CO_POSICAO": 38.0,
         "descricao_area": "linguagens, códigos e suas tecnologias",
         "resposta": "A"
       },
       {
         "ano": 2023,
-        "tag_model": "gpt_oss_120b",
+        "tag_model": "llama_3_3_70b_instruct",
         "CO_POSICAO": 11.0,
         "descricao_area": "linguagens, códigos e suas tecnologias",
         "resposta": "D"
       },
       {
         "ano": 2023,
-        "tag_model": "gpt_oss_120b",
+        "tag_model": "llama_3_3_70b_instruct",
         "CO_POSICAO": 20.0,
         "descricao_area": "linguagens, códigos e suas tecnologias",
         "resposta": "E"
       },
       {
         "ano": 2023,
-        "tag_model": "gpt_oss_120b",
+        "tag_model": "llama_3_3_70b_instruct",
         "CO_POSICAO": 41.0,
         "descricao_area": "linguagens, códigos e suas tecnologias",
-        "resposta": "E"
+        "resposta": "B"
       },
       {
         "ano": 2023,
-        "tag_model": "gpt_oss_120b",
+        "tag_model": "llama_3_3_70b_instruct",
         "CO_POSICAO": 12.0,
         "descricao_area": "linguagens, códigos e suas tecnologias",
         "resposta": "C"
       },
       {
         "ano": 2023,
-        "tag_model": "gpt_oss_120b",
+        "tag_model": "llama_3_3_70b_instruct",
         "CO_POSICAO": 31.0,
         "descricao_area": "linguagens, códigos e suas tecnologias",
         "resposta": "C"
       },
       {
         "ano": 2023,
-        "tag_model": "gpt_oss_120b",
+        "tag_model": "llama_3_3_70b_instruct",
         "CO_POSICAO": 26.0,
         "descricao_area": "linguagens, códigos e suas tecnologias",
         "resposta": "B"
       },
       {
         "ano": 2023,
-        "tag_model": "gpt_oss_120b",
+        "tag_model": "llama_3_3_70b_instruct",
         "CO_POSICAO": 14.0,
         "descricao_area": "linguagens, códigos e suas tecnologias",
-        "resposta": "D"
+        "resposta": "B"
       },
       {
         "ano": 2023,
-        "tag_model": "gpt_oss_120b",
+        "tag_model": "llama_3_3_70b_instruct",
         "CO_POSICAO": 25.0,
         "descricao_area": "linguagens, códigos e suas tecnologias",
         "resposta": "B"
       },
       {
         "ano": 2023,
-        "tag_model": "gpt_oss_120b",
+        "tag_model": "llama_3_3_70b_instruct",
         "CO_POSICAO": 27.0,
         "descricao_area": "linguagens, códigos e suas tecnologias",
         "resposta": "A"
       },
       {
         "ano": 2023,
-        "tag_model": "gpt_oss_120b",
+        "tag_model": "llama_3_3_70b_instruct",
         "CO_POSICAO": 8.0,
         "descricao_area": "linguagens, códigos e suas tecnologias",
         "resposta": "C"
       },
       {
         "ano": 2023,
-        "tag_model": "gpt_oss_120b",
+        "tag_model": "llama_3_3_70b_instruct",
         "CO_POSICAO": 37.0,
         "descricao_area": "linguagens, códigos e suas tecnologias",
         "resposta": "C"
       },
       {
         "ano": 2023,
-        "tag_model": "gpt_oss_120b",
+        "tag_model": "llama_3_3_70b_instruct",
         "CO_POSICAO": 42.0,
         "descricao_area": "linguagens, códigos e suas tecnologias",
         "resposta": "E"
       },
       {
         "ano": 2023,
-        "tag_model": "gpt_oss_120b",
+        "tag_model": "llama_3_3_70b_instruct",
         "CO_POSICAO": 22.0,
         "descricao_area": "linguagens, códigos e suas tecnologias",
         "resposta": "C"
       },
       {
         "ano": 2023,
-        "tag_model": "gpt_oss_120b",
+        "tag_model": "llama_3_3_70b_instruct",
         "CO_POSICAO": 32.0,
         "descricao_area": "linguagens, códigos e suas tecnologias",
         "resposta": "A"
       },
       {
         "ano": 2023,
-        "tag_model": "gpt_oss_120b",
+        "tag_model": "llama_3_3_70b_instruct",
         "CO_POSICAO": 18.0,
         "descricao_area": "linguagens, códigos e suas tecnologias",
         "resposta": "B"
       },
       {
         "ano": 2023,
-        "tag_model": "gpt_oss_120b",
+        "tag_model": "llama_3_3_70b_instruct",
         "CO_POSICAO": 7.0,
         "descricao_area": "linguagens, códigos e suas tecnologias",
-        "resposta": "E"
+        "resposta": "A"
       },
       {
         "ano": 2023,
-        "tag_model": "gpt_oss_120b",
+        "tag_model": "llama_3_3_70b_instruct",
         "CO_POSICAO": 23.0,
         "descricao_area": "linguagens, códigos e suas tecnologias",
         "resposta": "C"
       },
       {
         "ano": 2023,
-        "tag_model": "gpt_oss_120b",
+        "tag_model": "llama_3_3_70b_instruct",
         "CO_POSICAO": 28.0,
         "descricao_area": "linguagens, códigos e suas tecnologias",
         "resposta": "C"
       },
       {
         "ano": 2023,
-        "tag_model": "gpt_oss_120b",
+        "tag_model": "llama_3_3_70b_instruct",
         "CO_POSICAO": 6.0,
         "descricao_area": "linguagens, códigos e suas tecnologias",
         "resposta": "D"
       },
       {
         "ano": 2023,
-        "tag_model": "gpt_oss_120b",
+        "tag_model": "llama_3_3_70b_instruct",
         "CO_POSICAO": 40.0,
         "descricao_area": "linguagens, códigos e suas tecnologias",
         "resposta": "B"
       },
       {
         "ano": 2023,
-        "tag_model": "gpt_oss_120b",
+        "tag_model": "llama_3_3_70b_instruct",
         "CO_POSICAO": 36.0,
         "descricao_area": "linguagens, códigos e suas tecnologias",
         "resposta": "A"
       },
       {
         "ano": 2023,
-        "tag_model": "gpt_oss_120b",
+        "tag_model": "llama_3_3_70b_instruct",
         "CO_POSICAO": 21.0,
         "descricao_area": "linguagens, códigos e suas tecnologias",
         "resposta": "D"
       },
       {
         "ano": 2023,
-        "tag_model": "gpt_oss_120b",
+        "tag_model": "llama_3_3_70b_instruct",
         "CO_POSICAO": 19.0,
         "descricao_area": "linguagens, códigos e suas tecnologias",
         "resposta": "D"
       },
       {
         "ano": 2023,
-        "tag_model": "gpt_oss_120b",
+        "tag_model": "llama_3_3_70b_instruct",
         "CO_POSICAO": 35.0,
         "descricao_area": "linguagens, códigos e suas tecnologias",
         "resposta": "A"
       },
       {
         "ano": 2023,
-        "tag_model": "gpt_oss_120b",
+        "tag_model": "llama_3_3_70b_instruct",
         "CO_POSICAO": 43.0,
         "descricao_area": "linguagens, códigos e suas tecnologias",
         "resposta": "A"
       },
       {
         "ano": 2023,
-        "tag_model": "gpt_oss_120b",
+        "tag_model": "llama_3_3_70b_instruct",
         "CO_POSICAO": 29.0,
         "descricao_area": "linguagens, códigos e suas tecnologias",
-        "resposta": "B"
+        "resposta": "E"
       },
       {
         "ano": 2023,
-        "tag_model": "gpt_oss_120b",
+        "tag_model": "llama_3_3_70b_instruct",
         "CO_POSICAO": 39.0,
         "descricao_area": "linguagens, códigos e suas tecnologias",
         "resposta": "C"
       },
       {
         "ano": 2023,
-        "tag_model": "gpt_oss_120b",
+        "tag_model": "llama_3_3_70b_instruct",
         "CO_POSICAO": 45.0,
         "descricao_area": "linguagens, códigos e suas tecnologias",
-        "resposta": "B"
+        "resposta": "E"
       },
       {
         "ano": 2023,
-        "tag_model": "gpt_oss_120b",
+        "tag_model": "llama_3_3_70b_instruct",
         "CO_POSICAO": 30.0,
         "descricao_area": "linguagens, códigos e suas tecnologias",
         "resposta": "A"
       },
       {
         "ano": 2023,
-        "tag_model": "gpt_oss_120b",
+        "tag_model": "llama_3_3_70b_instruct",
         "CO_POSICAO": 9.0,
         "descricao_area": "linguagens, códigos e suas tecnologias",
         "resposta": "E"
       },
       {
         "ano": 2023,
-        "tag_model": "gpt_oss_120b",
+        "tag_model": "llama_3_3_70b_instruct",
         "CO_POSICAO": 13.0,
         "descricao_area": "linguagens, códigos e suas tecnologias",
         "resposta": "C"
       },
       {
         "ano": 2023,
-        "tag_model": "gpt_oss_120b",
+        "tag_model": "llama_3_3_70b_instruct",
         "CO_POSICAO": 17.0,
         "descricao_area": "linguagens, códigos e suas tecnologias",
         "resposta": "D"
       },
       {
         "ano": 2023,
-        "tag_model": "gpt_oss_120b",
+        "tag_model": "llama_3_3_70b_instruct",
         "CO_POSICAO": 16.0,
         "descricao_area": "linguagens, códigos e suas tecnologias",
         "resposta": "A"
       },
       {
         "ano": 2023,
-        "tag_model": "gpt_oss_120b",
+        "tag_model": "llama_3_3_70b_instruct",
         "CO_POSICAO": 10.0,
         "descricao_area": "linguagens, códigos e suas tecnologias",
         "resposta": "E"
       },
       {
         "ano": 2024,
-        "tag_model": "gpt_oss_120b",
+        "tag_model": "llama_3_3_70b_instruct",
         "CO_POSICAO": 15.0,
         "descricao_area": "linguagens, códigos e suas tecnologias",
         "resposta": "B"
       },
       {
         "ano": 2024,
-        "tag_model": "gpt_oss_120b",
+        "tag_model": "llama_3_3_70b_instruct",
         "CO_POSICAO": 11.0,
         "descricao_area": "linguagens, códigos e suas tecnologias",
         "resposta": "E"
       },
       {
         "ano": 2024,
-        "tag_model": "gpt_oss_120b",
+        "tag_model": "llama_3_3_70b_instruct",
         "CO_POSICAO": 20.0,
         "descricao_area": "linguagens, códigos e suas tecnologias",
         "resposta": "C"
       },
       {
         "ano": 2024,
-        "tag_model": "gpt_oss_120b",
+        "tag_model": "llama_3_3_70b_instruct",
         "CO_POSICAO": 12.0,
         "descricao_area": "linguagens, códigos e suas tecnologias",
         "resposta": "D"
       },
       {
         "ano": 2024,
-        "tag_model": "gpt_oss_120b",
+        "tag_model": "llama_3_3_70b_instruct",
         "CO_POSICAO": 31.0,
         "descricao_area": "linguagens, códigos e suas tecnologias",
         "resposta": "B"
       },
       {
         "ano": 2024,
-        "tag_model": "gpt_oss_120b",
+        "tag_model": "llama_3_3_70b_instruct",
         "CO_POSICAO": 26.0,
         "descricao_area": "linguagens, códigos e suas tecnologias",
         "resposta": "B"
       },
       {
         "ano": 2024,
-        "tag_model": "gpt_oss_120b",
+        "tag_model": "llama_3_3_70b_instruct",
         "CO_POSICAO": 14.0,
         "descricao_area": "linguagens, códigos e suas tecnologias",
         "resposta": "C"
       },
       {
         "ano": 2024,
-        "tag_model": "gpt_oss_120b",
+        "tag_model": "llama_3_3_70b_instruct",
         "CO_POSICAO": 27.0,
         "descricao_area": "linguagens, códigos e suas tecnologias",
-        "resposta": "C"
+        "resposta": "D"
       },
       {
         "ano": 2024,
-        "tag_model": "gpt_oss_120b",
+        "tag_model": "llama_3_3_70b_instruct",
         "CO_POSICAO": 8.0,
         "descricao_area": "linguagens, códigos e suas tecnologias",
         "resposta": "B"
       },
       {
         "ano": 2024,
-        "tag_model": "gpt_oss_120b",
+        "tag_model": "llama_3_3_70b_instruct",
         "CO_POSICAO": 37.0,
         "descricao_area": "linguagens, códigos e suas tecnologias",
         "resposta": "D"
       },
       {
         "ano": 2024,
-        "tag_model": "gpt_oss_120b",
+        "tag_model": "llama_3_3_70b_instruct",
         "CO_POSICAO": 34.0,
         "descricao_area": "linguagens, códigos e suas tecnologias",
         "resposta": "B"
       },
       {
         "ano": 2024,
-        "tag_model": "gpt_oss_120b",
+        "tag_model": "llama_3_3_70b_instruct",
         "CO_POSICAO": 42.0,
         "descricao_area": "linguagens, códigos e suas tecnologias",
         "resposta": "D"
       },
       {
         "ano": 2024,
-        "tag_model": "gpt_oss_120b",
+        "tag_model": "llama_3_3_70b_instruct",
         "CO_POSICAO": 22.0,
         "descricao_area": "linguagens, códigos e suas tecnologias",
         "resposta": "D"
       },
       {
         "ano": 2024,
-        "tag_model": "gpt_oss_120b",
+        "tag_model": "llama_3_3_70b_instruct",
         "CO_POSICAO": 18.0,
         "descricao_area": "linguagens, códigos e suas tecnologias",
         "resposta": "D"
       },
       {
         "ano": 2024,
-        "tag_model": "gpt_oss_120b",
+        "tag_model": "llama_3_3_70b_instruct",
         "CO_POSICAO": 7.0,
         "descricao_area": "linguagens, códigos e suas tecnologias",
         "resposta": "C"
       },
       {
         "ano": 2024,
-        "tag_model": "gpt_oss_120b",
+        "tag_model": "llama_3_3_70b_instruct",
         "CO_POSICAO": 23.0,
         "descricao_area": "linguagens, códigos e suas tecnologias",
         "resposta": "B"
       },
       {
         "ano": 2024,
-        "tag_model": "gpt_oss_120b",
+        "tag_model": "llama_3_3_70b_instruct",
         "CO_POSICAO": 28.0,
         "descricao_area": "linguagens, códigos e suas tecnologias",
         "resposta": "E"
       },
       {
         "ano": 2024,
-        "tag_model": "gpt_oss_120b",
+        "tag_model": "llama_3_3_70b_instruct",
         "CO_POSICAO": 6.0,
         "descricao_area": "linguagens, códigos e suas tecnologias",
         "resposta": "E"
       },
       {
         "ano": 2024,
-        "tag_model": "gpt_oss_120b",
+        "tag_model": "llama_3_3_70b_instruct",
         "CO_POSICAO": 40.0,
         "descricao_area": "linguagens, códigos e suas tecnologias",
         "resposta": "D"
       },
       {
         "ano": 2024,
-        "tag_model": "gpt_oss_120b",
+        "tag_model": "llama_3_3_70b_instruct",
         "CO_POSICAO": 24.0,
         "descricao_area": "linguagens, códigos e suas tecnologias",
-        "resposta": "D"
+        "resposta": "A"
       },
       {
         "ano": 2024,
-        "tag_model": "gpt_oss_120b",
+        "tag_model": "llama_3_3_70b_instruct",
         "CO_POSICAO": 19.0,
         "descricao_area": "linguagens, códigos e suas tecnologias",
         "resposta": "D"
       },
       {
         "ano": 2024,
-        "tag_model": "gpt_oss_120b",
+        "tag_model": "llama_3_3_70b_instruct",
         "CO_POSICAO": 35.0,
         "descricao_area": "linguagens, códigos e suas tecnologias",
         "resposta": "D"
       },
       {
         "ano": 2024,
-        "tag_model": "gpt_oss_120b",
+        "tag_model": "llama_3_3_70b_instruct",
         "CO_POSICAO": 29.0,
         "descricao_area": "linguagens, códigos e suas tecnologias",
         "resposta": "D"
       },
       {
         "ano": 2024,
-        "tag_model": "gpt_oss_120b",
+        "tag_model": "llama_3_3_70b_instruct",
         "CO_POSICAO": 39.0,
         "descricao_area": "linguagens, códigos e suas tecnologias",
         "resposta": "E"
       },
       {
         "ano": 2024,
-        "tag_model": "gpt_oss_120b",
+        "tag_model": "llama_3_3_70b_instruct",
         "CO_POSICAO": 45.0,
         "descricao_area": "linguagens, códigos e suas tecnologias",
         "resposta": "B"
       },
       {
         "ano": 2024,
-        "tag_model": "gpt_oss_120b",
+        "tag_model": "llama_3_3_70b_instruct",
         "CO_POSICAO": 30.0,
         "descricao_area": "linguagens, códigos e suas tecnologias",
         "resposta": "D"
       },
       {
         "ano": 2024,
-        "tag_model": "gpt_oss_120b",
+        "tag_model": "llama_3_3_70b_instruct",
         "CO_POSICAO": 9.0,
         "descricao_area": "linguagens, códigos e suas tecnologias",
         "resposta": "E"
       },
       {
         "ano": 2024,
-        "tag_model": "gpt_oss_120b",
+        "tag_model": "llama_3_3_70b_instruct",
         "CO_POSICAO": 13.0,
         "descricao_area": "linguagens, códigos e suas tecnologias",
         "resposta": "D"
       },
       {
         "ano": 2024,
-        "tag_model": "gpt_oss_120b",
+        "tag_model": "llama_3_3_70b_instruct",
         "CO_POSICAO": 44.0,
         "descricao_area": "linguagens, códigos e suas tecnologias",
         "resposta": "E"
       },
       {
         "ano": 2024,
-        "tag_model": "gpt_oss_120b",
+        "tag_model": "llama_3_3_70b_instruct",
         "CO_POSICAO": 17.0,
         "descricao_area": "linguagens, códigos e suas tecnologias",
         "resposta": "E"
       },
       {
         "ano": 2024,
-        "tag_model": "gpt_oss_120b",
+        "tag_model": "llama_3_3_70b_instruct",
         "CO_POSICAO": 16.0,
         "descricao_area": "linguagens, códigos e suas tecnologias",
         "resposta": "D"
       },
       {
         "ano": 2024,
-        "tag_model": "gpt_oss_120b",
+        "tag_model": "llama_3_3_70b_instruct",
         "CO_POSICAO": 10.0,
         "descricao_area": "linguagens, códigos e suas tecnologias",
         "resposta": "C"

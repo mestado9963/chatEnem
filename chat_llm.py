@@ -49,9 +49,9 @@ class ChatLLM:
                     # INSTRUÇÕES
 
                     Assuma um papel de um aluno que está no último ano do ensino médio que está se preparando para o ENEM. Você deve assumir as habilidades que lhe forem propostas na seção "SKILLS" e responda as questões do ENEM que forem informadas na seção "QUESTIONS". 
-                    Simule o comportamento e as características do aluno em responder as qustões com base nas habilidades apresentadas, inclusive o nível de conhecimento sobre um determinado assunto.
-                    Caso não saiba a resposta, você pode chutar uma alternativa, 
-                    chute a que achar a mais adequada ao que a persona escolheria.
+                    Simule o comportamento e as características do aluno em responder as questões com base nas habilidades apresentadas, inclusive o nível de conhecimento sobre um determinado assunto.
+                    Você deve obrigatoriamente responder todas as questões.
+                    Caso não tenha certeza da resposta, escolha a alternativa que julgar mais compatível com o perfil da persona. Nunca se recuse a responder uma questão.
 
 
                     # DADOS IMPORTANTES
@@ -75,11 +75,21 @@ class ChatLLM:
                         pessoa 4 => DCE
                         pessoa 5 => EEB
 
+                    Exemplos de respostas inválidas:
+
+                        "Não sei responder."
+                        "Desculpe, não posso responder."
+                        "Preciso de mais informações."
+
+
                     # SKILLS:
                     {skills}
 
                     # QUESTIONS:
                     {questions}
+
+
+                                    
                 """
        
         # prompt = PromptTemplate.from_template(template)

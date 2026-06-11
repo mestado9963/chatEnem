@@ -1,0 +1,1320 @@
+[
+  {
+    "id_person": 1,
+    "tag_model_person": "gpt_oss_120b",
+    "questions": [
+      {
+        "enunciado": "\nQUESTÃO 171\t\nUma equipe de marketing digital foi contratada para \naumentar as vendas de um produto ofertado em um site \nde comércio eletrônico. Para isso, elaborou um anúncio \nque, quando o cliente clica sobre ele, é direcionado \npara a página de vendas do produto. Esse anúncio foi \ndivulgado em duas redes sociais, A e B, e foram obtidos \nos seguintes resultados:\n•\t rede social A: o anúncio foi visualizado por  \n3 000 pessoas; 10% delas clicaram sobre o anúncio \ne foram redirecionadas para o site; 3% das que  \nclicaram sobre o anúncio compraram o produto. \nO investimento feito para a publicação do anúncio \nnessa rede foi de R$ 100,00;\n•\t rede social B: o anúncio foi visualizado por  \n1 000 pessoas; 30% delas clicaram sobre o anúncio \ne foram redirecionadas para o site; 2% das que  \nclicaram sobre o anúncio compraram o produto. \nO investimento feito para a publicação do anúncio \nnessa rede foi de R$ 200,00.\nPor experiência, o pessoal da equipe de marketing \nconsidera que a quantidade de novas pessoas que verão \no anúncio é diretamente proporcional ao investimento \nrealizado, e que a quantidade de pessoas que comprarão \no produto também se manterá proporcional à quantidade \nde pessoas que clicarão sobre o anúncio.\nO responsável pelo produto decidiu, então, investir \nmais R$ 300,00 em cada uma das duas redes sociais \npara a divulgação desse anúncio e obteve, de fato, o \naumento proporcional esperado na quantidade de clientes \nque compraram esse produto. Para classificar o aumento \nobtido na quantidade (Q) de compradores desse produto, \nem consequência dessa segunda divulgação, em relação \naos resultados observados na primeira divulgação, o \nresponsável pelo produto adotou o seguinte critério:\n•\t Q ≤ 60%: não satisfatório;\n•\t 60% < Q ≤ 100%: regular;\n•\t 100% < Q ≤ 150%: bom;\n•\t 150% < Q ≤ 190%: muito bom;\n•\t 190% < Q ≤ 200%: excelente.\nO aumento na quantidade de compradores, em \nconsequência dessa segunda divulgação, em relação \nao que foi registrado com a primeira divulgação, foi \nclassificado como\nA\t\nA\t não satisfatório.\nB\t\nB\t regular.\nC\t\nC\t bom.\nD\t\nD\t muito bom.\nE\t\nE\t excelente.\n\n28 \nMT - 2° dia | Caderno 6 - CINZA - 1ª Aplicação\n                                                              ",
+        "ano": 2022,
+        "descricao_area": "matemática e suas tecnologias",
+        "CO_POSICAO": 171.0
+      },
+      {
+        "enunciado": "\nQUESTÃO 172\t\nUma montadora de automóveis divulgou que oferta a \nseus clientes mais de 1 000 configurações diferentes de \ncarro, variando o modelo, a motorização, os opcionais e \na cor do veículo. Atualmente, ela oferece 7 modelos de \ncarros com 2 tipos de motores: 1.0 e 1.6. Já em relação \naos opcionais, existem 3 escolhas possíveis: central \nmultimídia, rodas de liga leve e bancos de couro, podendo \no cliente optar por incluir um, dois, três ou nenhum dos \nopcionais disponíveis.\nPara ser fiel à divulgação feita, a quantidade mínima \nde cores que a montadora deverá disponibilizar a seus \nclientes é\nA\t\nA\t 8.\nB\t\nB\t 9.\nC\t\nC\t 11.\nD\t\nD\t 18.\nE\t\nE\t 24.",
+        "ano": 2022,
+        "descricao_area": "matemática e suas tecnologias",
+        "CO_POSICAO": 172.0
+      },
+      {
+        "enunciado": "\nQUESTÃO 143\t\nUm casal planeja construir em sua chácara uma \npiscina com o formato de um paralelepípedo reto \nretângulo com capacidade para 90 000 L de água.  \nO casal contratou uma empresa de construções que \napresentou cinco projetos com diferentes combinações \nnas dimensões internas de profundidade, largura \ne comprimento. A piscina a ser construída terá \nrevestimento interno em suas paredes e fundo com uma \nmesma cerâmica, e o casal irá escolher o projeto que \nexija a menor área de revestimento.\nAs dimensões internas de profundidade, largura \ne comprimento, respectivamente, para cada um dos \nprojetos, são:\n•\t projeto I: 1,8 m, 2,0 m e 25,0 m;\n•\t projeto II: 2,0 m, 5,0 m e 9,0 m;\n•\t projeto III: 1,0 m, 6,0 m e 15,0 m; \n•\t projeto IV: 1,5 m, 15,0 m e 4,0 m;\n•\t projeto V: 2,5 m, 3,0 m e 12,0 m.\nO projeto que o casal deverá escolher será o\nA\t\nA\t I.\nB\t\nB\t II.\nC\t\nC\t III.\nD\t\nD\t IV.\nE\t\nE\t V.",
+        "ano": 2022,
+        "descricao_area": "matemática e suas tecnologias",
+        "CO_POSICAO": 143.0
+      },
+      {
+        "enunciado": "\nQUESTÃO 169\t\nO pacote básico de um jogo para smartphone, que \né vendido a R$ 50,00, contém 2 000 gemas e 100 000 \nmoedas de ouro, que são itens utilizáveis nesse jogo.\nA empresa que comercializa esse jogo decidiu criar \num pacote especial que será vendido a R$ 100,00 e que \nse diferenciará do pacote básico por apresentar maiores \nquantidades de gemas e moedas de ouro. Para estimular \nas vendas desse novo pacote, a empresa decidiu inserir \nnele 6 000 gemas a mais, em relação ao que o cliente \nteria caso optasse por comprar, com a mesma quantia, \ndois pacotes básicos.\nA quantidade de moedas de ouro que a empresa deverá \ninserir ao pacote especial, para que seja mantida a mesma \nproporção existente entre as quantidades de gemas e de \nmoedas de ouro contidas no pacote básico, é\nA\t\nA\t 50 000.\nB\t\nB\t 100 000.\nC\t\nC\t 200 000.\nD\t\nD\t 300 000.\nE\t\nE\t 400 000.",
+        "ano": 2022,
+        "descricao_area": "matemática e suas tecnologias",
+        "CO_POSICAO": 169.0
+      },
+      {
+        "enunciado": "\nQUESTÃO 151\t\nDefinem-se o dia e o ano de um planeta de um sistema solar \ncomo sendo, respectivamente, o tempo que o planeta leva para \ndar 1 volta completa em torno de seu próprio eixo de rotação e o \ntempo para dar 1 volta completa em torno de seu Sol.\nSuponha que exista um planeta Z, em algum sistema \nsolar, onde um dia corresponda a 73 dias terrestres e \nque 2 de seus anos correspondam a 1 ano terrestre. \nConsidere que 1 ano terrestre tem 365 de seus dias.\nNo planeta Z, seu ano corresponderia a quantos de seus \ndias?\nA\t\nA\t 2,5\nB\t\nB\t 10,0\nC\t\nC\t 730,0\nD\t\nD\t 13 322,5\nE\t\nE\t 53 290,0",
+        "ano": 2022,
+        "descricao_area": "matemática e suas tecnologias",
+        "CO_POSICAO": 151.0
+      },
+      {
+        "enunciado": "\nQUESTÃO 176\t\nForam convidadas 32 equipes para um torneio de \nfutebol, que foram divididas em 8 grupos com 4 equipes, \nsendo que, dentro de um grupo, cada equipe disputa uma \núnica partida contra cada uma das demais equipes de \nseu grupo. A primeira e a segunda colocadas de cada \ngrupo seguem para realizar as 8 partidas da próxima \nfase do torneio, chamada oitavas de final. Os vencedores \ndas partidas das oitavas de final seguem para jogar \nas 4 partidas das quartas de final. Os vencedores das \nquartas de final disputam as 2 partidas das semifinais, e \nos vencedores avançam para a grande final, que define a \ncampeã do torneio.\nPelas regras do torneio, cada equipe deve ter um \nperíodo de descanso de, no mínimo, 3 dias entre dois \njogos por ela disputados, ou seja, se um time disputar \numa partida, por exemplo, num domingo, só poderá \ndisputar a partida seguinte a partir da quinta-feira da \nmesma semana.\nO número mínimo de dias necessários para a realização \ndesse torneio é\nA\t\nA\t 22.\nB\t\nB\t 25.\nC\t\nC\t 28.\nD\t\nD\t 48.\nE\t\nE\t 64.",
+        "ano": 2022,
+        "descricao_area": "matemática e suas tecnologias",
+        "CO_POSICAO": 176.0
+      },
+      {
+        "enunciado": "\nQUESTÃO 141\t\nUma cozinheira produz docinhos especiais por \nencomenda. Usando uma receita-base de massa, ela \nprepara uma porção, com a qual produz 50 docinhos \nmaciços de formato esférico, com 2 cm de diâmetro.  \nUm cliente encomenda 150 desses docinhos, mas pede \nque cada um tenha formato esférico com 4 cm de diâmetro.  \nA cozinheira pretende preparar o número exato de \nporções da receita-base de massa necessário para \nproduzir os docinhos dessa encomenda.\nQuantas porções da receita-base de massa ela deve \npreparar para atender esse cliente?\nA\t\nA\t 2\nB\t\nB\t 3\nC\t\nC\t 6\nD\t\nD\t 12\nE\t\nE\t 24\n\n18 \nMT - 2° dia | Caderno 6 - CINZA - 1ª Aplicação\n                                                              ",
+        "ano": 2022,
+        "descricao_area": "matemática e suas tecnologias",
+        "CO_POSICAO": 141.0
+      },
+      {
+        "enunciado": "\nQUESTÃO 164\t\nUm médico faz o acompanhamento clínico de um grupo de pessoas que realizam atividades físicas diariamente. \nEle observou que a perda média de massa dessas pessoas para cada hora de atividade física era de 1,5 kg. Sabendo \nque a massa de 1 L de água é de 1 kg, ele recomendou que ingerissem, ao longo das 3 horas seguintes ao final da \natividade, uma quantidade total de água correspondente a 40% a mais do que a massa perdida na atividade física, \npara evitar desidratação.\nSeguindo a recomendação médica, uma dessas pessoas ingeriu, certo dia, um total de 1,7 L de água após \nterminar seus exercícios físicos.\nPara que a recomendação médica tenha efetivamente sido respeitada, a atividade física dessa pessoa, nesse dia, durou\nA\t\nA\t 30 minutos ou menos.\nB\t\nB\t mais de 35 e menos de 45 minutos.\nC\t\nC\t mais de 45 e menos de 55 minutos.\nD\t\nD\t mais de 60 e menos de 70 minutos.\nE\t\nE\t 70 minutos ou mais.",
+        "ano": 2022,
+        "descricao_area": "matemática e suas tecnologias",
+        "CO_POSICAO": 164.0
+      },
+      {
+        "enunciado": "\nQUESTÃO 138\t\nAo escutar a notícia de que um filme recém-lançado \narrecadou, no primeiro mês de lançamento, R$ 1,35 bilhão \nem bilheteria, um estudante escreveu corretamente o \nnúmero que representa essa quantia, com todos os seus \nalgarismos.\nO número escrito pelo estudante foi\nA\t\nA\t 135 000,00.\nB\t\nB\t 1 350 000,00.\nC\t\nC\t 13 500 000,00.\nD\t\nD\t 135 000 000,00.\nE\t\nE\t 1 350 000 000,00.",
+        "ano": 2022,
+        "descricao_area": "matemática e suas tecnologias",
+        "CO_POSICAO": 138.0
+      },
+      {
+        "enunciado": "\nQUESTÃO 150\t\nUm borrifador de atuação automática libera, a cada \nacionamento, uma mesma quantidade de inseticida.  \nO recipiente desse produto, quando cheio, contém 360 mL \nde inseticida, que duram 60 dias se o borrifador permanecer \nligado ininterruptamente e for acionado a cada 48 minutos.\nA quantidade de inseticida que é liberada a cada \nacionamento do borrifador, em mililitro, é\nA\t\nA\t 0,125.\nB\t\nB\t 0,200.\nC\t\nC\t 4,800.\nD\t\nD\t 6,000.\nE\t\nE\t 12,000.",
+        "ano": 2022,
+        "descricao_area": "matemática e suas tecnologias",
+        "CO_POSICAO": 150.0
+      },
+      {
+        "enunciado": "\nQUESTÃO 162\t\nEm janeiro de 2013, foram declaradas 1 794 272 \nadmissões e 1 765 372 desligamentos no Brasil, ou seja, \nforam criadas 28 900 vagas de emprego, segundo dados \ndo Cadastro Geral de Empregados e Desempregados \n(Caged), divulgados pelo Ministério do Trabalho e \nEmprego (MTE). Segundo o Caged, o número de vagas \ncriadas em janeiro de 2013 sofreu uma queda de 75%, \nquando comparado com o mesmo período de 2012.\nDisponível em: http://portal.mte.gov.br. Acesso em: 23 fev. 2013 (adaptado).\nDe acordo com as informações dadas, o número de \nvagas criadas em janeiro de 2012 foi\nA\t\nA\t 16 514.\nB\t\nB\t 86 700.\nC\t\nC\t 115 600.\nD\t\nD\t 441 343.\nE\t\nE\t 448 568.",
+        "ano": 2022,
+        "descricao_area": "matemática e suas tecnologias",
+        "CO_POSICAO": 162.0
+      },
+      {
+        "enunciado": "\nQUESTÃO 158\t\nAo analisar os dados de uma epidemia em uma cidade, peritos obtiveram um modelo que avalia a quantidade de \npessoas infectadas a cada mês, ao longo de um ano. O modelo é dado por p(t) = −t 2 + 10t + 24, sendo t um número \nnatural, variando de 1 a 12, que representa os meses do ano, e p(t) a quantidade de pessoas infectadas no mês t do \nano. Para tentar diminuir o número de infectados no próximo ano, a Secretaria Municipal de Saúde decidiu intensificar \na propaganda oficial sobre os cuidados com a epidemia. Foram apresentadas cinco propostas (I, II, III, IV e V), \ncom diferentes períodos de intensificação das propagandas:\n•\t I: 1 ≤ t ≤ 2;\n•\t II: 3 ≤ t ≤ 4;\n•\t III: 5 ≤ t ≤ 6;\n•\t IV: 7 ≤ t ≤ 9; \n•\t V: 10 ≤ t ≤ 12.\nA sugestão dos peritos é que seja escolhida a proposta cujo período de intensificação da propaganda englobe o \nmês em que, segundo o modelo, há a maior quantidade de infectados. A sugestão foi aceita.\nA proposta escolhida foi a\nA\t\nA\t I.\nB\t\nB\t II.\nC\t\nC\t III.\nD\t\nD\t IV.\nE\t\nE\t V.",
+        "ano": 2022,
+        "descricao_area": "matemática e suas tecnologias",
+        "CO_POSICAO": 158.0
+      },
+      {
+        "enunciado": "\nQUESTÃO 149\t\nEm uma universidade, atuam professores que estão \nenquadrados funcionalmente pela sua maior titulação: \nmestre ou doutor. Nela há, atualmente, 60 mestres e  \n40 doutores. Os salários mensais dos professores mestres \ne dos doutores são, respectivamente, R$ 8 000,00 e \nR$ 12 000,00.\nA diretoria da instituição pretende proporcionar um \naumento salarial diferenciado para o ano seguinte, de tal \nforma que o salário médio mensal dos professores dessa \ninstituição não ultrapasse R$ 12 240,00. A universidade já \nestabeleceu que o aumento salarial será de 25% para os \nmestres e precisa ainda definir o percentual de reajuste \npara os doutores.\nMantido o número atual de professores com suas atuais \ntitulações, o aumento salarial, em porcentagem, a ser \nconcedido aos doutores deverá ser de, no máximo,\nA\t\nA\t 14,4.\nB\t\nB\t 20,7.\nC\t\nC\t 22,0.\nD\t\nD\t 30,0.\nE\t\nE\t 37,5.",
+        "ano": 2022,
+        "descricao_area": "matemática e suas tecnologias",
+        "CO_POSICAO": 149.0
+      },
+      {
+        "enunciado": "\nQUESTÃO 174\t\nCada número que identifica uma agência bancária tem \nquatro dígitos: N1, N2, N3, N4 mais um dígito verificador N5.\nN1 N2 N3\nN4\nN5\nTodos \nesses \ndígitos \nsão \nnúmeros \nnaturais \npertencentes ao conjunto {0, 1, 2, 3, 4, 5, 6, 7, 8, 9}. \nPara a determinação de N5, primeiramente multiplica-se \nordenadamente os quatro primeiros dígitos do número \nda agência por 5, 4, 3 e 2, respectivamente, somam-se \nos resultados e obtém-se S = 5 N1 + 4 N2 + 3 N3 + 2 N4.\nPosteriormente, encontra-se o resto da divisão de  \nS por 11, denotando por R esse resto. Dessa forma, N5 é \na diferença 11 − R.\nConsidere o número de uma agência bancária cujos \nquatro primeiros dígitos são 0100.\nQual é o dígito verificador N5 dessa agência bancária?\nA\t\nA\t 0\nB\t\nB\t 6\nC\t\nC\t 7\nD\t\nD\t 8\nE\t\nE\t 9\n\n 29\nMT - 2° dia | Caderno 6 - CINZA - 1ª Aplicação\n                                                              ",
+        "ano": 2022,
+        "descricao_area": "matemática e suas tecnologias",
+        "CO_POSICAO": 174.0
+      },
+      {
+        "enunciado": "\nQUESTÃO 153\t\nEm uma loja, o preço promocional de uma geladeira \né de R$ 1 000,00 para pagamento somente em dinheiro. \nSeu preço normal, fora da promoção, é 10% maior. Para \npagamento feito com o cartão de crédito da loja, é dado \num desconto de 2% sobre o preço normal.\nUma cliente decidiu comprar essa geladeira, optando \npelo pagamento com o cartão de crédito da loja. Ela \ncalculou que o valor a ser pago seria o preço promocional \nacrescido de 8%. Ao ser informada pela loja do valor a \npagar, segundo sua opção, percebeu uma diferença entre \nseu cálculo e o valor que lhe foi apresentado.\nO valor apresentado pela loja, comparado ao valor \ncalculado pela cliente, foi\nA\t\nA\t R$ 2,00 menor.\nB\t\nB\t R$ 100,00 menor.\nC\t\nC\t R$ 200,00 menor.\nD\t\nD\t R$ 42,00 maior.\nE\t\nE\t R$ 80,00 maior.\n\n 21\nMT - 2° dia | Caderno 6 - CINZA - 1ª Aplicação\n                                                              ",
+        "ano": 2022,
+        "descricao_area": "matemática e suas tecnologias",
+        "CO_POSICAO": 153.0
+      },
+      {
+        "enunciado": "\nQUESTÃO 170\t\nUm parque tem dois circuitos de tamanhos \ndiferentes para corridas. Um corredor treina nesse \nparque e, no primeiro dia, inicia seu treino percorrendo \n3 voltas em torno do circuito maior e 2 voltas em torno \ndo menor, perfazendo um total de 1 800 m. Em seguida, \ndando continuidade a seu treino, corre mais 2 voltas \nem torno do circuito maior e 1 volta em torno do menor, \npercorrendo mais 1 100 m.\nNo segundo dia, ele pretende percorrer 5 000 m nos \ncircuitos do parque, fazendo um número inteiro de voltas \nem torno deles e de modo que o número de voltas seja o \nmaior possível.\nA soma do número de voltas em torno dos dois circuitos, \nno segundo dia, será\nA\t\nA\t 10.\nB\t\nB\t 13.\nC\t\nC\t 14.\nD\t\nD\t 15.\nE\t\nE\t 16.",
+        "ano": 2022,
+        "descricao_area": "matemática e suas tecnologias",
+        "CO_POSICAO": 170.0
+      },
+      {
+        "enunciado": "\nQUESTÃO 145\t\nPeças metálicas de aeronaves abandonadas em \naeroportos serão recicladas. Uma dessas peças é \nmaciça e tem o formato cilíndrico, com a medida do raio \nda base igual a 4 cm e a da altura igual a 50 cm. Ela será \nderretida, e o volume de metal resultante será utilizado \npara a fabricação de esferas maciças com diâmetro de \n1 cm, a serem usadas para confeccionar rolamentos. \nPara estimar a quantidade de esferas que poderão ser \nproduzidas a partir de cada uma das peças cilíndricas, \nadmite-se que não ocorre perda de material durante o \nprocesso de derretimento.\nQuantas dessas esferas poderão ser obtidas a partir de \ncada peça cilíndrica?\nA\t\nA\t 800\nB\t\nB\t 1 200\nC\t\nC\t 2 400\nD\t\nD\t 4 800\nE\t\nE\t 6 400\n\n 19\nMT - 2° dia | Caderno 6 - CINZA - 1ª Aplicação\n                                                              ",
+        "ano": 2022,
+        "descricao_area": "matemática e suas tecnologias",
+        "CO_POSICAO": 145.0
+      },
+      {
+        "enunciado": "\nQUESTÃO 147\t\nUma \nloja \ncomercializa \ncinco \nmodelos \nde  \ncaixas-d’água (I, II, III, IV e V), todos em formato  \nde cilindro reto de base circular. Os modelos II, III, IV e V  \ntêm as especificações de suas dimensões dadas em \nrelação às dimensões do modelo I, cuja profundidade é P \ne área da base é Ab, como segue:\n•\t modelo II: o dobro da profundidade e a metade da \nárea da base do modelo I;\n•\t modelo III: o dobro da profundidade e a metade do \nraio da base do modelo I;\n•\t modelo IV: a metade da profundidade e o dobro da \nárea da base do modelo I;\n•\t modelo V: a metade da profundidade e o dobro do \nraio da base do modelo I.\nUma pessoa pretende comprar nessa loja o modelo \nde caixa-d’água que ofereça a maior capacidade \nvolumétrica.\nO modelo escolhido deve ser o\nA\t\nA\t I.\nB\t\nB\t II.\nC\t\nC\t III.\nD\t\nD\t IV.\nE\t\nE\t V.",
+        "ano": 2022,
+        "descricao_area": "matemática e suas tecnologias",
+        "CO_POSICAO": 147.0
+      },
+      {
+        "enunciado": "\nQUESTÃO 175\t\nUm casal está reformando a cozinha de casa e \ndecidiu comprar um refrigerador novo. Observando a \nplanta da nova cozinha, desenhada na escala de 1 : 50, \nnotaram que o espaço destinado ao refrigerador tinha \n3,8 cm de altura e 1,6 cm de largura. Eles sabem que \nos fabricantes de refrigeradores indicam que, para um \nbom funcionamento e fácil manejo na limpeza, esses \neletrodomésticos devem ser colocados em espaços que \npermitam uma distância de, pelo menos, 10 cm de outros \nmóveis ou paredes, tanto na parte superior quanto nas \nlaterais. O casal comprou um refrigerador que caberia \nno local a ele destinado na nova cozinha, seguindo as \ninstruções do fabricante.\nEsse refrigerador tem altura e largura máximas, em \nmetro, respectivamente, iguais a\nA\t\nA\t 1,80 e 0,60.\nB\t\nB\t 1,80 e 0,70.\nC\t\nC\t 1,90 e 0,80.\nD\t\nD\t 2,00 e 0,90.\nE\t\nE\t 2,00 e 1,00.",
+        "ano": 2022,
+        "descricao_area": "matemática e suas tecnologias",
+        "CO_POSICAO": 175.0
+      },
+      {
+        "enunciado": "\nQUESTÃO 152\t\nA exposição a alguns níveis sonoros pode causar \nlesões auditivas. Por isso, em uma indústria, são adotadas \nmedidas preventivas de acordo com a máquina que o \nfuncionário opera e o nível N de intensidade do som, \nmedido em decibel (dB), a que o operário é exposto, \nsendo N = log10I 10 − log10I 10\n0 , I a intensidade do som e \nI0 = 10−12 W/m2.\nDisponível em: www.sofisica.com.br. Acesso em: 8 jul. 2015 (adaptado).\nQuando o som é considerado baixo, ou seja, \nN = 48 dB ou menos, deve ser utilizada a medida \npreventiva I. No caso de o som ser moderado, quando \nN está no intervalo (48 dB, 55 dB), deve ser utilizada a \nmedida preventiva II. Quando o som é moderado alto, \nque equivale a N no intervalo (55 dB, 80 dB), a medida \npreventiva a ser usada é a III. Se N estiver no intervalo  \n(80 dB, 115 dB), quando o som é considerado alto, deve ser \nutilizada a medida preventiva IV. E se o som é considerado \nmuito alto, com N maior que 115 dB, deve-se utilizar a \nmedida preventiva V.\nUma nova máquina, com I = 8 × 10−8 W/m2, foi adquirida \ne será classificada de acordo com o nível de ruído  \nque produz. \nConsidere 0,3 como aproximação para log102.\nO funcionário que operará a nova máquina deverá adotar \na medida preventiva\nA\t\nA\t I.\nB\t\nB\t II.\nC\t\nC\t III.\nD\t\nD\t IV.\nE\t\nE\t V.\n\n22\nMT • 2º DIA • CADERNO 7 • AZUL",
+        "ano": 2023,
+        "descricao_area": "matemática e suas tecnologias",
+        "CO_POSICAO": 152.0
+      },
+      {
+        "enunciado": "\nQUESTÃO 159\t\nUm agricultor é informado sobre um método de proteção \npara sua lavoura que consiste em inserir larvas específicas, \nde rápida reprodução. A reprodução dessas larvas faz com \nque sua população multiplique-se por 10 a cada 3 dias e, \npara evitar eventuais desequilíbrios, é possível cessar essa \nreprodução aplicando-se um produto X. O agricultor decide \niniciar esse método com 100 larvas e dispõe de 5 litros do \nproduto X, cuja aplicação recomendada é de exatamente \n1 litro para cada população de 200 000 larvas. A quantidade \ntotal do produto X de que ele dispõe deverá ser aplicada \nde uma única vez.\nQuantos dias após iniciado esse método o agricultor \ndeverá aplicar o produto X?\nA\t\nA\t 2\nB\t\nB\t 4\nC\t\nC\t 6\nD\t\nD\t 12\nE\t\nE\t 18 ",
+        "ano": 2023,
+        "descricao_area": "matemática e suas tecnologias",
+        "CO_POSICAO": 159.0
+      },
+      {
+        "enunciado": "\nQUESTÃO 171\t\nO calendário maia apresenta duas contagens \nsimultâneas de anos, o chamado ano Tzolkim, composto \npor 260 dias e que determinava o calendário religioso,  \ne o ano Haab, composto por 365 dias e que determinava o \ncalendário agrícola. Um historiador encontrou evidências \nde que gerações de uma mesma família governaram certa \ncomunidade maia pelo período de 20 ciclos, sendo cada \nciclo formado por 52 anos Haab.\nDisponível em: www.suapesquisa.com. Acesso em: 20 ago. 2014.\nDe acordo com as informações fornecidas, durante \nquantos anos Tzolkim aquela comunidade maia foi \ngovernada por tal família?\nA\t\nA\t 741\nB\t\nB\t 1 040\nC\t\nC\t 1 460\nD\t\nD\t 2 100\nE\t\nE\t 5 200",
+        "ano": 2023,
+        "descricao_area": "matemática e suas tecnologias",
+        "CO_POSICAO": 171.0
+      },
+      {
+        "enunciado": "\nQUESTÃO 161\t\nUma loja vende seus produtos de duas formas:  \nà vista ou financiado em três parcelas mensais iguais. \nPara definir o valor dessas parcelas nas vendas \nfinanciadas, a loja aumenta em 20% o valor do produto \nà vista e divide esse novo valor por 3. A primeira parcela \ndeve ser paga no ato da compra, e as duas últimas, \nem 30 e 60 dias após a compra.\nUm cliente da loja decidiu comprar, de forma financiada, \num produto cujo valor à vista é R$ 1 500,00.\nUtilize 5,29 como aproximação para \n28.\nA taxa mensal de juros compostos praticada nesse \nfinanciamento é de\nA\t\nA\t 6,7%\nB\t\nB\t 10%\nC\t\nC\t 20%\nD\t\nD\t 21,5%\nE\t\nE\t 23,3%",
+        "ano": 2023,
+        "descricao_area": "matemática e suas tecnologias",
+        "CO_POSICAO": 161.0
+      },
+      {
+        "enunciado": "\nQUESTÃO 142\t\nA água utilizada pelos 75 moradores de um vilarejo provém de um reservatório de formato cilíndrico circular reto \ncujo raio da base mede 5 metros, sempre abastecido no primeiro dia de cada mês por caminhões-pipa. Cada morador \ndesse vilarejo consome, em média, 200 litros de água por dia.\nNo mês de junho de um determinado ano, o vilarejo festejou o dia do seu padroeiro e houve um gasto extra de água \nnos primeiros 20 dias. Passado esse período, as pessoas verificaram a quantidade de água presente no reservatório \ne constataram que o nível da coluna de água estava em 1,5 metro. Decidiram, então, fazer um racionamento de água \ndurante os 10 dias seguintes. Considere 3 como aproximação para p.\nQual é a quantidade mínima de água, em litro, que cada morador, em média, deverá economizar por dia, de modo \nque o reservatório não fique sem água nos próximos 10 dias?\nA\t\nA\t 50\nB\t\nB\t 60\nC\t\nC\t 80\nD\t\nD\t 140\nE\t\nE\t 150",
+        "ano": 2023,
+        "descricao_area": "matemática e suas tecnologias",
+        "CO_POSICAO": 142.0
+      },
+      {
+        "enunciado": "\nQUESTÃO 143\t\nEm janeiro do ano passado, a direção de uma fábrica abriu uma creche para os filhos de seus funcionários, com \n10 salas, cada uma com capacidade para atender 10 crianças a cada ano. As vagas são sorteadas entre os filhos \ndos funcionários inscritos, enquanto os não contemplados pelo sorteio formam uma lista de espera. No ano passado, \na lista de espera teve 400 nomes e, neste ano, esse número cresceu 10%.\nA direção da fábrica realizou uma pesquisa e constatou que a lista de espera para o próximo ano terá a mesma \nquantidade de nomes da lista de espera deste ano. Decidiu, então, construir, ao longo desse ano, novas salas para \na creche, também com capacidade de atendimento para 10 crianças cada, de modo que o número de nomes na lista \nde espera no próximo ano seja 25% menor que o deste ano.\nO número mínimo de salas que deverão ser construídas é\nA\t\nA\t 10.\nB\t\nB\t 11.\nC\t\nC\t 13.\nD\t\nD\t 30.\nE\t\nE\t 33.\n\n19\nMT • 2º DIA • CADERNO 7 • AZUL",
+        "ano": 2023,
+        "descricao_area": "matemática e suas tecnologias",
+        "CO_POSICAO": 143.0
+      },
+      {
+        "enunciado": "\nQUESTÃO 153\t\nUm supermercado conta com cinco caixas disponíveis \npara pagamento. Foram instaladas telas que apresentam  \no tempo médio gasto por cada caixa para iniciar e finalizar o \natendimento de cada cliente, e o número de pessoas \npresentes na fila de cada caixa em tempo real. Um cliente, \nna hora de passar sua compra, sabendo que cada um \ndos cinco caixas iniciará um novo atendimento naquele \nmomento, pretende gastar o menor tempo possível de \nespera na fila. Ele observa que as telas apresentavam as \ninformações a seguir.\n•\t Caixa I: atendimento 12 minutos, 5 pessoas na fila.\n•\t Caixa II: atendimento 6 minutos, 9 pessoas na fila.\n•\t Caixa III: atendimento 5 minutos, 6 pessoas na fila.\n•\t Caixa IV: atendimento 15 minutos, 2 pessoas na fila.\n•\t Caixa V: atendimento 9 minutos, 3 pessoas na fila.\nPara alcançar seu objetivo, o cliente deverá escolher o caixa\nA\t\nA\t I.\nB\t\nB\t II.\nC\t\nC\t III.\nD\t\nD\t IV.\nE\t\nE\t V.",
+        "ano": 2023,
+        "descricao_area": "matemática e suas tecnologias",
+        "CO_POSICAO": 153.0
+      },
+      {
+        "enunciado": "\nQUESTÃO 147\t\nAlguns estudos comprovam que os carboidratos \nfornecem energia ao corpo, preservam as proteínas \nestruturais dos músculos durante a prática de atividade \nfísica e ainda dão força para o cérebro coordenar os \nmovimentos, o que de fato tem impacto positivo no \ndesenvolvimento do praticante. O ideal é consumir 1 grama \nde carboidrato para cada minuto de caminhada.\nCIRINO, C. Boa pergunta: consumir carboidratos antes dos exercícios melhora o \ndesempenho do atleta? Revista Saúde! É Vital, n. 330, nov. 2010 (adaptado).\nUm casal realizará diariamente 30 minutos de \ncaminhada, ingerindo, antes dessa atividade, a quantidade \nideal de carboidratos recomendada. Para ter o consumo ideal \napenas por meio do consumo de pão de fôrma integral, o \ncasal planeja garantir o suprimento de pães para um período \nde 30 dias ininterruptos. Sabe-se que cada pacote desse pão \nvem com 18 fatias, e que cada uma delas tem 15 gramas \nde carboidratos.\nA quantidade mínima de pacotes de pão de fôrma \nnecessários para prover o suprimento a esse casal é \nA\t\nA\t 1.\nB\t\nB\t 4.\nC\t\nC\t 6.\nD\t\nD\t 7.\nE\t\nE\t 8.",
+        "ano": 2023,
+        "descricao_area": "matemática e suas tecnologias",
+        "CO_POSICAO": 147.0
+      },
+      {
+        "enunciado": "\nQUESTÃO 138\t\nVisando atrair mais clientes, o gerente de uma loja \nanunciou uma promoção em que cada cliente que realizar \numa compra pode ganhar um voucher para ser usado \nem sua próxima compra. Para ganhar seu voucher,  \no cliente precisa retirar, ao acaso, uma bolinha de dentro \nde cada uma das duas urnas A e B disponibilizadas pelo \ngerente, nas quais há apenas bolinhas pretas e brancas. \nAtualmente, a probabilidade de se escolher, ao acaso,  \numa bolinha preta na urna A é igual a 20% e a probabilidade  \nde se escolher uma bolinha preta na urna B é 25%.  \nGanha o voucher o cliente que retirar duas bolinhas pretas, \numa de cada urna.\nCom o passar dos dias, o gerente percebeu que, para a \npromoção ser viável aos negócios, era preciso alterar \na probabilidade de acerto do cliente sem alterar a regra \nda promoção. Para isso, resolveu alterar a quantidade de \nbolinhas brancas na urna B de forma que a probabilidade \nde um cliente ganhar o voucher passasse a ser menor ou \nigual a 1%. Sabe-se que a urna B tem 4 bolinhas pretas e \nque, em ambas as urnas, todas as bolinhas têm a mesma \nprobabilidade de serem retiradas.\nQual é o número mínimo de bolinhas brancas que o \ngerente deve adicionar à urna B?\nA\t\nA\t 20\nB\t\nB\t 60\nC\t\nC\t 64\nD\t\nD\t 68\nE\t\nE\t 80\n\n17\nMT • 2º DIA • CADERNO 7 • AZUL",
+        "ano": 2023,
+        "descricao_area": "matemática e suas tecnologias",
+        "CO_POSICAO": 138.0
+      },
+      {
+        "enunciado": "\nQUESTÃO 150\t\nDirigir após ingerir bebidas alcoólicas é uma atitude \nextremamente perigosa, uma vez que, a partir da primeira \ndose, a pessoa já começa a ter perda de sensibilidade \nde movimentos e de reflexos. Apesar de a eliminação e \nabsorção do álcool depender de cada pessoa e de como \no organismo consegue metabolizar a substância, ao final \nda primeira hora após a ingestão, a concentração de álcool \n(C) no sangue corresponde a aproximadamente 90% da \nquantidade (q) de álcool ingerida, e a eliminação total \ndessa concentração pode demorar até 12 horas.\nDisponível em: http://g1.globo.com. Acesso em: 1 dez. 2018 (adaptado).\nNessas condições, ao final da primeira hora após a ingestão \nda quantidade q de álcool, a concentração C dessa \nsubstância no sangue é expressa algebricamente por\nA\t\nA\t C = 0,9q\nB\t\nB\t C = 0,1q\nC\t\nC\t C = 1 − 0,1q\nD\t\nD\t C = 1 − 0,9q\nE\t\nE\t C = q − 10",
+        "ano": 2023,
+        "descricao_area": "matemática e suas tecnologias",
+        "CO_POSICAO": 150.0
+      },
+      {
+        "enunciado": "\nQUESTÃO 162\t\nPara concretar a laje de sua residência, uma pessoa \ncontratou uma construtora. Tal empresa informa que o \npreço y do concreto bombeado é composto de duas \npartes: uma fixa, chamada de taxa de bombeamento, \ne uma variável, que depende do volume x de concreto \nutilizado. Sabe-se que a taxa de bombeamento custa \nR$ 500,00 e que o metro cúbico do concreto bombeado \né de R$ 250,00.\nA expressão que representa o preço y em função do \nvolume x, em metro cúbico, é\nA\t\nA\t y = 250x\nB\t\nB\t y = 500x\nC\t\nC\t y = 750x\nD\t\nD\t y = 250x + 500\nE\t\nE\t y = 500x + 250",
+        "ano": 2023,
+        "descricao_area": "matemática e suas tecnologias",
+        "CO_POSICAO": 162.0
+      },
+      {
+        "enunciado": "\nQUESTÃO 167\t\nA cada bimestre, a diretora de uma escola compra uma quantidade de folhas de papel ofício proporcional ao número \nde alunos matriculados. No bimestre passado, ela comprou 6 000 folhas para serem utilizadas pelos 1 200 alunos \nmatriculados. Neste bimestre, alguns alunos cancelaram suas matrículas e a escola tem, agora, 1 150 alunos. \nA diretora só pode gastar R$ 220,00 nessa compra, e sabe que o fornecedor da escola vende as folhas de papel \nofício em embalagens de 100 unidades a R$ 4,00 a embalagem. Assim, será preciso convencer o fornecedor a dar um \ndesconto à escola, de modo que seja possível comprar a quantidade total de papel ofício necessária para o bimestre.\nO desconto necessário no preço final da compra, em porcentagem, pertence ao intervalo\nA\t\nA\t (5,0 ; 5,5).\nB\t\nB\t (8,0 ; 8,5).\nC\t\nC\t (11,5 ; 12,5).\nD\t\nD\t (19,5 ; 20,5). \nE\t\nE\t (3,5 ; 4,0).\n\n27\nMT • 2º DIA • CADERNO 7 • AZUL",
+        "ano": 2023,
+        "descricao_area": "matemática e suas tecnologias",
+        "CO_POSICAO": 167.0
+      },
+      {
+        "enunciado": "\nQUESTÃO 158\t\nUm pescador tem um custo fixo diário de R$ 900,00 \ncom combustível, iscas, manutenção de seu barco e outras \npequenas despesas. Ele vende cada quilograma de peixe por \nR$ 5,00. Sua meta é obter um lucro mínimo de R$ 800,00  \npor dia. Sozinho, ele consegue, ao final de um dia de trabalho, \npescar 180 kg de peixe, o que é suficiente apenas para cobrir o \ncusto fixo diário. Portanto, precisa contratar ajudantes, pagando \npara cada um R$ 250,00 por dia de trabalho. Além desse valor, \n4% da receita obtida pela venda de peixe é repartida igualmente \nentre os ajudantes. Considerando o tamanho de seu barco, ele \npode contratar até 5 ajudantes. Ele sabe que com um ajudante \na pesca diária é de 300 kg e que, a partir do segundo  \najudante contratado, aumenta-se em 100 kg a quantidade de \npeixe pescada por ajudante em um dia de trabalho.\nA quantidade mínima de ajudantes que esse pescador \nprecisa contratar para conseguir o lucro diário pretendido é\nA\t\nA\t 1.\nB\t\nB\t 2.\nC\t\nC\t 3.\nD\t\nD\t 4.\nE\t\nE\t 5.",
+        "ano": 2023,
+        "descricao_area": "matemática e suas tecnologias",
+        "CO_POSICAO": 158.0
+      },
+      {
+        "enunciado": "\nQUESTÃO 160\t\nAo realizar o cadastro em um aplicativo de investimentos, \nfoi solicitado ao usuário que criasse uma senha, sendo \npermitido o uso somente dos seguintes caracteres:\n•\t algarismos de 0 a 9;\n•\t 26 letras minúsculas do alfabeto;\n•\t 26 letras maiúsculas do alfabeto;\n•\t 6 caracteres especiais !, @, #, $, , &.\nTrês tipos de estruturas para senha foram apresentadas \nao usuário:\n•\t tipo I: formada por quaisquer quatro caracteres \ndistintos, escolhidos dentre os permitidos;\n•\t tipo II: formada por cinco caracteres distintos, \niniciando por três letras, seguidas por um algarismo \ne, ao final, um caractere especial;\n•\t tipo III: formada por seis caracteres distintos, iniciando \npor duas letras, seguidas por dois algarismos e, ao \nfinal, dois caracteres especiais.\nConsidere p1, p2 e p3 as probabilidades de se \ndescobrirem ao acaso, na primeira tentativa, as senhas \ndos tipos I, II e III, respectivamente.\nNessas condições, o tipo de senha que apresenta a \nmenor probabilidade de ser descoberta ao acaso, na \nprimeira tentativa, é o\nA\t\nA\t tipo I, pois p1 < p2 < p3.\nB\t\nB\t tipo I, pois tem menor quantidade de caracteres.\nC\t\nC\t tipo II, pois tem maior quantidade de letras.\nD\t\nD\t tipo III, pois p3 < p2 < p1.\nE\t\nE\t tipo III, pois tem maior quantidade de caracteres.\n\n24\nMT • 2º DIA • CADERNO 7 • AZUL",
+        "ano": 2023,
+        "descricao_area": "matemática e suas tecnologias",
+        "CO_POSICAO": 160.0
+      },
+      {
+        "enunciado": "\nQUESTÃO 180\t\nUm tipo de semente necessita de bastante água nos \ndois primeiros meses após o plantio. Um produtor pretende \nestabelecer o melhor momento para o plantio desse tipo de \nsemente, nos meses de outubro a março. Após consultar \na previsão do índice mensal de precipitação de chuva \n(ImPC) da região onde ocorrerá o plantio, para o período \nchuvoso de 2020 - 2021, ele obteve os seguintes dados:\n•\t outubro/2020: ImPC = 250 mm;\n•\t novembro/2020: ImPC = 150 mm;\n•\t dezembro/2020: ImPC = 200 mm;\n•\t janeiro/2021: ImPC = 450 mm;\n•\t fevereiro/2021: ImPC = 100 mm;\n•\t março/2021: ImPC = 200 mm.\nCom base nessas previsões, ele precisa escolher \ndois meses consecutivos em que a média mensal de \nprecipitação seja a maior possível.\nNo início de qual desses meses o produtor deverá plantar \nesse tipo de semente?\nA\t\nA\t Outubro.\nB\t\nB\t Novembro.\nC\t\nC\t Dezembro.\nD\t\nD\t Janeiro.\nE\t\nE\t Fevereiro.\n",
+        "ano": 2023,
+        "descricao_area": "matemática e suas tecnologias",
+        "CO_POSICAO": 180.0
+      },
+      {
+        "enunciado": "\nQUESTÃO 175\t\nO metrô de um município oferece dois tipos de tíquetes com colorações diferentes, azul e vermelha, sendo vendidos \nem cartelas, cada qual com nove tíquetes da mesma cor e mesmo valor unitário. Duas cartelas de tíquetes azuis e \numa cartela de tíquetes vermelhos são vendidas por R$ 32,40. Sabe-se que o preço de um tíquete azul menos o preço \nde um tíquete vermelho é igual ao preço de um tíquete vermelho mais cinco centavos.\nQual o preço, em real, de uma cartela de tíquetes vermelhos?\nA\t\nA\t 4,68\nB\t\nB\t 6,30\nC\t\nC\t 9,30\nD\t\nD\t 10,50\nE\t\nE\t 10,65 \n\n30\nMT • 2º DIA • CADERNO 7 • AZUL",
+        "ano": 2023,
+        "descricao_area": "matemática e suas tecnologias",
+        "CO_POSICAO": 175.0
+      },
+      {
+        "enunciado": "\nQUESTÃO 143\t\nUma casa de shows terá um evento cujo custo total \nde produção é de R$ 34 350,00, sendo que comporta \n500 pessoas. O preço do ingresso será de R$ 130,00 e, \nnormalmente, 60% das pessoas adquirem meia-entrada, \npagando R$ 65,00 pelo ingresso. Além do faturamento \nproveniente da venda de ingressos, a casa de shows \nvende, com 60% de lucro, bebidas e petiscos ao público \nno dia do evento.\nApós ter vendido todos os 500 ingressos, constatou-se \nque a quantidade de meias-entradas vendidas superou \nem 50% o que estava previsto, impactando o faturamento \nestimado com a venda de ingressos.\nNo dia do evento, decidiu-se manter o percentual \nde 60% de lucro sobre as bebidas e petiscos, pois todo \no público que comprou ingresso compareceu ao \nshow. Com isso, espera-se ter lucro de R$ 17 000,00 \nnesse evento.\nPara que se alcance o lucro esperado, o gasto médio por \npessoa com bebidas e petiscos, em real, deverá ser de\nA\t19,50.\nB\t28,80.\nC\t34,00.\nD\t52,00.\nE\t68,70.",
+        "ano": 2024,
+        "descricao_area": "matemática e suas tecnologias",
+        "CO_POSICAO": 143.0
+      },
+      {
+        "enunciado": "\nQUESTÃO 151\t\nO arquiteto Renzo Piano exibiu a maquete da nova \nsede do Museu Whitney de Arte Americana, um prédio \nassimétrico que tem um vão aberto para a galeria principal, \ncuja medida da área é 1 672 m2.\nConsidere que a escala da maquete exibida é 1 : 200.\nÉpoca, n. 682, jun. 2011 (adaptado).\nA medida da área do vão aberto nessa maquete, em \ncentímetro quadrado, é\nA\t4,18.\nB\t8,36.\nC\t41,80.\nD\t83,60.\nE\t418,00.",
+        "ano": 2024,
+        "descricao_area": "matemática e suas tecnologias",
+        "CO_POSICAO": 151.0
+      },
+      {
+        "enunciado": "\nQUESTÃO 146\t\nUm fazendeiro pretende construir um galinheiro \nocupando uma região plana de formato retangular, com \nlados de comprimentos L metro e C metro. Os lados serão \ncercados por telas de tipos diferentes. Nos lados de \ncomprimento L metro, será utilizada uma tela cujo metro \nlinear custa R$ 20,00, enquanto, nos outros dois lados, \numa que custa R$ 15,00. O fazendeiro quer gastar, no \nmáximo, R$ 6 000,00 na compra de toda a tela necessária \npara o galinheiro, e deseja que o galinheiro tenha a maior \nárea possível.\nQual será a medida, em metro, do maior lado do galinheiro?\nA\t85\nB\t100\nC\t175\nD\t200\nE\t350",
+        "ano": 2024,
+        "descricao_area": "matemática e suas tecnologias",
+        "CO_POSICAO": 146.0
+      },
+      {
+        "enunciado": "\nQUESTÃO 137\t\nAo calcular a média de suas notas em 4 provas, um \nestudante dividiu, por engano, a soma das notas por 5. \nCom isso, a média obtida foi 1 unidade menor do que \ndeveria ser, caso fosse calculada corretamente.\nO valor correto da média das notas desse estudante é\nA\t4.\nB\t5.\nC\t6.\nD\t19.\nE\t21.",
+        "ano": 2024,
+        "descricao_area": "matemática e suas tecnologias",
+        "CO_POSICAO": 137.0
+      },
+      {
+        "enunciado": "\nQUESTÃO 138\t\nPara abrir a porta de uma empresa, cada funcionário \ndeve cadastrar uma senha utilizando um teclado \nalfanumérico como o representado na figura.\nPor exemplo: a tecla que contém o número 2 traz as \nletras correlacionadas A, B e C. Cada toque nessa tecla \nmostra, sequencialmente, os seguintes caracteres: 2, A, B \ne C. Para os próximos toques, essa sequência se repete. \nAs demais teclas funcionam da mesma maneira.\nAs senhas a serem cadastradas pelos funcionários \ndevem conter 5 caracteres, sendo 2 algarismos distintos \nseguidos de 3 letras diferentes, nessa ordem. Um funcionário \nirá cadastrar a sua primeira senha, podendo escolher entre \nas teclas que apresentam os números 1, 2, 5, 7 e 0 e as \nrespectivas letras correlacionadas, quando houver.\nO número de possibilidades diferentes que esse \nfuncionário tem para cadastrar sua senha é\nA\t11 520.\nB\t14 400.\nC\t18 000.\nD\t312 000.\nE\t390 000.\n\nENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM20E4ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024\nENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM20E4ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024\nENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024\n16\nMATEMÁTICA E SUAS TECNOLOGIAS • 2º DIA • CADERNO 7 • AZUL •",
+        "ano": 2024,
+        "descricao_area": "matemática e suas tecnologias",
+        "CO_POSICAO": 138.0
+      },
+      {
+        "enunciado": "\nQUESTÃO 179\t\nUma empresa de engenharia foi contratada para \nrealizar um serviço no valor de R$ 71 250,00. Os sócios da \nempresa decidiram que 40% desse valor seria destinado ao \npagamento de três engenheiros que gerenciaram o serviço. \nO pagamento para cada um deles será feito de forma \ndiretamente proporcional ao total de horas trabalhadas. \nO número de dias e o número de horas diárias \ntrabalhadas pelos engenheiros foram, respectivamente:\n•\t engenheiro I: 4 dias, numa jornada de 5 horas e \nmeia por dia;\n•\t engenheiro II: 5 dias, numa jornada de 4 horas por dia;\n•\t engenheiro III: 6 dias, numa jornada de 2 horas e \nmeia por dia.\nQual a maior diferença, em real, entre os valores recebidos \npor esse serviço entre dois desses engenheiros?\nA\t1 000\nB\t1 500\nC\t3 500\nD\t3 800\nE\t5 250",
+        "ano": 2024,
+        "descricao_area": "matemática e suas tecnologias",
+        "CO_POSICAO": 179.0
+      },
+      {
+        "enunciado": "\nQUESTÃO 136\t\nO tamanho mínimo que a visão humana é capaz de \nvisualizar sem o uso de equipamento auxiliar é equivalente \na 100 micrômetros (1 micrômetro = 10-3 milímetros).  \nUma estudante pretende visualizar e analisar hemácias \ndo sangue humano, que medem 0,007 mm de diâmetro. \nEla adquiriu um microscópio óptico que tem uma lente \nocular que amplia em 10 vezes a imagem do objeto em \nobservação, e um conjunto de lentes objetivas com estas \ncapacidades de ampliação:\n•\t lente I: 2 vezes;\n•\t lente II: 10 vezes;\n•\t lente III: 15 vezes;\n•\t lente IV: 1,1 vez;\n•\t lente V: 1,4 vez.\nO funcionamento desse microscópio permite o uso da \nlente ocular sozinha ou a combinação dela com uma  \nde suas lentes objetivas, proporcionando, nesse caso, \num aumento de sua capacidade de ampliação final, que é \ndada pelo produto entre as capacidades de ampliação da \nocular e da objetiva.\nEssa estudante pretende selecionar a lente objetiva de \nmenor capacidade de ampliação que permita, na combinação \ncom a ocular, visualizar hemácias do sangue humano.\nA lente objetiva a ser selecionada pela estudante é a\nA\tI.\nB\tII.\nC\tIII.\nD\tIV.\nE\tV.",
+        "ano": 2024,
+        "descricao_area": "matemática e suas tecnologias",
+        "CO_POSICAO": 136.0
+      },
+      {
+        "enunciado": "\nQUESTÃO 140\t\nJoão e Felipe participaram, na escola, de uma maratona \nde matemática na qual, durante uma semana, resolveram \n200 questões cada. Nessa maratona, a porcentagem P de \nacertos de cada participante é convertida em um conceito:\n•\t insatisfatório: se 0 ≤ P < 50;\n•\t regular: se 50 ≤ P < 60;\n•\t bom: se 60 ≤ P < 75;\n•\t muito bom: se 75 ≤ P < 90;\n•\t excelente: se 90 ≤ P ≤ 100.\nJoão acertou 75% das questões da maratona e Felipe \nacertou 30% a menos que a quantidade de questões que \nJoão acertou.\nOs conceitos de João e Felipe foram, respectivamente,\nA\tmuito bom e bom.\nB\tmuito bom e regular.\nC\tmuito bom e insatisfatório.\nD\tbom e regular.\nE\tbom e insatisfatório.",
+        "ano": 2024,
+        "descricao_area": "matemática e suas tecnologias",
+        "CO_POSICAO": 140.0
+      },
+      {
+        "enunciado": "\nQUESTÃO 162\t\nUma imobiliária iniciou uma campanha de divulgação \npara promover a venda de apartamentos que podem ser \npagos em 100 parcelas mensais. O valor da primeira delas \né fixado no momento da compra, com o pagamento dessa \nprimeira parcela. A partir da segunda parcela, o valor é \ndeterminado pela aplicação de um acréscimo percentual \nfixo ao valor da parcela anterior. Como atrativo, a imobiliária \nfará o pagamento de todas as parcelas correspondentes \nao mês de aniversário do comprador.\nUm cliente, que faz aniversário no mês de maio, \ndecidiu comprar um desses apartamentos por meio do \nfinanciamento oferecido pela imobiliária, e pretende escolher \no mês mais adequado para realizar essa compra, de modo \nque o valor total dos pagamentos seja o menor possível.\nQual é o mês que esse cliente deverá escolher para \nrealizar a compra do apartamento?\nA\tFevereiro.\nB\tAbril.\nC\tMaio.\nD\tJunho.\nE\tAgosto.",
+        "ano": 2024,
+        "descricao_area": "matemática e suas tecnologias",
+        "CO_POSICAO": 162.0
+      },
+      {
+        "enunciado": "\nQUESTÃO 160\t\nUma piscina tem capacidade de 2 500 000 litros. \nSeu sistema de abastecimento foi regulado para ter \numa vazão constante de 6 000 litros de água por minuto.\nO mesmo sistema foi instalado em uma segunda \npiscina, com capacidade de 2 750 000 litros, e regulado \npara ter uma vazão, também constante, capaz de enchê-la \nem um tempo 20% maior que o gasto para encher  \na primeira piscina.\nA vazão do sistema de abastecimento da segunda piscina, \nem litro por minuto, é\nA\t8 250.\nB\t7 920.\nC\t6 545.\nD\t5 500.\nE\t5 280.\n\nENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM20E4ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024\nENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM20E4ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024\nENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024\n22\nMATEMÁTICA E SUAS TECNOLOGIAS • 2º DIA • CADERNO 7 • AZUL •",
+        "ano": 2024,
+        "descricao_area": "matemática e suas tecnologias",
+        "CO_POSICAO": 160.0
+      },
+      {
+        "enunciado": "\nQUESTÃO 157\t\nUma doceira vende e entrega, em seu bairro, porções \nde 100 g de docinhos de aniversário. Atualmente, a taxa \núnica de entrega é R$ 10,00, e o valor cobrado por uma \nporção é R$ 25,00. Por uma estratégia de vendas, a partir \nda próxima semana, a taxa única de entrega será R$ 15,00, \ne um novo valor será cobrado por uma porção, de maneira \nque o valor total a ser pago por um cliente na compra de \n5 porções permaneça o mesmo.\nA partir da próxima semana, qual será o novo valor \ncobrado, em real, por uma porção?\nA\t12,50\nB\t20,00\nC\t24,00\nD\t30,00\nE\t37,50",
+        "ano": 2024,
+        "descricao_area": "matemática e suas tecnologias",
+        "CO_POSICAO": 157.0
+      },
+      {
+        "enunciado": "\nQUESTÃO 165\t\nPara melhorar o fluxo de ônibus em uma avenida que \ntem dois semáforos, a prefeitura reduzirá o tempo em \nque cada sinal ficará vermelho, que atualmente é de 15 \nsegundos a cada 60 segundos. Admita que o instante de \nchegada de um ônibus a cada semáforo é aleatório.\nO engenheiro de tráfego da prefeitura calculou a \nprobabilidade de um ônibus encontrar cada um deles \nvermelho, obtendo 15\n60\n. A partir daí, estabeleceu uma \nmesma redução na quantidade do tempo, em segundo, \nem que cada sinal ficará vermelho, de maneira que \na probabilidade de um ônibus encontrar ambos os \nsinais vermelhos numa mesma viagem seja igual a \n4\n100 , \nconsiderando os eventos independentes.\nPara isso, a redução do tempo em que o sinal ficará \nvermelho, em segundo, estabelecida pelo engenheiro foi de\nA\t1,35.\nB\t3,00.\nC\t9,00.\nD\t12,60.\nE\t13,80.",
+        "ano": 2024,
+        "descricao_area": "matemática e suas tecnologias",
+        "CO_POSICAO": 165.0
+      },
+      {
+        "enunciado": "\nQUESTÃO 156\t\nO uso de aplicativos de transporte tem sido uma \nalternativa à população que busca preços mais competitivos \npara se locomover, principalmente nas grandes cidades. \nAs formas usadas para determinar o valor cobrado por \ncada viagem variam de um aplicativo para outro, mas, em \ngeral, o valor V a ser pago, em real, varia em função de:\n•\t tarifa base F: valor fixo, em real, cobrado no início \nda viagem;\n•\t tempo T: tempo, em minuto, de duração da viagem;\n•\t distância D: distância percorrida, em quilômetro.\nUm desses aplicativos cobra R$ 2,00 de valor fixo, \nacrescido de R$ 0,26 por minuto de viagem e de R$ 1,40 \npor quilômetro rodado.\nNessas condições, a expressão que fornece o valor V a \nser pago por uma viagem desse aplicativo é\nA\t2,00F + 0,26T + 1,40D\nB\t2,00 + 0,26T + 1,40D\nC\t2,00 + 0,26T + D\nD\t0,26T + 1,40D\nE\tF + T + D\n\nENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM20E4ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024\nENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM20E4ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024\nENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024\n21\n• MATEMÁTICA E SUAS TECNOLOGIAS • 2º DIA • CADERNO 7 • AZUL",
+        "ano": 2024,
+        "descricao_area": "matemática e suas tecnologias",
+        "CO_POSICAO": 156.0
+      },
+      {
+        "enunciado": "\nQUESTÃO 153\t\nUm instituto de pesquisa constatou que, nos últimos \ndez anos, o crescimento populacional de uma cidade foi \nde 135,25%.\nQual é a representação decimal da taxa percentual desse \ncrescimento populacional?\nA\t13 525,0\nB\t135,25\nC\t13,525\nD\t1,3525\nE\t0,13525\n\nENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM20E4ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024\nENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM20E4ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024\nENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024\n20\nMATEMÁTICA E SUAS TECNOLOGIAS • 2º DIA • CADERNO 7 • AZUL •",
+        "ano": 2024,
+        "descricao_area": "matemática e suas tecnologias",
+        "CO_POSICAO": 153.0
+      },
+      {
+        "enunciado": "\nQUESTÃO 145\t\nO estádio do Maracanã passou por algumas \nmodificações estruturais para a realização da Copa do \nMundo de 2014, como, por exemplo, as dimensões do \ncampo retangular. Para se adaptar aos padrões da Fifa, \nas dimensões do campo foram reduzidas de 110 m × 75 m \npara 105 m × 68 m.\nDisponível em: http://virgula.uol.com.br. \nAcesso em: 14 ago. 2013 (adaptado).\nEm quantos metros quadrados a área do campo do \nMaracanã foi reduzida?\nA\t24\nB\t35\nC\t555\nD\t1 110\nE\t1 145\n\nENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM20E4ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024\nENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM20E4ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024\nENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024\n18\nMATEMÁTICA E SUAS TECNOLOGIAS • 2º DIA • CADERNO 7 • AZUL •",
+        "ano": 2024,
+        "descricao_area": "matemática e suas tecnologias",
+        "CO_POSICAO": 145.0
+      }
+    ],
+    "resp": [
+      {
+        "ano": 2022,
+        "tag_model": "gpt_oss_120b",
+        "CO_POSICAO": 171.0,
+        "descricao_area": "matemática e suas tecnologias",
+        "resposta": "E"
+      },
+      {
+        "ano": 2022,
+        "tag_model": "gpt_oss_120b",
+        "CO_POSICAO": 172.0,
+        "descricao_area": "matemática e suas tecnologias",
+        "resposta": "B"
+      },
+      {
+        "ano": 2022,
+        "tag_model": "gpt_oss_120b",
+        "CO_POSICAO": 143.0,
+        "descricao_area": "matemática e suas tecnologias",
+        "resposta": "B"
+      },
+      {
+        "ano": 2022,
+        "tag_model": "gpt_oss_120b",
+        "CO_POSICAO": 169.0,
+        "descricao_area": "matemática e suas tecnologias",
+        "resposta": "D"
+      },
+      {
+        "ano": 2022,
+        "tag_model": "gpt_oss_120b",
+        "CO_POSICAO": 151.0,
+        "descricao_area": "matemática e suas tecnologias",
+        "resposta": "A"
+      },
+      {
+        "ano": 2022,
+        "tag_model": "gpt_oss_120b",
+        "CO_POSICAO": 176.0,
+        "descricao_area": "matemática e suas tecnologias",
+        "resposta": "B"
+      },
+      {
+        "ano": 2022,
+        "tag_model": "gpt_oss_120b",
+        "CO_POSICAO": 141.0,
+        "descricao_area": "matemática e suas tecnologias",
+        "resposta": "E"
+      },
+      {
+        "ano": 2022,
+        "tag_model": "gpt_oss_120b",
+        "CO_POSICAO": 164.0,
+        "descricao_area": "matemática e suas tecnologias",
+        "resposta": "C"
+      },
+      {
+        "ano": 2022,
+        "tag_model": "gpt_oss_120b",
+        "CO_POSICAO": 138.0,
+        "descricao_area": "matemática e suas tecnologias",
+        "resposta": "E"
+      },
+      {
+        "ano": 2022,
+        "tag_model": "gpt_oss_120b",
+        "CO_POSICAO": 150.0,
+        "descricao_area": "matemática e suas tecnologias",
+        "resposta": "B"
+      },
+      {
+        "ano": 2022,
+        "tag_model": "gpt_oss_120b",
+        "CO_POSICAO": 162.0,
+        "descricao_area": "matemática e suas tecnologias",
+        "resposta": "C"
+      },
+      {
+        "ano": 2022,
+        "tag_model": "gpt_oss_120b",
+        "CO_POSICAO": 158.0,
+        "descricao_area": "matemática e suas tecnologias",
+        "resposta": "C"
+      },
+      {
+        "ano": 2022,
+        "tag_model": "gpt_oss_120b",
+        "CO_POSICAO": 149.0,
+        "descricao_area": "matemática e suas tecnologias",
+        "resposta": "D"
+      },
+      {
+        "ano": 2022,
+        "tag_model": "gpt_oss_120b",
+        "CO_POSICAO": 174.0,
+        "descricao_area": "matemática e suas tecnologias",
+        "resposta": "C"
+      },
+      {
+        "ano": 2022,
+        "tag_model": "gpt_oss_120b",
+        "CO_POSICAO": 153.0,
+        "descricao_area": "matemática e suas tecnologias",
+        "resposta": "A"
+      },
+      {
+        "ano": 2022,
+        "tag_model": "gpt_oss_120b",
+        "CO_POSICAO": 170.0,
+        "descricao_area": "matemática e suas tecnologias",
+        "resposta": "E"
+      },
+      {
+        "ano": 2022,
+        "tag_model": "gpt_oss_120b",
+        "CO_POSICAO": 145.0,
+        "descricao_area": "matemática e suas tecnologias",
+        "resposta": "D"
+      },
+      {
+        "ano": 2022,
+        "tag_model": "gpt_oss_120b",
+        "CO_POSICAO": 147.0,
+        "descricao_area": "matemática e suas tecnologias",
+        "resposta": "E"
+      },
+      {
+        "ano": 2022,
+        "tag_model": "gpt_oss_120b",
+        "CO_POSICAO": 175.0,
+        "descricao_area": "matemática e suas tecnologias",
+        "resposta": "A"
+      },
+      {
+        "ano": 2023,
+        "tag_model": "gpt_oss_120b",
+        "CO_POSICAO": 152.0,
+        "descricao_area": "matemática e suas tecnologias",
+        "resposta": "B"
+      },
+      {
+        "ano": 2023,
+        "tag_model": "gpt_oss_120b",
+        "CO_POSICAO": 159.0,
+        "descricao_area": "matemática e suas tecnologias",
+        "resposta": "D"
+      },
+      {
+        "ano": 2023,
+        "tag_model": "gpt_oss_120b",
+        "CO_POSICAO": 171.0,
+        "descricao_area": "matemática e suas tecnologias",
+        "resposta": "C"
+      },
+      {
+        "ano": 2023,
+        "tag_model": "gpt_oss_120b",
+        "CO_POSICAO": 161.0,
+        "descricao_area": "matemática e suas tecnologias",
+        "resposta": "D"
+      },
+      {
+        "ano": 2023,
+        "tag_model": "gpt_oss_120b",
+        "CO_POSICAO": 142.0,
+        "descricao_area": "matemática e suas tecnologias",
+        "resposta": "A"
+      },
+      {
+        "ano": 2023,
+        "tag_model": "gpt_oss_120b",
+        "CO_POSICAO": 143.0,
+        "descricao_area": "matemática e suas tecnologias",
+        "resposta": "B"
+      },
+      {
+        "ano": 2023,
+        "tag_model": "gpt_oss_120b",
+        "CO_POSICAO": 153.0,
+        "descricao_area": "matemática e suas tecnologias",
+        "resposta": "E"
+      },
+      {
+        "ano": 2023,
+        "tag_model": "gpt_oss_120b",
+        "CO_POSICAO": 147.0,
+        "descricao_area": "matemática e suas tecnologias",
+        "resposta": "D"
+      },
+      {
+        "ano": 2023,
+        "tag_model": "gpt_oss_120b",
+        "CO_POSICAO": 138.0,
+        "descricao_area": "matemática e suas tecnologias",
+        "resposta": "C"
+      },
+      {
+        "ano": 2023,
+        "tag_model": "gpt_oss_120b",
+        "CO_POSICAO": 150.0,
+        "descricao_area": "matemática e suas tecnologias",
+        "resposta": "A"
+      },
+      {
+        "ano": 2023,
+        "tag_model": "gpt_oss_120b",
+        "CO_POSICAO": 162.0,
+        "descricao_area": "matemática e suas tecnologias",
+        "resposta": "D"
+      },
+      {
+        "ano": 2023,
+        "tag_model": "gpt_oss_120b",
+        "CO_POSICAO": 167.0,
+        "descricao_area": "matemática e suas tecnologias",
+        "resposta": "A"
+      },
+      {
+        "ano": 2023,
+        "tag_model": "gpt_oss_120b",
+        "CO_POSICAO": 158.0,
+        "descricao_area": "matemática e suas tecnologias",
+        "resposta": "D"
+      },
+      {
+        "ano": 2023,
+        "tag_model": "gpt_oss_120b",
+        "CO_POSICAO": 160.0,
+        "descricao_area": "matemática e suas tecnologias",
+        "resposta": "A"
+      },
+      {
+        "ano": 2023,
+        "tag_model": "gpt_oss_120b",
+        "CO_POSICAO": 180.0,
+        "descricao_area": "matemática e suas tecnologias",
+        "resposta": "C"
+      },
+      {
+        "ano": 2023,
+        "tag_model": "gpt_oss_120b",
+        "CO_POSICAO": 175.0,
+        "descricao_area": "matemática e suas tecnologias",
+        "resposta": "B"
+      },
+      {
+        "ano": 2024,
+        "tag_model": "gpt_oss_120b",
+        "CO_POSICAO": 143.0,
+        "descricao_area": "matemática e suas tecnologias",
+        "resposta": "D"
+      },
+      {
+        "ano": 2024,
+        "tag_model": "gpt_oss_120b",
+        "CO_POSICAO": 151.0,
+        "descricao_area": "matemática e suas tecnologias",
+        "resposta": "E"
+      },
+      {
+        "ano": 2024,
+        "tag_model": "gpt_oss_120b",
+        "CO_POSICAO": 146.0,
+        "descricao_area": "matemática e suas tecnologias",
+        "resposta": "B"
+      },
+      {
+        "ano": 2024,
+        "tag_model": "gpt_oss_120b",
+        "CO_POSICAO": 137.0,
+        "descricao_area": "matemática e suas tecnologias",
+        "resposta": "B"
+      },
+      {
+        "ano": 2024,
+        "tag_model": "gpt_oss_120b",
+        "CO_POSICAO": 138.0,
+        "descricao_area": "matemática e suas tecnologias",
+        "resposta": "B"
+      },
+      {
+        "ano": 2024,
+        "tag_model": "gpt_oss_120b",
+        "CO_POSICAO": 179.0,
+        "descricao_area": "matemática e suas tecnologias",
+        "resposta": "C"
+      },
+      {
+        "ano": 2024,
+        "tag_model": "gpt_oss_120b",
+        "CO_POSICAO": 136.0,
+        "descricao_area": "matemática e suas tecnologias",
+        "resposta": "A"
+      },
+      {
+        "ano": 2024,
+        "tag_model": "gpt_oss_120b",
+        "CO_POSICAO": 140.0,
+        "descricao_area": "matemática e suas tecnologias",
+        "resposta": "B"
+      },
+      {
+        "ano": 2024,
+        "tag_model": "gpt_oss_120b",
+        "CO_POSICAO": 162.0,
+        "descricao_area": "matemática e suas tecnologias",
+        "resposta": "D"
+      },
+      {
+        "ano": 2024,
+        "tag_model": "gpt_oss_120b",
+        "CO_POSICAO": 160.0,
+        "descricao_area": "matemática e suas tecnologias",
+        "resposta": "D"
+      },
+      {
+        "ano": 2024,
+        "tag_model": "gpt_oss_120b",
+        "CO_POSICAO": 157.0,
+        "descricao_area": "matemática e suas tecnologias",
+        "resposta": "C"
+      },
+      {
+        "ano": 2024,
+        "tag_model": "gpt_oss_120b",
+        "CO_POSICAO": 165.0,
+        "descricao_area": "matemática e suas tecnologias",
+        "resposta": "B"
+      },
+      {
+        "ano": 2024,
+        "tag_model": "gpt_oss_120b",
+        "CO_POSICAO": 156.0,
+        "descricao_area": "matemática e suas tecnologias",
+        "resposta": "B"
+      },
+      {
+        "ano": 2024,
+        "tag_model": "gpt_oss_120b",
+        "CO_POSICAO": 153.0,
+        "descricao_area": "matemática e suas tecnologias",
+        "resposta": "D"
+      },
+      {
+        "ano": 2024,
+        "tag_model": "gpt_oss_120b",
+        "CO_POSICAO": 145.0,
+        "descricao_area": "matemática e suas tecnologias",
+        "resposta": "D"
+      }
+    ],
+    "area_conhecimento": "MT"
+  },
+  {
+    "id_person": 2,
+    "tag_model_person": "gpt_oss_120b",
+    "questions": [
+      {
+        "enunciado": "\nQUESTÃO 171\t\nUma equipe de marketing digital foi contratada para \naumentar as vendas de um produto ofertado em um site \nde comércio eletrônico. Para isso, elaborou um anúncio \nque, quando o cliente clica sobre ele, é direcionado \npara a página de vendas do produto. Esse anúncio foi \ndivulgado em duas redes sociais, A e B, e foram obtidos \nos seguintes resultados:\n•\t rede social A: o anúncio foi visualizado por  \n3 000 pessoas; 10% delas clicaram sobre o anúncio \ne foram redirecionadas para o site; 3% das que  \nclicaram sobre o anúncio compraram o produto. \nO investimento feito para a publicação do anúncio \nnessa rede foi de R$ 100,00;\n•\t rede social B: o anúncio foi visualizado por  \n1 000 pessoas; 30% delas clicaram sobre o anúncio \ne foram redirecionadas para o site; 2% das que  \nclicaram sobre o anúncio compraram o produto. \nO investimento feito para a publicação do anúncio \nnessa rede foi de R$ 200,00.\nPor experiência, o pessoal da equipe de marketing \nconsidera que a quantidade de novas pessoas que verão \no anúncio é diretamente proporcional ao investimento \nrealizado, e que a quantidade de pessoas que comprarão \no produto também se manterá proporcional à quantidade \nde pessoas que clicarão sobre o anúncio.\nO responsável pelo produto decidiu, então, investir \nmais R$ 300,00 em cada uma das duas redes sociais \npara a divulgação desse anúncio e obteve, de fato, o \naumento proporcional esperado na quantidade de clientes \nque compraram esse produto. Para classificar o aumento \nobtido na quantidade (Q) de compradores desse produto, \nem consequência dessa segunda divulgação, em relação \naos resultados observados na primeira divulgação, o \nresponsável pelo produto adotou o seguinte critério:\n•\t Q ≤ 60%: não satisfatório;\n•\t 60% < Q ≤ 100%: regular;\n•\t 100% < Q ≤ 150%: bom;\n•\t 150% < Q ≤ 190%: muito bom;\n•\t 190% < Q ≤ 200%: excelente.\nO aumento na quantidade de compradores, em \nconsequência dessa segunda divulgação, em relação \nao que foi registrado com a primeira divulgação, foi \nclassificado como\nA\t\nA\t não satisfatório.\nB\t\nB\t regular.\nC\t\nC\t bom.\nD\t\nD\t muito bom.\nE\t\nE\t excelente.\n\n28 \nMT - 2° dia | Caderno 6 - CINZA - 1ª Aplicação\n                                                              ",
+        "ano": 2022,
+        "descricao_area": "matemática e suas tecnologias",
+        "CO_POSICAO": 171.0
+      },
+      {
+        "enunciado": "\nQUESTÃO 172\t\nUma montadora de automóveis divulgou que oferta a \nseus clientes mais de 1 000 configurações diferentes de \ncarro, variando o modelo, a motorização, os opcionais e \na cor do veículo. Atualmente, ela oferece 7 modelos de \ncarros com 2 tipos de motores: 1.0 e 1.6. Já em relação \naos opcionais, existem 3 escolhas possíveis: central \nmultimídia, rodas de liga leve e bancos de couro, podendo \no cliente optar por incluir um, dois, três ou nenhum dos \nopcionais disponíveis.\nPara ser fiel à divulgação feita, a quantidade mínima \nde cores que a montadora deverá disponibilizar a seus \nclientes é\nA\t\nA\t 8.\nB\t\nB\t 9.\nC\t\nC\t 11.\nD\t\nD\t 18.\nE\t\nE\t 24.",
+        "ano": 2022,
+        "descricao_area": "matemática e suas tecnologias",
+        "CO_POSICAO": 172.0
+      },
+      {
+        "enunciado": "\nQUESTÃO 143\t\nUm casal planeja construir em sua chácara uma \npiscina com o formato de um paralelepípedo reto \nretângulo com capacidade para 90 000 L de água.  \nO casal contratou uma empresa de construções que \napresentou cinco projetos com diferentes combinações \nnas dimensões internas de profundidade, largura \ne comprimento. A piscina a ser construída terá \nrevestimento interno em suas paredes e fundo com uma \nmesma cerâmica, e o casal irá escolher o projeto que \nexija a menor área de revestimento.\nAs dimensões internas de profundidade, largura \ne comprimento, respectivamente, para cada um dos \nprojetos, são:\n•\t projeto I: 1,8 m, 2,0 m e 25,0 m;\n•\t projeto II: 2,0 m, 5,0 m e 9,0 m;\n•\t projeto III: 1,0 m, 6,0 m e 15,0 m; \n•\t projeto IV: 1,5 m, 15,0 m e 4,0 m;\n•\t projeto V: 2,5 m, 3,0 m e 12,0 m.\nO projeto que o casal deverá escolher será o\nA\t\nA\t I.\nB\t\nB\t II.\nC\t\nC\t III.\nD\t\nD\t IV.\nE\t\nE\t V.",
+        "ano": 2022,
+        "descricao_area": "matemática e suas tecnologias",
+        "CO_POSICAO": 143.0
+      },
+      {
+        "enunciado": "\nQUESTÃO 169\t\nO pacote básico de um jogo para smartphone, que \né vendido a R$ 50,00, contém 2 000 gemas e 100 000 \nmoedas de ouro, que são itens utilizáveis nesse jogo.\nA empresa que comercializa esse jogo decidiu criar \num pacote especial que será vendido a R$ 100,00 e que \nse diferenciará do pacote básico por apresentar maiores \nquantidades de gemas e moedas de ouro. Para estimular \nas vendas desse novo pacote, a empresa decidiu inserir \nnele 6 000 gemas a mais, em relação ao que o cliente \nteria caso optasse por comprar, com a mesma quantia, \ndois pacotes básicos.\nA quantidade de moedas de ouro que a empresa deverá \ninserir ao pacote especial, para que seja mantida a mesma \nproporção existente entre as quantidades de gemas e de \nmoedas de ouro contidas no pacote básico, é\nA\t\nA\t 50 000.\nB\t\nB\t 100 000.\nC\t\nC\t 200 000.\nD\t\nD\t 300 000.\nE\t\nE\t 400 000.",
+        "ano": 2022,
+        "descricao_area": "matemática e suas tecnologias",
+        "CO_POSICAO": 169.0
+      },
+      {
+        "enunciado": "\nQUESTÃO 151\t\nDefinem-se o dia e o ano de um planeta de um sistema solar \ncomo sendo, respectivamente, o tempo que o planeta leva para \ndar 1 volta completa em torno de seu próprio eixo de rotação e o \ntempo para dar 1 volta completa em torno de seu Sol.\nSuponha que exista um planeta Z, em algum sistema \nsolar, onde um dia corresponda a 73 dias terrestres e \nque 2 de seus anos correspondam a 1 ano terrestre. \nConsidere que 1 ano terrestre tem 365 de seus dias.\nNo planeta Z, seu ano corresponderia a quantos de seus \ndias?\nA\t\nA\t 2,5\nB\t\nB\t 10,0\nC\t\nC\t 730,0\nD\t\nD\t 13 322,5\nE\t\nE\t 53 290,0",
+        "ano": 2022,
+        "descricao_area": "matemática e suas tecnologias",
+        "CO_POSICAO": 151.0
+      },
+      {
+        "enunciado": "\nQUESTÃO 176\t\nForam convidadas 32 equipes para um torneio de \nfutebol, que foram divididas em 8 grupos com 4 equipes, \nsendo que, dentro de um grupo, cada equipe disputa uma \núnica partida contra cada uma das demais equipes de \nseu grupo. A primeira e a segunda colocadas de cada \ngrupo seguem para realizar as 8 partidas da próxima \nfase do torneio, chamada oitavas de final. Os vencedores \ndas partidas das oitavas de final seguem para jogar \nas 4 partidas das quartas de final. Os vencedores das \nquartas de final disputam as 2 partidas das semifinais, e \nos vencedores avançam para a grande final, que define a \ncampeã do torneio.\nPelas regras do torneio, cada equipe deve ter um \nperíodo de descanso de, no mínimo, 3 dias entre dois \njogos por ela disputados, ou seja, se um time disputar \numa partida, por exemplo, num domingo, só poderá \ndisputar a partida seguinte a partir da quinta-feira da \nmesma semana.\nO número mínimo de dias necessários para a realização \ndesse torneio é\nA\t\nA\t 22.\nB\t\nB\t 25.\nC\t\nC\t 28.\nD\t\nD\t 48.\nE\t\nE\t 64.",
+        "ano": 2022,
+        "descricao_area": "matemática e suas tecnologias",
+        "CO_POSICAO": 176.0
+      },
+      {
+        "enunciado": "\nQUESTÃO 141\t\nUma cozinheira produz docinhos especiais por \nencomenda. Usando uma receita-base de massa, ela \nprepara uma porção, com a qual produz 50 docinhos \nmaciços de formato esférico, com 2 cm de diâmetro.  \nUm cliente encomenda 150 desses docinhos, mas pede \nque cada um tenha formato esférico com 4 cm de diâmetro.  \nA cozinheira pretende preparar o número exato de \nporções da receita-base de massa necessário para \nproduzir os docinhos dessa encomenda.\nQuantas porções da receita-base de massa ela deve \npreparar para atender esse cliente?\nA\t\nA\t 2\nB\t\nB\t 3\nC\t\nC\t 6\nD\t\nD\t 12\nE\t\nE\t 24\n\n18 \nMT - 2° dia | Caderno 6 - CINZA - 1ª Aplicação\n                                                              ",
+        "ano": 2022,
+        "descricao_area": "matemática e suas tecnologias",
+        "CO_POSICAO": 141.0
+      },
+      {
+        "enunciado": "\nQUESTÃO 164\t\nUm médico faz o acompanhamento clínico de um grupo de pessoas que realizam atividades físicas diariamente. \nEle observou que a perda média de massa dessas pessoas para cada hora de atividade física era de 1,5 kg. Sabendo \nque a massa de 1 L de água é de 1 kg, ele recomendou que ingerissem, ao longo das 3 horas seguintes ao final da \natividade, uma quantidade total de água correspondente a 40% a mais do que a massa perdida na atividade física, \npara evitar desidratação.\nSeguindo a recomendação médica, uma dessas pessoas ingeriu, certo dia, um total de 1,7 L de água após \nterminar seus exercícios físicos.\nPara que a recomendação médica tenha efetivamente sido respeitada, a atividade física dessa pessoa, nesse dia, durou\nA\t\nA\t 30 minutos ou menos.\nB\t\nB\t mais de 35 e menos de 45 minutos.\nC\t\nC\t mais de 45 e menos de 55 minutos.\nD\t\nD\t mais de 60 e menos de 70 minutos.\nE\t\nE\t 70 minutos ou mais.",
+        "ano": 2022,
+        "descricao_area": "matemática e suas tecnologias",
+        "CO_POSICAO": 164.0
+      },
+      {
+        "enunciado": "\nQUESTÃO 138\t\nAo escutar a notícia de que um filme recém-lançado \narrecadou, no primeiro mês de lançamento, R$ 1,35 bilhão \nem bilheteria, um estudante escreveu corretamente o \nnúmero que representa essa quantia, com todos os seus \nalgarismos.\nO número escrito pelo estudante foi\nA\t\nA\t 135 000,00.\nB\t\nB\t 1 350 000,00.\nC\t\nC\t 13 500 000,00.\nD\t\nD\t 135 000 000,00.\nE\t\nE\t 1 350 000 000,00.",
+        "ano": 2022,
+        "descricao_area": "matemática e suas tecnologias",
+        "CO_POSICAO": 138.0
+      },
+      {
+        "enunciado": "\nQUESTÃO 150\t\nUm borrifador de atuação automática libera, a cada \nacionamento, uma mesma quantidade de inseticida.  \nO recipiente desse produto, quando cheio, contém 360 mL \nde inseticida, que duram 60 dias se o borrifador permanecer \nligado ininterruptamente e for acionado a cada 48 minutos.\nA quantidade de inseticida que é liberada a cada \nacionamento do borrifador, em mililitro, é\nA\t\nA\t 0,125.\nB\t\nB\t 0,200.\nC\t\nC\t 4,800.\nD\t\nD\t 6,000.\nE\t\nE\t 12,000.",
+        "ano": 2022,
+        "descricao_area": "matemática e suas tecnologias",
+        "CO_POSICAO": 150.0
+      },
+      {
+        "enunciado": "\nQUESTÃO 162\t\nEm janeiro de 2013, foram declaradas 1 794 272 \nadmissões e 1 765 372 desligamentos no Brasil, ou seja, \nforam criadas 28 900 vagas de emprego, segundo dados \ndo Cadastro Geral de Empregados e Desempregados \n(Caged), divulgados pelo Ministério do Trabalho e \nEmprego (MTE). Segundo o Caged, o número de vagas \ncriadas em janeiro de 2013 sofreu uma queda de 75%, \nquando comparado com o mesmo período de 2012.\nDisponível em: http://portal.mte.gov.br. Acesso em: 23 fev. 2013 (adaptado).\nDe acordo com as informações dadas, o número de \nvagas criadas em janeiro de 2012 foi\nA\t\nA\t 16 514.\nB\t\nB\t 86 700.\nC\t\nC\t 115 600.\nD\t\nD\t 441 343.\nE\t\nE\t 448 568.",
+        "ano": 2022,
+        "descricao_area": "matemática e suas tecnologias",
+        "CO_POSICAO": 162.0
+      },
+      {
+        "enunciado": "\nQUESTÃO 158\t\nAo analisar os dados de uma epidemia em uma cidade, peritos obtiveram um modelo que avalia a quantidade de \npessoas infectadas a cada mês, ao longo de um ano. O modelo é dado por p(t) = −t 2 + 10t + 24, sendo t um número \nnatural, variando de 1 a 12, que representa os meses do ano, e p(t) a quantidade de pessoas infectadas no mês t do \nano. Para tentar diminuir o número de infectados no próximo ano, a Secretaria Municipal de Saúde decidiu intensificar \na propaganda oficial sobre os cuidados com a epidemia. Foram apresentadas cinco propostas (I, II, III, IV e V), \ncom diferentes períodos de intensificação das propagandas:\n•\t I: 1 ≤ t ≤ 2;\n•\t II: 3 ≤ t ≤ 4;\n•\t III: 5 ≤ t ≤ 6;\n•\t IV: 7 ≤ t ≤ 9; \n•\t V: 10 ≤ t ≤ 12.\nA sugestão dos peritos é que seja escolhida a proposta cujo período de intensificação da propaganda englobe o \nmês em que, segundo o modelo, há a maior quantidade de infectados. A sugestão foi aceita.\nA proposta escolhida foi a\nA\t\nA\t I.\nB\t\nB\t II.\nC\t\nC\t III.\nD\t\nD\t IV.\nE\t\nE\t V.",
+        "ano": 2022,
+        "descricao_area": "matemática e suas tecnologias",
+        "CO_POSICAO": 158.0
+      },
+      {
+        "enunciado": "\nQUESTÃO 149\t\nEm uma universidade, atuam professores que estão \nenquadrados funcionalmente pela sua maior titulação: \nmestre ou doutor. Nela há, atualmente, 60 mestres e  \n40 doutores. Os salários mensais dos professores mestres \ne dos doutores são, respectivamente, R$ 8 000,00 e \nR$ 12 000,00.\nA diretoria da instituição pretende proporcionar um \naumento salarial diferenciado para o ano seguinte, de tal \nforma que o salário médio mensal dos professores dessa \ninstituição não ultrapasse R$ 12 240,00. A universidade já \nestabeleceu que o aumento salarial será de 25% para os \nmestres e precisa ainda definir o percentual de reajuste \npara os doutores.\nMantido o número atual de professores com suas atuais \ntitulações, o aumento salarial, em porcentagem, a ser \nconcedido aos doutores deverá ser de, no máximo,\nA\t\nA\t 14,4.\nB\t\nB\t 20,7.\nC\t\nC\t 22,0.\nD\t\nD\t 30,0.\nE\t\nE\t 37,5.",
+        "ano": 2022,
+        "descricao_area": "matemática e suas tecnologias",
+        "CO_POSICAO": 149.0
+      },
+      {
+        "enunciado": "\nQUESTÃO 174\t\nCada número que identifica uma agência bancária tem \nquatro dígitos: N1, N2, N3, N4 mais um dígito verificador N5.\nN1 N2 N3\nN4\nN5\nTodos \nesses \ndígitos \nsão \nnúmeros \nnaturais \npertencentes ao conjunto {0, 1, 2, 3, 4, 5, 6, 7, 8, 9}. \nPara a determinação de N5, primeiramente multiplica-se \nordenadamente os quatro primeiros dígitos do número \nda agência por 5, 4, 3 e 2, respectivamente, somam-se \nos resultados e obtém-se S = 5 N1 + 4 N2 + 3 N3 + 2 N4.\nPosteriormente, encontra-se o resto da divisão de  \nS por 11, denotando por R esse resto. Dessa forma, N5 é \na diferença 11 − R.\nConsidere o número de uma agência bancária cujos \nquatro primeiros dígitos são 0100.\nQual é o dígito verificador N5 dessa agência bancária?\nA\t\nA\t 0\nB\t\nB\t 6\nC\t\nC\t 7\nD\t\nD\t 8\nE\t\nE\t 9\n\n 29\nMT - 2° dia | Caderno 6 - CINZA - 1ª Aplicação\n                                                              ",
+        "ano": 2022,
+        "descricao_area": "matemática e suas tecnologias",
+        "CO_POSICAO": 174.0
+      },
+      {
+        "enunciado": "\nQUESTÃO 153\t\nEm uma loja, o preço promocional de uma geladeira \né de R$ 1 000,00 para pagamento somente em dinheiro. \nSeu preço normal, fora da promoção, é 10% maior. Para \npagamento feito com o cartão de crédito da loja, é dado \num desconto de 2% sobre o preço normal.\nUma cliente decidiu comprar essa geladeira, optando \npelo pagamento com o cartão de crédito da loja. Ela \ncalculou que o valor a ser pago seria o preço promocional \nacrescido de 8%. Ao ser informada pela loja do valor a \npagar, segundo sua opção, percebeu uma diferença entre \nseu cálculo e o valor que lhe foi apresentado.\nO valor apresentado pela loja, comparado ao valor \ncalculado pela cliente, foi\nA\t\nA\t R$ 2,00 menor.\nB\t\nB\t R$ 100,00 menor.\nC\t\nC\t R$ 200,00 menor.\nD\t\nD\t R$ 42,00 maior.\nE\t\nE\t R$ 80,00 maior.\n\n 21\nMT - 2° dia | Caderno 6 - CINZA - 1ª Aplicação\n                                                              ",
+        "ano": 2022,
+        "descricao_area": "matemática e suas tecnologias",
+        "CO_POSICAO": 153.0
+      },
+      {
+        "enunciado": "\nQUESTÃO 170\t\nUm parque tem dois circuitos de tamanhos \ndiferentes para corridas. Um corredor treina nesse \nparque e, no primeiro dia, inicia seu treino percorrendo \n3 voltas em torno do circuito maior e 2 voltas em torno \ndo menor, perfazendo um total de 1 800 m. Em seguida, \ndando continuidade a seu treino, corre mais 2 voltas \nem torno do circuito maior e 1 volta em torno do menor, \npercorrendo mais 1 100 m.\nNo segundo dia, ele pretende percorrer 5 000 m nos \ncircuitos do parque, fazendo um número inteiro de voltas \nem torno deles e de modo que o número de voltas seja o \nmaior possível.\nA soma do número de voltas em torno dos dois circuitos, \nno segundo dia, será\nA\t\nA\t 10.\nB\t\nB\t 13.\nC\t\nC\t 14.\nD\t\nD\t 15.\nE\t\nE\t 16.",
+        "ano": 2022,
+        "descricao_area": "matemática e suas tecnologias",
+        "CO_POSICAO": 170.0
+      },
+      {
+        "enunciado": "\nQUESTÃO 145\t\nPeças metálicas de aeronaves abandonadas em \naeroportos serão recicladas. Uma dessas peças é \nmaciça e tem o formato cilíndrico, com a medida do raio \nda base igual a 4 cm e a da altura igual a 50 cm. Ela será \nderretida, e o volume de metal resultante será utilizado \npara a fabricação de esferas maciças com diâmetro de \n1 cm, a serem usadas para confeccionar rolamentos. \nPara estimar a quantidade de esferas que poderão ser \nproduzidas a partir de cada uma das peças cilíndricas, \nadmite-se que não ocorre perda de material durante o \nprocesso de derretimento.\nQuantas dessas esferas poderão ser obtidas a partir de \ncada peça cilíndrica?\nA\t\nA\t 800\nB\t\nB\t 1 200\nC\t\nC\t 2 400\nD\t\nD\t 4 800\nE\t\nE\t 6 400\n\n 19\nMT - 2° dia | Caderno 6 - CINZA - 1ª Aplicação\n                                                              ",
+        "ano": 2022,
+        "descricao_area": "matemática e suas tecnologias",
+        "CO_POSICAO": 145.0
+      },
+      {
+        "enunciado": "\nQUESTÃO 147\t\nUma \nloja \ncomercializa \ncinco \nmodelos \nde  \ncaixas-d’água (I, II, III, IV e V), todos em formato  \nde cilindro reto de base circular. Os modelos II, III, IV e V  \ntêm as especificações de suas dimensões dadas em \nrelação às dimensões do modelo I, cuja profundidade é P \ne área da base é Ab, como segue:\n•\t modelo II: o dobro da profundidade e a metade da \nárea da base do modelo I;\n•\t modelo III: o dobro da profundidade e a metade do \nraio da base do modelo I;\n•\t modelo IV: a metade da profundidade e o dobro da \nárea da base do modelo I;\n•\t modelo V: a metade da profundidade e o dobro do \nraio da base do modelo I.\nUma pessoa pretende comprar nessa loja o modelo \nde caixa-d’água que ofereça a maior capacidade \nvolumétrica.\nO modelo escolhido deve ser o\nA\t\nA\t I.\nB\t\nB\t II.\nC\t\nC\t III.\nD\t\nD\t IV.\nE\t\nE\t V.",
+        "ano": 2022,
+        "descricao_area": "matemática e suas tecnologias",
+        "CO_POSICAO": 147.0
+      },
+      {
+        "enunciado": "\nQUESTÃO 175\t\nUm casal está reformando a cozinha de casa e \ndecidiu comprar um refrigerador novo. Observando a \nplanta da nova cozinha, desenhada na escala de 1 : 50, \nnotaram que o espaço destinado ao refrigerador tinha \n3,8 cm de altura e 1,6 cm de largura. Eles sabem que \nos fabricantes de refrigeradores indicam que, para um \nbom funcionamento e fácil manejo na limpeza, esses \neletrodomésticos devem ser colocados em espaços que \npermitam uma distância de, pelo menos, 10 cm de outros \nmóveis ou paredes, tanto na parte superior quanto nas \nlaterais. O casal comprou um refrigerador que caberia \nno local a ele destinado na nova cozinha, seguindo as \ninstruções do fabricante.\nEsse refrigerador tem altura e largura máximas, em \nmetro, respectivamente, iguais a\nA\t\nA\t 1,80 e 0,60.\nB\t\nB\t 1,80 e 0,70.\nC\t\nC\t 1,90 e 0,80.\nD\t\nD\t 2,00 e 0,90.\nE\t\nE\t 2,00 e 1,00.",
+        "ano": 2022,
+        "descricao_area": "matemática e suas tecnologias",
+        "CO_POSICAO": 175.0
+      },
+      {
+        "enunciado": "\nQUESTÃO 152\t\nA exposição a alguns níveis sonoros pode causar \nlesões auditivas. Por isso, em uma indústria, são adotadas \nmedidas preventivas de acordo com a máquina que o \nfuncionário opera e o nível N de intensidade do som, \nmedido em decibel (dB), a que o operário é exposto, \nsendo N = log10I 10 − log10I 10\n0 , I a intensidade do som e \nI0 = 10−12 W/m2.\nDisponível em: www.sofisica.com.br. Acesso em: 8 jul. 2015 (adaptado).\nQuando o som é considerado baixo, ou seja, \nN = 48 dB ou menos, deve ser utilizada a medida \npreventiva I. No caso de o som ser moderado, quando \nN está no intervalo (48 dB, 55 dB), deve ser utilizada a \nmedida preventiva II. Quando o som é moderado alto, \nque equivale a N no intervalo (55 dB, 80 dB), a medida \npreventiva a ser usada é a III. Se N estiver no intervalo  \n(80 dB, 115 dB), quando o som é considerado alto, deve ser \nutilizada a medida preventiva IV. E se o som é considerado \nmuito alto, com N maior que 115 dB, deve-se utilizar a \nmedida preventiva V.\nUma nova máquina, com I = 8 × 10−8 W/m2, foi adquirida \ne será classificada de acordo com o nível de ruído  \nque produz. \nConsidere 0,3 como aproximação para log102.\nO funcionário que operará a nova máquina deverá adotar \na medida preventiva\nA\t\nA\t I.\nB\t\nB\t II.\nC\t\nC\t III.\nD\t\nD\t IV.\nE\t\nE\t V.\n\n22\nMT • 2º DIA • CADERNO 7 • AZUL",
+        "ano": 2023,
+        "descricao_area": "matemática e suas tecnologias",
+        "CO_POSICAO": 152.0
+      },
+      {
+        "enunciado": "\nQUESTÃO 159\t\nUm agricultor é informado sobre um método de proteção \npara sua lavoura que consiste em inserir larvas específicas, \nde rápida reprodução. A reprodução dessas larvas faz com \nque sua população multiplique-se por 10 a cada 3 dias e, \npara evitar eventuais desequilíbrios, é possível cessar essa \nreprodução aplicando-se um produto X. O agricultor decide \niniciar esse método com 100 larvas e dispõe de 5 litros do \nproduto X, cuja aplicação recomendada é de exatamente \n1 litro para cada população de 200 000 larvas. A quantidade \ntotal do produto X de que ele dispõe deverá ser aplicada \nde uma única vez.\nQuantos dias após iniciado esse método o agricultor \ndeverá aplicar o produto X?\nA\t\nA\t 2\nB\t\nB\t 4\nC\t\nC\t 6\nD\t\nD\t 12\nE\t\nE\t 18 ",
+        "ano": 2023,
+        "descricao_area": "matemática e suas tecnologias",
+        "CO_POSICAO": 159.0
+      },
+      {
+        "enunciado": "\nQUESTÃO 171\t\nO calendário maia apresenta duas contagens \nsimultâneas de anos, o chamado ano Tzolkim, composto \npor 260 dias e que determinava o calendário religioso,  \ne o ano Haab, composto por 365 dias e que determinava o \ncalendário agrícola. Um historiador encontrou evidências \nde que gerações de uma mesma família governaram certa \ncomunidade maia pelo período de 20 ciclos, sendo cada \nciclo formado por 52 anos Haab.\nDisponível em: www.suapesquisa.com. Acesso em: 20 ago. 2014.\nDe acordo com as informações fornecidas, durante \nquantos anos Tzolkim aquela comunidade maia foi \ngovernada por tal família?\nA\t\nA\t 741\nB\t\nB\t 1 040\nC\t\nC\t 1 460\nD\t\nD\t 2 100\nE\t\nE\t 5 200",
+        "ano": 2023,
+        "descricao_area": "matemática e suas tecnologias",
+        "CO_POSICAO": 171.0
+      },
+      {
+        "enunciado": "\nQUESTÃO 161\t\nUma loja vende seus produtos de duas formas:  \nà vista ou financiado em três parcelas mensais iguais. \nPara definir o valor dessas parcelas nas vendas \nfinanciadas, a loja aumenta em 20% o valor do produto \nà vista e divide esse novo valor por 3. A primeira parcela \ndeve ser paga no ato da compra, e as duas últimas, \nem 30 e 60 dias após a compra.\nUm cliente da loja decidiu comprar, de forma financiada, \num produto cujo valor à vista é R$ 1 500,00.\nUtilize 5,29 como aproximação para \n28.\nA taxa mensal de juros compostos praticada nesse \nfinanciamento é de\nA\t\nA\t 6,7%\nB\t\nB\t 10%\nC\t\nC\t 20%\nD\t\nD\t 21,5%\nE\t\nE\t 23,3%",
+        "ano": 2023,
+        "descricao_area": "matemática e suas tecnologias",
+        "CO_POSICAO": 161.0
+      },
+      {
+        "enunciado": "\nQUESTÃO 142\t\nA água utilizada pelos 75 moradores de um vilarejo provém de um reservatório de formato cilíndrico circular reto \ncujo raio da base mede 5 metros, sempre abastecido no primeiro dia de cada mês por caminhões-pipa. Cada morador \ndesse vilarejo consome, em média, 200 litros de água por dia.\nNo mês de junho de um determinado ano, o vilarejo festejou o dia do seu padroeiro e houve um gasto extra de água \nnos primeiros 20 dias. Passado esse período, as pessoas verificaram a quantidade de água presente no reservatório \ne constataram que o nível da coluna de água estava em 1,5 metro. Decidiram, então, fazer um racionamento de água \ndurante os 10 dias seguintes. Considere 3 como aproximação para p.\nQual é a quantidade mínima de água, em litro, que cada morador, em média, deverá economizar por dia, de modo \nque o reservatório não fique sem água nos próximos 10 dias?\nA\t\nA\t 50\nB\t\nB\t 60\nC\t\nC\t 80\nD\t\nD\t 140\nE\t\nE\t 150",
+        "ano": 2023,
+        "descricao_area": "matemática e suas tecnologias",
+        "CO_POSICAO": 142.0
+      },
+      {
+        "enunciado": "\nQUESTÃO 143\t\nEm janeiro do ano passado, a direção de uma fábrica abriu uma creche para os filhos de seus funcionários, com \n10 salas, cada uma com capacidade para atender 10 crianças a cada ano. As vagas são sorteadas entre os filhos \ndos funcionários inscritos, enquanto os não contemplados pelo sorteio formam uma lista de espera. No ano passado, \na lista de espera teve 400 nomes e, neste ano, esse número cresceu 10%.\nA direção da fábrica realizou uma pesquisa e constatou que a lista de espera para o próximo ano terá a mesma \nquantidade de nomes da lista de espera deste ano. Decidiu, então, construir, ao longo desse ano, novas salas para \na creche, também com capacidade de atendimento para 10 crianças cada, de modo que o número de nomes na lista \nde espera no próximo ano seja 25% menor que o deste ano.\nO número mínimo de salas que deverão ser construídas é\nA\t\nA\t 10.\nB\t\nB\t 11.\nC\t\nC\t 13.\nD\t\nD\t 30.\nE\t\nE\t 33.\n\n19\nMT • 2º DIA • CADERNO 7 • AZUL",
+        "ano": 2023,
+        "descricao_area": "matemática e suas tecnologias",
+        "CO_POSICAO": 143.0
+      },
+      {
+        "enunciado": "\nQUESTÃO 153\t\nUm supermercado conta com cinco caixas disponíveis \npara pagamento. Foram instaladas telas que apresentam  \no tempo médio gasto por cada caixa para iniciar e finalizar o \natendimento de cada cliente, e o número de pessoas \npresentes na fila de cada caixa em tempo real. Um cliente, \nna hora de passar sua compra, sabendo que cada um \ndos cinco caixas iniciará um novo atendimento naquele \nmomento, pretende gastar o menor tempo possível de \nespera na fila. Ele observa que as telas apresentavam as \ninformações a seguir.\n•\t Caixa I: atendimento 12 minutos, 5 pessoas na fila.\n•\t Caixa II: atendimento 6 minutos, 9 pessoas na fila.\n•\t Caixa III: atendimento 5 minutos, 6 pessoas na fila.\n•\t Caixa IV: atendimento 15 minutos, 2 pessoas na fila.\n•\t Caixa V: atendimento 9 minutos, 3 pessoas na fila.\nPara alcançar seu objetivo, o cliente deverá escolher o caixa\nA\t\nA\t I.\nB\t\nB\t II.\nC\t\nC\t III.\nD\t\nD\t IV.\nE\t\nE\t V.",
+        "ano": 2023,
+        "descricao_area": "matemática e suas tecnologias",
+        "CO_POSICAO": 153.0
+      },
+      {
+        "enunciado": "\nQUESTÃO 147\t\nAlguns estudos comprovam que os carboidratos \nfornecem energia ao corpo, preservam as proteínas \nestruturais dos músculos durante a prática de atividade \nfísica e ainda dão força para o cérebro coordenar os \nmovimentos, o que de fato tem impacto positivo no \ndesenvolvimento do praticante. O ideal é consumir 1 grama \nde carboidrato para cada minuto de caminhada.\nCIRINO, C. Boa pergunta: consumir carboidratos antes dos exercícios melhora o \ndesempenho do atleta? Revista Saúde! É Vital, n. 330, nov. 2010 (adaptado).\nUm casal realizará diariamente 30 minutos de \ncaminhada, ingerindo, antes dessa atividade, a quantidade \nideal de carboidratos recomendada. Para ter o consumo ideal \napenas por meio do consumo de pão de fôrma integral, o \ncasal planeja garantir o suprimento de pães para um período \nde 30 dias ininterruptos. Sabe-se que cada pacote desse pão \nvem com 18 fatias, e que cada uma delas tem 15 gramas \nde carboidratos.\nA quantidade mínima de pacotes de pão de fôrma \nnecessários para prover o suprimento a esse casal é \nA\t\nA\t 1.\nB\t\nB\t 4.\nC\t\nC\t 6.\nD\t\nD\t 7.\nE\t\nE\t 8.",
+        "ano": 2023,
+        "descricao_area": "matemática e suas tecnologias",
+        "CO_POSICAO": 147.0
+      },
+      {
+        "enunciado": "\nQUESTÃO 138\t\nVisando atrair mais clientes, o gerente de uma loja \nanunciou uma promoção em que cada cliente que realizar \numa compra pode ganhar um voucher para ser usado \nem sua próxima compra. Para ganhar seu voucher,  \no cliente precisa retirar, ao acaso, uma bolinha de dentro \nde cada uma das duas urnas A e B disponibilizadas pelo \ngerente, nas quais há apenas bolinhas pretas e brancas. \nAtualmente, a probabilidade de se escolher, ao acaso,  \numa bolinha preta na urna A é igual a 20% e a probabilidade  \nde se escolher uma bolinha preta na urna B é 25%.  \nGanha o voucher o cliente que retirar duas bolinhas pretas, \numa de cada urna.\nCom o passar dos dias, o gerente percebeu que, para a \npromoção ser viável aos negócios, era preciso alterar \na probabilidade de acerto do cliente sem alterar a regra \nda promoção. Para isso, resolveu alterar a quantidade de \nbolinhas brancas na urna B de forma que a probabilidade \nde um cliente ganhar o voucher passasse a ser menor ou \nigual a 1%. Sabe-se que a urna B tem 4 bolinhas pretas e \nque, em ambas as urnas, todas as bolinhas têm a mesma \nprobabilidade de serem retiradas.\nQual é o número mínimo de bolinhas brancas que o \ngerente deve adicionar à urna B?\nA\t\nA\t 20\nB\t\nB\t 60\nC\t\nC\t 64\nD\t\nD\t 68\nE\t\nE\t 80\n\n17\nMT • 2º DIA • CADERNO 7 • AZUL",
+        "ano": 2023,
+        "descricao_area": "matemática e suas tecnologias",
+        "CO_POSICAO": 138.0
+      },
+      {
+        "enunciado": "\nQUESTÃO 150\t\nDirigir após ingerir bebidas alcoólicas é uma atitude \nextremamente perigosa, uma vez que, a partir da primeira \ndose, a pessoa já começa a ter perda de sensibilidade \nde movimentos e de reflexos. Apesar de a eliminação e \nabsorção do álcool depender de cada pessoa e de como \no organismo consegue metabolizar a substância, ao final \nda primeira hora após a ingestão, a concentração de álcool \n(C) no sangue corresponde a aproximadamente 90% da \nquantidade (q) de álcool ingerida, e a eliminação total \ndessa concentração pode demorar até 12 horas.\nDisponível em: http://g1.globo.com. Acesso em: 1 dez. 2018 (adaptado).\nNessas condições, ao final da primeira hora após a ingestão \nda quantidade q de álcool, a concentração C dessa \nsubstância no sangue é expressa algebricamente por\nA\t\nA\t C = 0,9q\nB\t\nB\t C = 0,1q\nC\t\nC\t C = 1 − 0,1q\nD\t\nD\t C = 1 − 0,9q\nE\t\nE\t C = q − 10",
+        "ano": 2023,
+        "descricao_area": "matemática e suas tecnologias",
+        "CO_POSICAO": 150.0
+      },
+      {
+        "enunciado": "\nQUESTÃO 162\t\nPara concretar a laje de sua residência, uma pessoa \ncontratou uma construtora. Tal empresa informa que o \npreço y do concreto bombeado é composto de duas \npartes: uma fixa, chamada de taxa de bombeamento, \ne uma variável, que depende do volume x de concreto \nutilizado. Sabe-se que a taxa de bombeamento custa \nR$ 500,00 e que o metro cúbico do concreto bombeado \né de R$ 250,00.\nA expressão que representa o preço y em função do \nvolume x, em metro cúbico, é\nA\t\nA\t y = 250x\nB\t\nB\t y = 500x\nC\t\nC\t y = 750x\nD\t\nD\t y = 250x + 500\nE\t\nE\t y = 500x + 250",
+        "ano": 2023,
+        "descricao_area": "matemática e suas tecnologias",
+        "CO_POSICAO": 162.0
+      },
+      {
+        "enunciado": "\nQUESTÃO 167\t\nA cada bimestre, a diretora de uma escola compra uma quantidade de folhas de papel ofício proporcional ao número \nde alunos matriculados. No bimestre passado, ela comprou 6 000 folhas para serem utilizadas pelos 1 200 alunos \nmatriculados. Neste bimestre, alguns alunos cancelaram suas matrículas e a escola tem, agora, 1 150 alunos. \nA diretora só pode gastar R$ 220,00 nessa compra, e sabe que o fornecedor da escola vende as folhas de papel \nofício em embalagens de 100 unidades a R$ 4,00 a embalagem. Assim, será preciso convencer o fornecedor a dar um \ndesconto à escola, de modo que seja possível comprar a quantidade total de papel ofício necessária para o bimestre.\nO desconto necessário no preço final da compra, em porcentagem, pertence ao intervalo\nA\t\nA\t (5,0 ; 5,5).\nB\t\nB\t (8,0 ; 8,5).\nC\t\nC\t (11,5 ; 12,5).\nD\t\nD\t (19,5 ; 20,5). \nE\t\nE\t (3,5 ; 4,0).\n\n27\nMT • 2º DIA • CADERNO 7 • AZUL",
+        "ano": 2023,
+        "descricao_area": "matemática e suas tecnologias",
+        "CO_POSICAO": 167.0
+      },
+      {
+        "enunciado": "\nQUESTÃO 158\t\nUm pescador tem um custo fixo diário de R$ 900,00 \ncom combustível, iscas, manutenção de seu barco e outras \npequenas despesas. Ele vende cada quilograma de peixe por \nR$ 5,00. Sua meta é obter um lucro mínimo de R$ 800,00  \npor dia. Sozinho, ele consegue, ao final de um dia de trabalho, \npescar 180 kg de peixe, o que é suficiente apenas para cobrir o \ncusto fixo diário. Portanto, precisa contratar ajudantes, pagando \npara cada um R$ 250,00 por dia de trabalho. Além desse valor, \n4% da receita obtida pela venda de peixe é repartida igualmente \nentre os ajudantes. Considerando o tamanho de seu barco, ele \npode contratar até 5 ajudantes. Ele sabe que com um ajudante \na pesca diária é de 300 kg e que, a partir do segundo  \najudante contratado, aumenta-se em 100 kg a quantidade de \npeixe pescada por ajudante em um dia de trabalho.\nA quantidade mínima de ajudantes que esse pescador \nprecisa contratar para conseguir o lucro diário pretendido é\nA\t\nA\t 1.\nB\t\nB\t 2.\nC\t\nC\t 3.\nD\t\nD\t 4.\nE\t\nE\t 5.",
+        "ano": 2023,
+        "descricao_area": "matemática e suas tecnologias",
+        "CO_POSICAO": 158.0
+      },
+      {
+        "enunciado": "\nQUESTÃO 160\t\nAo realizar o cadastro em um aplicativo de investimentos, \nfoi solicitado ao usuário que criasse uma senha, sendo \npermitido o uso somente dos seguintes caracteres:\n•\t algarismos de 0 a 9;\n•\t 26 letras minúsculas do alfabeto;\n•\t 26 letras maiúsculas do alfabeto;\n•\t 6 caracteres especiais !, @, #, $, , &.\nTrês tipos de estruturas para senha foram apresentadas \nao usuário:\n•\t tipo I: formada por quaisquer quatro caracteres \ndistintos, escolhidos dentre os permitidos;\n•\t tipo II: formada por cinco caracteres distintos, \niniciando por três letras, seguidas por um algarismo \ne, ao final, um caractere especial;\n•\t tipo III: formada por seis caracteres distintos, iniciando \npor duas letras, seguidas por dois algarismos e, ao \nfinal, dois caracteres especiais.\nConsidere p1, p2 e p3 as probabilidades de se \ndescobrirem ao acaso, na primeira tentativa, as senhas \ndos tipos I, II e III, respectivamente.\nNessas condições, o tipo de senha que apresenta a \nmenor probabilidade de ser descoberta ao acaso, na \nprimeira tentativa, é o\nA\t\nA\t tipo I, pois p1 < p2 < p3.\nB\t\nB\t tipo I, pois tem menor quantidade de caracteres.\nC\t\nC\t tipo II, pois tem maior quantidade de letras.\nD\t\nD\t tipo III, pois p3 < p2 < p1.\nE\t\nE\t tipo III, pois tem maior quantidade de caracteres.\n\n24\nMT • 2º DIA • CADERNO 7 • AZUL",
+        "ano": 2023,
+        "descricao_area": "matemática e suas tecnologias",
+        "CO_POSICAO": 160.0
+      },
+      {
+        "enunciado": "\nQUESTÃO 180\t\nUm tipo de semente necessita de bastante água nos \ndois primeiros meses após o plantio. Um produtor pretende \nestabelecer o melhor momento para o plantio desse tipo de \nsemente, nos meses de outubro a março. Após consultar \na previsão do índice mensal de precipitação de chuva \n(ImPC) da região onde ocorrerá o plantio, para o período \nchuvoso de 2020 - 2021, ele obteve os seguintes dados:\n•\t outubro/2020: ImPC = 250 mm;\n•\t novembro/2020: ImPC = 150 mm;\n•\t dezembro/2020: ImPC = 200 mm;\n•\t janeiro/2021: ImPC = 450 mm;\n•\t fevereiro/2021: ImPC = 100 mm;\n•\t março/2021: ImPC = 200 mm.\nCom base nessas previsões, ele precisa escolher \ndois meses consecutivos em que a média mensal de \nprecipitação seja a maior possível.\nNo início de qual desses meses o produtor deverá plantar \nesse tipo de semente?\nA\t\nA\t Outubro.\nB\t\nB\t Novembro.\nC\t\nC\t Dezembro.\nD\t\nD\t Janeiro.\nE\t\nE\t Fevereiro.\n",
+        "ano": 2023,
+        "descricao_area": "matemática e suas tecnologias",
+        "CO_POSICAO": 180.0
+      },
+      {
+        "enunciado": "\nQUESTÃO 175\t\nO metrô de um município oferece dois tipos de tíquetes com colorações diferentes, azul e vermelha, sendo vendidos \nem cartelas, cada qual com nove tíquetes da mesma cor e mesmo valor unitário. Duas cartelas de tíquetes azuis e \numa cartela de tíquetes vermelhos são vendidas por R$ 32,40. Sabe-se que o preço de um tíquete azul menos o preço \nde um tíquete vermelho é igual ao preço de um tíquete vermelho mais cinco centavos.\nQual o preço, em real, de uma cartela de tíquetes vermelhos?\nA\t\nA\t 4,68\nB\t\nB\t 6,30\nC\t\nC\t 9,30\nD\t\nD\t 10,50\nE\t\nE\t 10,65 \n\n30\nMT • 2º DIA • CADERNO 7 • AZUL",
+        "ano": 2023,
+        "descricao_area": "matemática e suas tecnologias",
+        "CO_POSICAO": 175.0
+      },
+      {
+        "enunciado": "\nQUESTÃO 143\t\nUma casa de shows terá um evento cujo custo total \nde produção é de R$ 34 350,00, sendo que comporta \n500 pessoas. O preço do ingresso será de R$ 130,00 e, \nnormalmente, 60% das pessoas adquirem meia-entrada, \npagando R$ 65,00 pelo ingresso. Além do faturamento \nproveniente da venda de ingressos, a casa de shows \nvende, com 60% de lucro, bebidas e petiscos ao público \nno dia do evento.\nApós ter vendido todos os 500 ingressos, constatou-se \nque a quantidade de meias-entradas vendidas superou \nem 50% o que estava previsto, impactando o faturamento \nestimado com a venda de ingressos.\nNo dia do evento, decidiu-se manter o percentual \nde 60% de lucro sobre as bebidas e petiscos, pois todo \no público que comprou ingresso compareceu ao \nshow. Com isso, espera-se ter lucro de R$ 17 000,00 \nnesse evento.\nPara que se alcance o lucro esperado, o gasto médio por \npessoa com bebidas e petiscos, em real, deverá ser de\nA\t19,50.\nB\t28,80.\nC\t34,00.\nD\t52,00.\nE\t68,70.",
+        "ano": 2024,
+        "descricao_area": "matemática e suas tecnologias",
+        "CO_POSICAO": 143.0
+      },
+      {
+        "enunciado": "\nQUESTÃO 151\t\nO arquiteto Renzo Piano exibiu a maquete da nova \nsede do Museu Whitney de Arte Americana, um prédio \nassimétrico que tem um vão aberto para a galeria principal, \ncuja medida da área é 1 672 m2.\nConsidere que a escala da maquete exibida é 1 : 200.\nÉpoca, n. 682, jun. 2011 (adaptado).\nA medida da área do vão aberto nessa maquete, em \ncentímetro quadrado, é\nA\t4,18.\nB\t8,36.\nC\t41,80.\nD\t83,60.\nE\t418,00.",
+        "ano": 2024,
+        "descricao_area": "matemática e suas tecnologias",
+        "CO_POSICAO": 151.0
+      },
+      {
+        "enunciado": "\nQUESTÃO 146\t\nUm fazendeiro pretende construir um galinheiro \nocupando uma região plana de formato retangular, com \nlados de comprimentos L metro e C metro. Os lados serão \ncercados por telas de tipos diferentes. Nos lados de \ncomprimento L metro, será utilizada uma tela cujo metro \nlinear custa R$ 20,00, enquanto, nos outros dois lados, \numa que custa R$ 15,00. O fazendeiro quer gastar, no \nmáximo, R$ 6 000,00 na compra de toda a tela necessária \npara o galinheiro, e deseja que o galinheiro tenha a maior \nárea possível.\nQual será a medida, em metro, do maior lado do galinheiro?\nA\t85\nB\t100\nC\t175\nD\t200\nE\t350",
+        "ano": 2024,
+        "descricao_area": "matemática e suas tecnologias",
+        "CO_POSICAO": 146.0
+      },
+      {
+        "enunciado": "\nQUESTÃO 137\t\nAo calcular a média de suas notas em 4 provas, um \nestudante dividiu, por engano, a soma das notas por 5. \nCom isso, a média obtida foi 1 unidade menor do que \ndeveria ser, caso fosse calculada corretamente.\nO valor correto da média das notas desse estudante é\nA\t4.\nB\t5.\nC\t6.\nD\t19.\nE\t21.",
+        "ano": 2024,
+        "descricao_area": "matemática e suas tecnologias",
+        "CO_POSICAO": 137.0
+      },
+      {
+        "enunciado": "\nQUESTÃO 138\t\nPara abrir a porta de uma empresa, cada funcionário \ndeve cadastrar uma senha utilizando um teclado \nalfanumérico como o representado na figura.\nPor exemplo: a tecla que contém o número 2 traz as \nletras correlacionadas A, B e C. Cada toque nessa tecla \nmostra, sequencialmente, os seguintes caracteres: 2, A, B \ne C. Para os próximos toques, essa sequência se repete. \nAs demais teclas funcionam da mesma maneira.\nAs senhas a serem cadastradas pelos funcionários \ndevem conter 5 caracteres, sendo 2 algarismos distintos \nseguidos de 3 letras diferentes, nessa ordem. Um funcionário \nirá cadastrar a sua primeira senha, podendo escolher entre \nas teclas que apresentam os números 1, 2, 5, 7 e 0 e as \nrespectivas letras correlacionadas, quando houver.\nO número de possibilidades diferentes que esse \nfuncionário tem para cadastrar sua senha é\nA\t11 520.\nB\t14 400.\nC\t18 000.\nD\t312 000.\nE\t390 000.\n\nENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM20E4ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024\nENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM20E4ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024\nENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024\n16\nMATEMÁTICA E SUAS TECNOLOGIAS • 2º DIA • CADERNO 7 • AZUL •",
+        "ano": 2024,
+        "descricao_area": "matemática e suas tecnologias",
+        "CO_POSICAO": 138.0
+      },
+      {
+        "enunciado": "\nQUESTÃO 179\t\nUma empresa de engenharia foi contratada para \nrealizar um serviço no valor de R$ 71 250,00. Os sócios da \nempresa decidiram que 40% desse valor seria destinado ao \npagamento de três engenheiros que gerenciaram o serviço. \nO pagamento para cada um deles será feito de forma \ndiretamente proporcional ao total de horas trabalhadas. \nO número de dias e o número de horas diárias \ntrabalhadas pelos engenheiros foram, respectivamente:\n•\t engenheiro I: 4 dias, numa jornada de 5 horas e \nmeia por dia;\n•\t engenheiro II: 5 dias, numa jornada de 4 horas por dia;\n•\t engenheiro III: 6 dias, numa jornada de 2 horas e \nmeia por dia.\nQual a maior diferença, em real, entre os valores recebidos \npor esse serviço entre dois desses engenheiros?\nA\t1 000\nB\t1 500\nC\t3 500\nD\t3 800\nE\t5 250",
+        "ano": 2024,
+        "descricao_area": "matemática e suas tecnologias",
+        "CO_POSICAO": 179.0
+      },
+      {
+        "enunciado": "\nQUESTÃO 136\t\nO tamanho mínimo que a visão humana é capaz de \nvisualizar sem o uso de equipamento auxiliar é equivalente \na 100 micrômetros (1 micrômetro = 10-3 milímetros).  \nUma estudante pretende visualizar e analisar hemácias \ndo sangue humano, que medem 0,007 mm de diâmetro. \nEla adquiriu um microscópio óptico que tem uma lente \nocular que amplia em 10 vezes a imagem do objeto em \nobservação, e um conjunto de lentes objetivas com estas \ncapacidades de ampliação:\n•\t lente I: 2 vezes;\n•\t lente II: 10 vezes;\n•\t lente III: 15 vezes;\n•\t lente IV: 1,1 vez;\n•\t lente V: 1,4 vez.\nO funcionamento desse microscópio permite o uso da \nlente ocular sozinha ou a combinação dela com uma  \nde suas lentes objetivas, proporcionando, nesse caso, \num aumento de sua capacidade de ampliação final, que é \ndada pelo produto entre as capacidades de ampliação da \nocular e da objetiva.\nEssa estudante pretende selecionar a lente objetiva de \nmenor capacidade de ampliação que permita, na combinação \ncom a ocular, visualizar hemácias do sangue humano.\nA lente objetiva a ser selecionada pela estudante é a\nA\tI.\nB\tII.\nC\tIII.\nD\tIV.\nE\tV.",
+        "ano": 2024,
+        "descricao_area": "matemática e suas tecnologias",
+        "CO_POSICAO": 136.0
+      },
+      {
+        "enunciado": "\nQUESTÃO 140\t\nJoão e Felipe participaram, na escola, de uma maratona \nde matemática na qual, durante uma semana, resolveram \n200 questões cada. Nessa maratona, a porcentagem P de \nacertos de cada participante é convertida em um conceito:\n•\t insatisfatório: se 0 ≤ P < 50;\n•\t regular: se 50 ≤ P < 60;\n•\t bom: se 60 ≤ P < 75;\n•\t muito bom: se 75 ≤ P < 90;\n•\t excelente: se 90 ≤ P ≤ 100.\nJoão acertou 75% das questões da maratona e Felipe \nacertou 30% a menos que a quantidade de questões que \nJoão acertou.\nOs conceitos de João e Felipe foram, respectivamente,\nA\tmuito bom e bom.\nB\tmuito bom e regular.\nC\tmuito bom e insatisfatório.\nD\tbom e regular.\nE\tbom e insatisfatório.",
+        "ano": 2024,
+        "descricao_area": "matemática e suas tecnologias",
+        "CO_POSICAO": 140.0
+      },
+      {
+        "enunciado": "\nQUESTÃO 162\t\nUma imobiliária iniciou uma campanha de divulgação \npara promover a venda de apartamentos que podem ser \npagos em 100 parcelas mensais. O valor da primeira delas \né fixado no momento da compra, com o pagamento dessa \nprimeira parcela. A partir da segunda parcela, o valor é \ndeterminado pela aplicação de um acréscimo percentual \nfixo ao valor da parcela anterior. Como atrativo, a imobiliária \nfará o pagamento de todas as parcelas correspondentes \nao mês de aniversário do comprador.\nUm cliente, que faz aniversário no mês de maio, \ndecidiu comprar um desses apartamentos por meio do \nfinanciamento oferecido pela imobiliária, e pretende escolher \no mês mais adequado para realizar essa compra, de modo \nque o valor total dos pagamentos seja o menor possível.\nQual é o mês que esse cliente deverá escolher para \nrealizar a compra do apartamento?\nA\tFevereiro.\nB\tAbril.\nC\tMaio.\nD\tJunho.\nE\tAgosto.",
+        "ano": 2024,
+        "descricao_area": "matemática e suas tecnologias",
+        "CO_POSICAO": 162.0
+      },
+      {
+        "enunciado": "\nQUESTÃO 160\t\nUma piscina tem capacidade de 2 500 000 litros. \nSeu sistema de abastecimento foi regulado para ter \numa vazão constante de 6 000 litros de água por minuto.\nO mesmo sistema foi instalado em uma segunda \npiscina, com capacidade de 2 750 000 litros, e regulado \npara ter uma vazão, também constante, capaz de enchê-la \nem um tempo 20% maior que o gasto para encher  \na primeira piscina.\nA vazão do sistema de abastecimento da segunda piscina, \nem litro por minuto, é\nA\t8 250.\nB\t7 920.\nC\t6 545.\nD\t5 500.\nE\t5 280.\n\nENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM20E4ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024\nENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM20E4ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024\nENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024\n22\nMATEMÁTICA E SUAS TECNOLOGIAS • 2º DIA • CADERNO 7 • AZUL •",
+        "ano": 2024,
+        "descricao_area": "matemática e suas tecnologias",
+        "CO_POSICAO": 160.0
+      },
+      {
+        "enunciado": "\nQUESTÃO 157\t\nUma doceira vende e entrega, em seu bairro, porções \nde 100 g de docinhos de aniversário. Atualmente, a taxa \núnica de entrega é R$ 10,00, e o valor cobrado por uma \nporção é R$ 25,00. Por uma estratégia de vendas, a partir \nda próxima semana, a taxa única de entrega será R$ 15,00, \ne um novo valor será cobrado por uma porção, de maneira \nque o valor total a ser pago por um cliente na compra de \n5 porções permaneça o mesmo.\nA partir da próxima semana, qual será o novo valor \ncobrado, em real, por uma porção?\nA\t12,50\nB\t20,00\nC\t24,00\nD\t30,00\nE\t37,50",
+        "ano": 2024,
+        "descricao_area": "matemática e suas tecnologias",
+        "CO_POSICAO": 157.0
+      },
+      {
+        "enunciado": "\nQUESTÃO 165\t\nPara melhorar o fluxo de ônibus em uma avenida que \ntem dois semáforos, a prefeitura reduzirá o tempo em \nque cada sinal ficará vermelho, que atualmente é de 15 \nsegundos a cada 60 segundos. Admita que o instante de \nchegada de um ônibus a cada semáforo é aleatório.\nO engenheiro de tráfego da prefeitura calculou a \nprobabilidade de um ônibus encontrar cada um deles \nvermelho, obtendo 15\n60\n. A partir daí, estabeleceu uma \nmesma redução na quantidade do tempo, em segundo, \nem que cada sinal ficará vermelho, de maneira que \na probabilidade de um ônibus encontrar ambos os \nsinais vermelhos numa mesma viagem seja igual a \n4\n100 , \nconsiderando os eventos independentes.\nPara isso, a redução do tempo em que o sinal ficará \nvermelho, em segundo, estabelecida pelo engenheiro foi de\nA\t1,35.\nB\t3,00.\nC\t9,00.\nD\t12,60.\nE\t13,80.",
+        "ano": 2024,
+        "descricao_area": "matemática e suas tecnologias",
+        "CO_POSICAO": 165.0
+      },
+      {
+        "enunciado": "\nQUESTÃO 156\t\nO uso de aplicativos de transporte tem sido uma \nalternativa à população que busca preços mais competitivos \npara se locomover, principalmente nas grandes cidades. \nAs formas usadas para determinar o valor cobrado por \ncada viagem variam de um aplicativo para outro, mas, em \ngeral, o valor V a ser pago, em real, varia em função de:\n•\t tarifa base F: valor fixo, em real, cobrado no início \nda viagem;\n•\t tempo T: tempo, em minuto, de duração da viagem;\n•\t distância D: distância percorrida, em quilômetro.\nUm desses aplicativos cobra R$ 2,00 de valor fixo, \nacrescido de R$ 0,26 por minuto de viagem e de R$ 1,40 \npor quilômetro rodado.\nNessas condições, a expressão que fornece o valor V a \nser pago por uma viagem desse aplicativo é\nA\t2,00F + 0,26T + 1,40D\nB\t2,00 + 0,26T + 1,40D\nC\t2,00 + 0,26T + D\nD\t0,26T + 1,40D\nE\tF + T + D\n\nENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM20E4ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024\nENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM20E4ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024\nENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024\n21\n• MATEMÁTICA E SUAS TECNOLOGIAS • 2º DIA • CADERNO 7 • AZUL",
+        "ano": 2024,
+        "descricao_area": "matemática e suas tecnologias",
+        "CO_POSICAO": 156.0
+      },
+      {
+        "enunciado": "\nQUESTÃO 153\t\nUm instituto de pesquisa constatou que, nos últimos \ndez anos, o crescimento populacional de uma cidade foi \nde 135,25%.\nQual é a representação decimal da taxa percentual desse \ncrescimento populacional?\nA\t13 525,0\nB\t135,25\nC\t13,525\nD\t1,3525\nE\t0,13525\n\nENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM20E4ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024\nENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM20E4ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024\nENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024\n20\nMATEMÁTICA E SUAS TECNOLOGIAS • 2º DIA • CADERNO 7 • AZUL •",
+        "ano": 2024,
+        "descricao_area": "matemática e suas tecnologias",
+        "CO_POSICAO": 153.0
+      },
+      {
+        "enunciado": "\nQUESTÃO 145\t\nO estádio do Maracanã passou por algumas \nmodificações estruturais para a realização da Copa do \nMundo de 2014, como, por exemplo, as dimensões do \ncampo retangular. Para se adaptar aos padrões da Fifa, \nas dimensões do campo foram reduzidas de 110 m × 75 m \npara 105 m × 68 m.\nDisponível em: http://virgula.uol.com.br. \nAcesso em: 14 ago. 2013 (adaptado).\nEm quantos metros quadrados a área do campo do \nMaracanã foi reduzida?\nA\t24\nB\t35\nC\t555\nD\t1 110\nE\t1 145\n\nENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM20E4ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024\nENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM20E4ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024\nENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024\n18\nMATEMÁTICA E SUAS TECNOLOGIAS • 2º DIA • CADERNO 7 • AZUL •",
+        "ano": 2024,
+        "descricao_area": "matemática e suas tecnologias",
+        "CO_POSICAO": 145.0
+      }
+    ],
+    "resp": [
+      {
+        "ano": 2022,
+        "tag_model": "gpt_oss_120b",
+        "CO_POSICAO": 171.0,
+        "descricao_area": "matemática e suas tecnologias",
+        "resposta": "E"
+      },
+      {
+        "ano": 2022,
+        "tag_model": "gpt_oss_120b",
+        "CO_POSICAO": 172.0,
+        "descricao_area": "matemática e suas tecnologias",
+        "resposta": "B"
+      },
+      {
+        "ano": 2022,
+        "tag_model": "gpt_oss_120b",
+        "CO_POSICAO": 143.0,
+        "descricao_area": "matemática e suas tecnologias",
+        "resposta": "B"
+      },
+      {
+        "ano": 2022,
+        "tag_model": "gpt_oss_120b",
+        "CO_POSICAO": 169.0,
+        "descricao_area": "matemática e suas tecnologias",
+        "resposta": "D"
+      },
+      {
+        "ano": 2022,
+        "tag_model": "gpt_oss_120b",
+        "CO_POSICAO": 151.0,
+        "descricao_area": "matemática e suas tecnologias",
+        "resposta": "D"
+      },
+      {
+        "ano": 2022,
+        "tag_model": "gpt_oss_120b",
+        "CO_POSICAO": 176.0,
+        "descricao_area": "matemática e suas tecnologias",
+        "resposta": "B"
+      },
+      {
+        "ano": 2022,
+        "tag_model": "gpt_oss_120b",
+        "CO_POSICAO": 141.0,
+        "descricao_area": "matemática e suas tecnologias",
+        "resposta": "E"
+      },
+      {
+        "ano": 2022,
+        "tag_model": "gpt_oss_120b",
+        "CO_POSICAO": 164.0,
+        "descricao_area": "matemática e suas tecnologias",
+        "resposta": "C"
+      },
+      {
+        "ano": 2022,
+        "tag_model": "gpt_oss_120b",
+        "CO_POSICAO": 138.0,
+        "descricao_area": "matemática e suas tecnologias",
+        "resposta": "E"
+      },
+      {
+        "ano": 2022,
+        "tag_model": "gpt_oss_120b",
+        "CO_POSICAO": 150.0,
+        "descricao_area": "matemática e suas tecnologias",
+        "resposta": "B"
+      },
+      {
+        "ano": 2022,
+        "tag_model": "gpt_oss_120b",
+        "CO_POSICAO": 162.0,
+        "descricao_area": "matemática e suas tecnologias",
+        "resposta": "C"
+      },
+      {
+        "ano": 2022,
+        "tag_model": "gpt_oss_120b",
+        "CO_POSICAO": 158.0,
+        "descricao_area": "matemática e suas tecnologias",
+        "resposta": "C"
+      },
+      {
+        "ano": 2022,
+        "tag_model": "gpt_oss_120b",
+        "CO_POSICAO": 149.0,
+        "descricao_area": "matemática e suas tecnologias",
+        "resposta": "D"
+      },
+      {
+        "ano": 2022,
+        "tag_model": "gpt_oss_120b",
+        "CO_POSICAO": 174.0,
+        "descricao_area": "matemática e suas tecnologias",
+        "resposta": "C"
+      },
+      {
+        "ano": 2022,
+        "tag_model": "gpt_oss_120b",
+        "CO_POSICAO": 153.0,
+        "descricao_area": "matemática e suas tecnologias",
+        "resposta": "A"
+      },
+      {
+        "ano": 2022,
+        "tag_model": "gpt_oss_120b",
+        "CO_POSICAO": 170.0,
+        "descricao_area": "matemática e suas tecnologias",
+        "resposta": "E"
+      },
+      {
+        "ano": 2022,
+        "tag_model": "gpt_oss_120b",
+        "CO_POSICAO": 145.0,
+        "descricao_area": "matemática e suas tecnologias",
+        "resposta": "D"
+      },
+      {
+        "ano": 2022,
+        "tag_model": "gpt_oss_120b",
+        "CO_POSICAO": 147.0,
+        "descricao_area": "matemática e suas tecnologias",
+        "resposta": "E"
+      },
+      {
+        "ano": 2022,
+        "tag_model": "gpt_oss_120b",
+        "CO_POSICAO": 175.0,
+        "descricao_area": "matemática e suas tecnologias",
+        "resposta": "A"
+      },
+      {
+        "ano": 2023,
+        "tag_model": "gpt_oss_120b",
+        "CO_POSICAO": 152.0,
+        "descricao_area": "matemática e suas tecnologias",
+        "resposta": "A"
+      },
+      {
+        "ano": 2023,
+        "tag_model": "gpt_oss_120b",
+        "CO_POSICAO": 159.0,
+        "descricao_area": "matemática e suas tecnologias",
+        "resposta": "D"
+      },
+      {
+        "ano": 2023,
+        "tag_model": "gpt_oss_120b",
+        "CO_POSICAO": 171.0,
+        "descricao_area": "matemática e suas tecnologias",
+        "resposta": "C"
+      },
+      {
+        "ano": 2023,
+        "tag_model": "gpt_oss_120b",
+        "CO_POSICAO": 161.0,
+        "descricao_area": "matemática e suas tecnologias",
+        "resposta": "D"
+      },
+      {
+        "ano": 2023,
+        "tag_model": "gpt_oss_120b",
+        "CO_POSICAO": 142.0,
+        "descricao_area": "matemática e suas tecnologias",
+        "resposta": "A"
+      },
+      {
+        "ano": 2023,
+        "tag_model": "gpt_oss_120b",
+        "CO_POSICAO": 143.0,
+        "descricao_area": "matemática e suas tecnologias",
+        "resposta": "B"
+      },
+      {
+        "ano": 2023,
+        "tag_model": "gpt_oss_120b",
+        "CO_POSICAO": 153.0,
+        "descricao_area": "matemática e suas tecnologias",
+        "resposta": "E"
+      },
+      {
+        "ano": 2023,
+        "tag_model": "gpt_oss_120b",
+        "CO_POSICAO": 147.0,
+        "descricao_area": "matemática e suas tecnologias",
+        "resposta": "D"
+      },
+      {
+        "ano": 2023,
+        "tag_model": "gpt_oss_120b",
+        "CO_POSICAO": 138.0,
+        "descricao_area": "matemática e suas tecnologias",
+        "resposta": "C"
+      },
+      {
+        "ano": 2023,
+        "tag_model": "gpt_oss_120b",
+        "CO_POSICAO": 150.0,
+        "descricao_area": "matemática e suas tecnologias",
+        "resposta": "A"
+      },
+      {
+        "ano": 2023,
+        "tag_model": "gpt_oss_120b",
+        "CO_POSICAO": 162.0,
+        "descricao_area": "matemática e suas tecnologias",
+        "resposta": "D"
+      },
+      {
+        "ano": 2023,
+        "tag_model": "gpt_oss_120b",
+        "CO_POSICAO": 167.0,
+        "descricao_area": "matemática e suas tecnologias",
+        "resposta": "A"
+      },
+      {
+        "ano": 2023,
+        "tag_model": "gpt_oss_120b",
+        "CO_POSICAO": 158.0,
+        "descricao_area": "matemática e suas tecnologias",
+        "resposta": "D"
+      },
+      {
+        "ano": 2023,
+        "tag_model": "gpt_oss_120b",
+        "CO_POSICAO": 160.0,
+        "descricao_area": "matemática e suas tecnologias",
+        "resposta": "A"
+      },
+      {
+        "ano": 2023,
+        "tag_model": "gpt_oss_120b",
+        "CO_POSICAO": 180.0,
+        "descricao_area": "matemática e suas tecnologias",
+        "resposta": "C"
+      },
+      {
+        "ano": 2023,
+        "tag_model": "gpt_oss_120b",
+        "CO_POSICAO": 175.0,
+        "descricao_area": "matemática e suas tecnologias",
+        "resposta": "B"
+      },
+      {
+        "ano": 2024,
+        "tag_model": "gpt_oss_120b",
+        "CO_POSICAO": 143.0,
+        "descricao_area": "matemática e suas tecnologias",
+        "resposta": "A"
+      },
+      {
+        "ano": 2024,
+        "tag_model": "gpt_oss_120b",
+        "CO_POSICAO": 151.0,
+        "descricao_area": "matemática e suas tecnologias",
+        "resposta": "E"
+      },
+      {
+        "ano": 2024,
+        "tag_model": "gpt_oss_120b",
+        "CO_POSICAO": 146.0,
+        "descricao_area": "matemática e suas tecnologias",
+        "resposta": "B"
+      },
+      {
+        "ano": 2024,
+        "tag_model": "gpt_oss_120b",
+        "CO_POSICAO": 137.0,
+        "descricao_area": "matemática e suas tecnologias",
+        "resposta": "B"
+      },
+      {
+        "ano": 2024,
+        "tag_model": "gpt_oss_120b",
+        "CO_POSICAO": 138.0,
+        "descricao_area": "matemática e suas tecnologias",
+        "resposta": "B"
+      },
+      {
+        "ano": 2024,
+        "tag_model": "gpt_oss_120b",
+        "CO_POSICAO": 179.0,
+        "descricao_area": "matemática e suas tecnologias",
+        "resposta": "C"
+      },
+      {
+        "ano": 2024,
+        "tag_model": "gpt_oss_120b",
+        "CO_POSICAO": 136.0,
+        "descricao_area": "matemática e suas tecnologias",
+        "resposta": "A"
+      },
+      {
+        "ano": 2024,
+        "tag_model": "gpt_oss_120b",
+        "CO_POSICAO": 140.0,
+        "descricao_area": "matemática e suas tecnologias",
+        "resposta": "B"
+      },
+      {
+        "ano": 2024,
+        "tag_model": "gpt_oss_120b",
+        "CO_POSICAO": 162.0,
+        "descricao_area": "matemática e suas tecnologias",
+        "resposta": "D"
+      },
+      {
+        "ano": 2024,
+        "tag_model": "gpt_oss_120b",
+        "CO_POSICAO": 160.0,
+        "descricao_area": "matemática e suas tecnologias",
+        "resposta": "D"
+      },
+      {
+        "ano": 2024,
+        "tag_model": "gpt_oss_120b",
+        "CO_POSICAO": 157.0,
+        "descricao_area": "matemática e suas tecnologias",
+        "resposta": "C"
+      },
+      {
+        "ano": 2024,
+        "tag_model": "gpt_oss_120b",
+        "CO_POSICAO": 165.0,
+        "descricao_area": "matemática e suas tecnologias",
+        "resposta": "B"
+      },
+      {
+        "ano": 2024,
+        "tag_model": "gpt_oss_120b",
+        "CO_POSICAO": 156.0,
+        "descricao_area": "matemática e suas tecnologias",
+        "resposta": "B"
+      },
+      {
+        "ano": 2024,
+        "tag_model": "gpt_oss_120b",
+        "CO_POSICAO": 153.0,
+        "descricao_area": "matemática e suas tecnologias",
+        "resposta": "D"
+      },
+      {
+        "ano": 2024,
+        "tag_model": "gpt_oss_120b",
+        "CO_POSICAO": 145.0,
+        "descricao_area": "matemática e suas tecnologias",
+        "resposta": "D"
+      }
+    ],
+    "area_conhecimento": "MT"
+  }
+]

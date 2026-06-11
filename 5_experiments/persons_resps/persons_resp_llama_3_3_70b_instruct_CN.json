@@ -1,7 +1,7 @@
 [
   {
     "id_person": 1,
-    "tag_model_person": "gpt_oss_120b",
+    "tag_model_person": "llama_3_3_70b_instruct",
     "questions": [
       {
         "enunciado": "\nQUESTÃO 113\t\nAs células da epiderme da folha da Tradescantia \npallida purpurea, uma herbácea popularmente conhecida \ncomo trapoeraba-roxa, contém um vacúolo onde se \nencontra um pigmento que dá a coloração arroxeada a \nesse tecido. Em um experimento, um corte da epiderme \nde uma folha da trapoeraba-roxa foi imerso em ambiente \nhipotônico e, logo em seguida, foi colocado em uma \nlâmina e observado em microscópio óptico.\nDurante a observação desse corte, foi possível identificar o(a)\nA\t\nA\t acúmulo do solvente com fragmentação da organela.\nB\t\nB\t rompimento da membrana celular com liberação do \ncitosol.\nC\t\nC\t aumento do vacúolo com diluição do pigmento no seu \ninterior.\nD\t\nD\t quebra da parede celular com extravasamento do \npigmento.\nE\t\nE\t murchamento da célula com expulsão do pigmento \ndo vacúolo.",
@@ -421,483 +421,483 @@
     "resp": [
       {
         "ano": 2022,
-        "tag_model": "gpt_oss_120b",
+        "tag_model": "llama_3_3_70b_instruct",
         "CO_POSICAO": 113.0,
         "descricao_area": "ciências da natureza e suas tecnologias",
         "resposta": "C"
       },
       {
         "ano": 2022,
-        "tag_model": "gpt_oss_120b",
+        "tag_model": "llama_3_3_70b_instruct",
         "CO_POSICAO": 120.0,
         "descricao_area": "ciências da natureza e suas tecnologias",
         "resposta": "E"
       },
       {
         "ano": 2022,
-        "tag_model": "gpt_oss_120b",
+        "tag_model": "llama_3_3_70b_instruct",
         "CO_POSICAO": 100.0,
         "descricao_area": "ciências da natureza e suas tecnologias",
         "resposta": "C"
       },
       {
         "ano": 2022,
-        "tag_model": "gpt_oss_120b",
+        "tag_model": "llama_3_3_70b_instruct",
         "CO_POSICAO": 105.0,
         "descricao_area": "ciências da natureza e suas tecnologias",
-        "resposta": "A"
+        "resposta": "B"
       },
       {
         "ano": 2022,
-        "tag_model": "gpt_oss_120b",
+        "tag_model": "llama_3_3_70b_instruct",
         "CO_POSICAO": 116.0,
         "descricao_area": "ciências da natureza e suas tecnologias",
         "resposta": "D"
       },
       {
         "ano": 2022,
-        "tag_model": "gpt_oss_120b",
+        "tag_model": "llama_3_3_70b_instruct",
         "CO_POSICAO": 129.0,
         "descricao_area": "ciências da natureza e suas tecnologias",
         "resposta": "B"
       },
       {
         "ano": 2022,
-        "tag_model": "gpt_oss_120b",
+        "tag_model": "llama_3_3_70b_instruct",
         "CO_POSICAO": 111.0,
         "descricao_area": "ciências da natureza e suas tecnologias",
         "resposta": "B"
       },
       {
         "ano": 2022,
-        "tag_model": "gpt_oss_120b",
+        "tag_model": "llama_3_3_70b_instruct",
         "CO_POSICAO": 124.0,
         "descricao_area": "ciências da natureza e suas tecnologias",
         "resposta": "A"
       },
       {
         "ano": 2022,
-        "tag_model": "gpt_oss_120b",
+        "tag_model": "llama_3_3_70b_instruct",
         "CO_POSICAO": 96.0,
         "descricao_area": "ciências da natureza e suas tecnologias",
         "resposta": "B"
       },
       {
         "ano": 2022,
-        "tag_model": "gpt_oss_120b",
+        "tag_model": "llama_3_3_70b_instruct",
         "CO_POSICAO": 97.0,
         "descricao_area": "ciências da natureza e suas tecnologias",
         "resposta": "E"
       },
       {
         "ano": 2022,
-        "tag_model": "gpt_oss_120b",
+        "tag_model": "llama_3_3_70b_instruct",
         "CO_POSICAO": 91.0,
         "descricao_area": "ciências da natureza e suas tecnologias",
         "resposta": "D"
       },
       {
         "ano": 2022,
-        "tag_model": "gpt_oss_120b",
+        "tag_model": "llama_3_3_70b_instruct",
         "CO_POSICAO": 133.0,
         "descricao_area": "ciências da natureza e suas tecnologias",
         "resposta": "D"
       },
       {
         "ano": 2022,
-        "tag_model": "gpt_oss_120b",
+        "tag_model": "llama_3_3_70b_instruct",
         "CO_POSICAO": 134.0,
         "descricao_area": "ciências da natureza e suas tecnologias",
-        "resposta": "B"
+        "resposta": "C"
       },
       {
         "ano": 2022,
-        "tag_model": "gpt_oss_120b",
+        "tag_model": "llama_3_3_70b_instruct",
         "CO_POSICAO": 101.0,
         "descricao_area": "ciências da natureza e suas tecnologias",
         "resposta": "A"
       },
       {
         "ano": 2022,
-        "tag_model": "gpt_oss_120b",
+        "tag_model": "llama_3_3_70b_instruct",
         "CO_POSICAO": 121.0,
         "descricao_area": "ciências da natureza e suas tecnologias",
-        "resposta": "A"
+        "resposta": "C"
       },
       {
         "ano": 2022,
-        "tag_model": "gpt_oss_120b",
+        "tag_model": "llama_3_3_70b_instruct",
         "CO_POSICAO": 127.0,
         "descricao_area": "ciências da natureza e suas tecnologias",
         "resposta": "E"
       },
       {
         "ano": 2022,
-        "tag_model": "gpt_oss_120b",
+        "tag_model": "llama_3_3_70b_instruct",
         "CO_POSICAO": 130.0,
         "descricao_area": "ciências da natureza e suas tecnologias",
-        "resposta": "E"
+        "resposta": "A"
       },
       {
         "ano": 2022,
-        "tag_model": "gpt_oss_120b",
+        "tag_model": "llama_3_3_70b_instruct",
         "CO_POSICAO": 103.0,
         "descricao_area": "ciências da natureza e suas tecnologias",
         "resposta": "B"
       },
       {
         "ano": 2022,
-        "tag_model": "gpt_oss_120b",
+        "tag_model": "llama_3_3_70b_instruct",
         "CO_POSICAO": 125.0,
         "descricao_area": "ciências da natureza e suas tecnologias",
         "resposta": "B"
       },
       {
         "ano": 2022,
-        "tag_model": "gpt_oss_120b",
+        "tag_model": "llama_3_3_70b_instruct",
         "CO_POSICAO": 95.0,
         "descricao_area": "ciências da natureza e suas tecnologias",
         "resposta": "D"
       },
       {
         "ano": 2022,
-        "tag_model": "gpt_oss_120b",
+        "tag_model": "llama_3_3_70b_instruct",
         "CO_POSICAO": 112.0,
         "descricao_area": "ciências da natureza e suas tecnologias",
         "resposta": "D"
       },
       {
         "ano": 2022,
-        "tag_model": "gpt_oss_120b",
+        "tag_model": "llama_3_3_70b_instruct",
         "CO_POSICAO": 102.0,
         "descricao_area": "ciências da natureza e suas tecnologias",
-        "resposta": "E"
+        "resposta": "A"
       },
       {
         "ano": 2023,
-        "tag_model": "gpt_oss_120b",
+        "tag_model": "llama_3_3_70b_instruct",
         "CO_POSICAO": 107.0,
         "descricao_area": "ciências da natureza e suas tecnologias",
         "resposta": "D"
       },
       {
         "ano": 2023,
-        "tag_model": "gpt_oss_120b",
+        "tag_model": "llama_3_3_70b_instruct",
         "CO_POSICAO": 113.0,
         "descricao_area": "ciências da natureza e suas tecnologias",
-        "resposta": "A"
+        "resposta": "B"
       },
       {
         "ano": 2023,
-        "tag_model": "gpt_oss_120b",
+        "tag_model": "llama_3_3_70b_instruct",
         "CO_POSICAO": 93.0,
         "descricao_area": "ciências da natureza e suas tecnologias",
         "resposta": "E"
       },
       {
         "ano": 2023,
-        "tag_model": "gpt_oss_120b",
+        "tag_model": "llama_3_3_70b_instruct",
         "CO_POSICAO": 122.0,
         "descricao_area": "ciências da natureza e suas tecnologias",
-        "resposta": "D"
+        "resposta": "B"
       },
       {
         "ano": 2023,
-        "tag_model": "gpt_oss_120b",
+        "tag_model": "llama_3_3_70b_instruct",
         "CO_POSICAO": 115.0,
         "descricao_area": "ciências da natureza e suas tecnologias",
         "resposta": "B"
       },
       {
         "ano": 2023,
-        "tag_model": "gpt_oss_120b",
+        "tag_model": "llama_3_3_70b_instruct",
         "CO_POSICAO": 131.0,
         "descricao_area": "ciências da natureza e suas tecnologias",
         "resposta": "A"
       },
       {
         "ano": 2023,
-        "tag_model": "gpt_oss_120b",
+        "tag_model": "llama_3_3_70b_instruct",
         "CO_POSICAO": 105.0,
         "descricao_area": "ciências da natureza e suas tecnologias",
         "resposta": "E"
       },
       {
         "ano": 2023,
-        "tag_model": "gpt_oss_120b",
+        "tag_model": "llama_3_3_70b_instruct",
         "CO_POSICAO": 92.0,
         "descricao_area": "ciências da natureza e suas tecnologias",
         "resposta": "B"
       },
       {
         "ano": 2023,
-        "tag_model": "gpt_oss_120b",
+        "tag_model": "llama_3_3_70b_instruct",
         "CO_POSICAO": 124.0,
         "descricao_area": "ciências da natureza e suas tecnologias",
         "resposta": "B"
       },
       {
         "ano": 2023,
-        "tag_model": "gpt_oss_120b",
+        "tag_model": "llama_3_3_70b_instruct",
         "CO_POSICAO": 104.0,
         "descricao_area": "ciências da natureza e suas tecnologias",
         "resposta": "B"
       },
       {
         "ano": 2023,
-        "tag_model": "gpt_oss_120b",
+        "tag_model": "llama_3_3_70b_instruct",
         "CO_POSICAO": 96.0,
         "descricao_area": "ciências da natureza e suas tecnologias",
         "resposta": "D"
       },
       {
         "ano": 2023,
-        "tag_model": "gpt_oss_120b",
+        "tag_model": "llama_3_3_70b_instruct",
         "CO_POSICAO": 97.0,
         "descricao_area": "ciências da natureza e suas tecnologias",
         "resposta": "A"
       },
       {
         "ano": 2023,
-        "tag_model": "gpt_oss_120b",
+        "tag_model": "llama_3_3_70b_instruct",
         "CO_POSICAO": 128.0,
         "descricao_area": "ciências da natureza e suas tecnologias",
         "resposta": "C"
       },
       {
         "ano": 2023,
-        "tag_model": "gpt_oss_120b",
+        "tag_model": "llama_3_3_70b_instruct",
         "CO_POSICAO": 91.0,
         "descricao_area": "ciências da natureza e suas tecnologias",
         "resposta": "D"
       },
       {
         "ano": 2023,
-        "tag_model": "gpt_oss_120b",
+        "tag_model": "llama_3_3_70b_instruct",
         "CO_POSICAO": 108.0,
         "descricao_area": "ciências da natureza e suas tecnologias",
         "resposta": "D"
       },
       {
         "ano": 2023,
-        "tag_model": "gpt_oss_120b",
+        "tag_model": "llama_3_3_70b_instruct",
         "CO_POSICAO": 134.0,
         "descricao_area": "ciências da natureza e suas tecnologias",
         "resposta": "E"
       },
       {
         "ano": 2023,
-        "tag_model": "gpt_oss_120b",
+        "tag_model": "llama_3_3_70b_instruct",
         "CO_POSICAO": 101.0,
         "descricao_area": "ciências da natureza e suas tecnologias",
         "resposta": "A"
       },
       {
         "ano": 2023,
-        "tag_model": "gpt_oss_120b",
+        "tag_model": "llama_3_3_70b_instruct",
         "CO_POSICAO": 106.0,
         "descricao_area": "ciências da natureza e suas tecnologias",
         "resposta": "C"
       },
       {
         "ano": 2023,
-        "tag_model": "gpt_oss_120b",
+        "tag_model": "llama_3_3_70b_instruct",
         "CO_POSICAO": 130.0,
         "descricao_area": "ciências da natureza e suas tecnologias",
         "resposta": "D"
       },
       {
         "ano": 2023,
-        "tag_model": "gpt_oss_120b",
+        "tag_model": "llama_3_3_70b_instruct",
         "CO_POSICAO": 103.0,
         "descricao_area": "ciências da natureza e suas tecnologias",
         "resposta": "D"
       },
       {
         "ano": 2023,
-        "tag_model": "gpt_oss_120b",
+        "tag_model": "llama_3_3_70b_instruct",
         "CO_POSICAO": 125.0,
         "descricao_area": "ciências da natureza e suas tecnologias",
         "resposta": "E"
       },
       {
         "ano": 2023,
-        "tag_model": "gpt_oss_120b",
+        "tag_model": "llama_3_3_70b_instruct",
         "CO_POSICAO": 126.0,
         "descricao_area": "ciências da natureza e suas tecnologias",
         "resposta": "C"
       },
       {
         "ano": 2023,
-        "tag_model": "gpt_oss_120b",
+        "tag_model": "llama_3_3_70b_instruct",
         "CO_POSICAO": 99.0,
         "descricao_area": "ciências da natureza e suas tecnologias",
         "resposta": "D"
       },
       {
         "ano": 2023,
-        "tag_model": "gpt_oss_120b",
+        "tag_model": "llama_3_3_70b_instruct",
         "CO_POSICAO": 95.0,
         "descricao_area": "ciências da natureza e suas tecnologias",
-        "resposta": "B"
+        "resposta": "D"
       },
       {
         "ano": 2023,
-        "tag_model": "gpt_oss_120b",
+        "tag_model": "llama_3_3_70b_instruct",
         "CO_POSICAO": 112.0,
         "descricao_area": "ciências da natureza e suas tecnologias",
         "resposta": "A"
       },
       {
         "ano": 2023,
-        "tag_model": "gpt_oss_120b",
+        "tag_model": "llama_3_3_70b_instruct",
         "CO_POSICAO": 117.0,
         "descricao_area": "ciências da natureza e suas tecnologias",
         "resposta": "A"
       },
       {
         "ano": 2023,
-        "tag_model": "gpt_oss_120b",
+        "tag_model": "llama_3_3_70b_instruct",
         "CO_POSICAO": 102.0,
         "descricao_area": "ciências da natureza e suas tecnologias",
         "resposta": "C"
       },
       {
         "ano": 2023,
-        "tag_model": "gpt_oss_120b",
+        "tag_model": "llama_3_3_70b_instruct",
         "CO_POSICAO": 98.0,
         "descricao_area": "ciências da natureza e suas tecnologias",
         "resposta": "B"
       },
       {
         "ano": 2024,
-        "tag_model": "gpt_oss_120b",
+        "tag_model": "llama_3_3_70b_instruct",
         "CO_POSICAO": 107.0,
         "descricao_area": "ciências da natureza e suas tecnologias",
         "resposta": "E"
       },
       {
         "ano": 2024,
-        "tag_model": "gpt_oss_120b",
+        "tag_model": "llama_3_3_70b_instruct",
         "CO_POSICAO": 93.0,
         "descricao_area": "ciências da natureza e suas tecnologias",
         "resposta": "E"
       },
       {
         "ano": 2024,
-        "tag_model": "gpt_oss_120b",
+        "tag_model": "llama_3_3_70b_instruct",
         "CO_POSICAO": 120.0,
         "descricao_area": "ciências da natureza e suas tecnologias",
         "resposta": "B"
       },
       {
         "ano": 2024,
-        "tag_model": "gpt_oss_120b",
+        "tag_model": "llama_3_3_70b_instruct",
         "CO_POSICAO": 109.0,
         "descricao_area": "ciências da natureza e suas tecnologias",
         "resposta": "B"
       },
       {
         "ano": 2024,
-        "tag_model": "gpt_oss_120b",
+        "tag_model": "llama_3_3_70b_instruct",
         "CO_POSICAO": 105.0,
         "descricao_area": "ciências da natureza e suas tecnologias",
         "resposta": "D"
       },
       {
         "ano": 2024,
-        "tag_model": "gpt_oss_120b",
+        "tag_model": "llama_3_3_70b_instruct",
         "CO_POSICAO": 116.0,
         "descricao_area": "ciências da natureza e suas tecnologias",
         "resposta": "A"
       },
       {
         "ano": 2024,
-        "tag_model": "gpt_oss_120b",
+        "tag_model": "llama_3_3_70b_instruct",
         "CO_POSICAO": 129.0,
         "descricao_area": "ciências da natureza e suas tecnologias",
-        "resposta": "B"
+        "resposta": "D"
       },
       {
         "ano": 2024,
-        "tag_model": "gpt_oss_120b",
+        "tag_model": "llama_3_3_70b_instruct",
         "CO_POSICAO": 111.0,
         "descricao_area": "ciências da natureza e suas tecnologias",
         "resposta": "D"
       },
       {
         "ano": 2024,
-        "tag_model": "gpt_oss_120b",
+        "tag_model": "llama_3_3_70b_instruct",
         "CO_POSICAO": 97.0,
         "descricao_area": "ciências da natureza e suas tecnologias",
-        "resposta": "D"
+        "resposta": "B"
       },
       {
         "ano": 2024,
-        "tag_model": "gpt_oss_120b",
+        "tag_model": "llama_3_3_70b_instruct",
         "CO_POSICAO": 135.0,
         "descricao_area": "ciências da natureza e suas tecnologias",
         "resposta": "D"
       },
       {
         "ano": 2024,
-        "tag_model": "gpt_oss_120b",
+        "tag_model": "llama_3_3_70b_instruct",
         "CO_POSICAO": 133.0,
         "descricao_area": "ciências da natureza e suas tecnologias",
         "resposta": "C"
       },
       {
         "ano": 2024,
-        "tag_model": "gpt_oss_120b",
+        "tag_model": "llama_3_3_70b_instruct",
         "CO_POSICAO": 108.0,
         "descricao_area": "ciências da natureza e suas tecnologias",
         "resposta": "B"
       },
       {
         "ano": 2024,
-        "tag_model": "gpt_oss_120b",
+        "tag_model": "llama_3_3_70b_instruct",
         "CO_POSICAO": 123.0,
         "descricao_area": "ciências da natureza e suas tecnologias",
-        "resposta": "E"
+        "resposta": "A"
       },
       {
         "ano": 2024,
-        "tag_model": "gpt_oss_120b",
+        "tag_model": "llama_3_3_70b_instruct",
         "CO_POSICAO": 106.0,
         "descricao_area": "ciências da natureza e suas tecnologias",
         "resposta": "D"
       },
       {
         "ano": 2024,
-        "tag_model": "gpt_oss_120b",
+        "tag_model": "llama_3_3_70b_instruct",
         "CO_POSICAO": 126.0,
         "descricao_area": "ciências da natureza e suas tecnologias",
         "resposta": "A"
       },
       {
         "ano": 2024,
-        "tag_model": "gpt_oss_120b",
+        "tag_model": "llama_3_3_70b_instruct",
         "CO_POSICAO": 99.0,
         "descricao_area": "ciências da natureza e suas tecnologias",
         "resposta": "D"
       },
       {
         "ano": 2024,
-        "tag_model": "gpt_oss_120b",
+        "tag_model": "llama_3_3_70b_instruct",
         "CO_POSICAO": 95.0,
         "descricao_area": "ciências da natureza e suas tecnologias",
         "resposta": "A"
       },
       {
         "ano": 2024,
-        "tag_model": "gpt_oss_120b",
+        "tag_model": "llama_3_3_70b_instruct",
         "CO_POSICAO": 117.0,
         "descricao_area": "ciências da natureza e suas tecnologias",
         "resposta": "E"
       },
       {
         "ano": 2024,
-        "tag_model": "gpt_oss_120b",
+        "tag_model": "llama_3_3_70b_instruct",
         "CO_POSICAO": 102.0,
         "descricao_area": "ciências da natureza e suas tecnologias",
         "resposta": "A"
@@ -907,7 +907,7 @@
   },
   {
     "id_person": 2,
-    "tag_model_person": "gpt_oss_120b",
+    "tag_model_person": "llama_3_3_70b_instruct",
     "questions": [
       {
         "enunciado": "\nQUESTÃO 113\t\nAs células da epiderme da folha da Tradescantia \npallida purpurea, uma herbácea popularmente conhecida \ncomo trapoeraba-roxa, contém um vacúolo onde se \nencontra um pigmento que dá a coloração arroxeada a \nesse tecido. Em um experimento, um corte da epiderme \nde uma folha da trapoeraba-roxa foi imerso em ambiente \nhipotônico e, logo em seguida, foi colocado em uma \nlâmina e observado em microscópio óptico.\nDurante a observação desse corte, foi possível identificar o(a)\nA\t\nA\t acúmulo do solvente com fragmentação da organela.\nB\t\nB\t rompimento da membrana celular com liberação do \ncitosol.\nC\t\nC\t aumento do vacúolo com diluição do pigmento no seu \ninterior.\nD\t\nD\t quebra da parede celular com extravasamento do \npigmento.\nE\t\nE\t murchamento da célula com expulsão do pigmento \ndo vacúolo.",
@@ -1327,483 +1327,483 @@
     "resp": [
       {
         "ano": 2022,
-        "tag_model": "gpt_oss_120b",
+        "tag_model": "llama_3_3_70b_instruct",
         "CO_POSICAO": 113.0,
         "descricao_area": "ciências da natureza e suas tecnologias",
         "resposta": "C"
       },
       {
         "ano": 2022,
-        "tag_model": "gpt_oss_120b",
+        "tag_model": "llama_3_3_70b_instruct",
         "CO_POSICAO": 120.0,
         "descricao_area": "ciências da natureza e suas tecnologias",
         "resposta": "E"
       },
       {
         "ano": 2022,
-        "tag_model": "gpt_oss_120b",
+        "tag_model": "llama_3_3_70b_instruct",
         "CO_POSICAO": 100.0,
         "descricao_area": "ciências da natureza e suas tecnologias",
         "resposta": "C"
       },
       {
         "ano": 2022,
-        "tag_model": "gpt_oss_120b",
+        "tag_model": "llama_3_3_70b_instruct",
         "CO_POSICAO": 105.0,
         "descricao_area": "ciências da natureza e suas tecnologias",
-        "resposta": "A"
+        "resposta": "B"
       },
       {
         "ano": 2022,
-        "tag_model": "gpt_oss_120b",
+        "tag_model": "llama_3_3_70b_instruct",
         "CO_POSICAO": 116.0,
         "descricao_area": "ciências da natureza e suas tecnologias",
         "resposta": "D"
       },
       {
         "ano": 2022,
-        "tag_model": "gpt_oss_120b",
+        "tag_model": "llama_3_3_70b_instruct",
         "CO_POSICAO": 129.0,
         "descricao_area": "ciências da natureza e suas tecnologias",
         "resposta": "B"
       },
       {
         "ano": 2022,
-        "tag_model": "gpt_oss_120b",
+        "tag_model": "llama_3_3_70b_instruct",
         "CO_POSICAO": 111.0,
         "descricao_area": "ciências da natureza e suas tecnologias",
-        "resposta": "D"
+        "resposta": "B"
       },
       {
         "ano": 2022,
-        "tag_model": "gpt_oss_120b",
+        "tag_model": "llama_3_3_70b_instruct",
         "CO_POSICAO": 124.0,
         "descricao_area": "ciências da natureza e suas tecnologias",
         "resposta": "A"
       },
       {
         "ano": 2022,
-        "tag_model": "gpt_oss_120b",
+        "tag_model": "llama_3_3_70b_instruct",
         "CO_POSICAO": 96.0,
         "descricao_area": "ciências da natureza e suas tecnologias",
         "resposta": "B"
       },
       {
         "ano": 2022,
-        "tag_model": "gpt_oss_120b",
+        "tag_model": "llama_3_3_70b_instruct",
         "CO_POSICAO": 97.0,
         "descricao_area": "ciências da natureza e suas tecnologias",
         "resposta": "E"
       },
       {
         "ano": 2022,
-        "tag_model": "gpt_oss_120b",
+        "tag_model": "llama_3_3_70b_instruct",
         "CO_POSICAO": 91.0,
         "descricao_area": "ciências da natureza e suas tecnologias",
         "resposta": "D"
       },
       {
         "ano": 2022,
-        "tag_model": "gpt_oss_120b",
+        "tag_model": "llama_3_3_70b_instruct",
         "CO_POSICAO": 133.0,
         "descricao_area": "ciências da natureza e suas tecnologias",
         "resposta": "D"
       },
       {
         "ano": 2022,
-        "tag_model": "gpt_oss_120b",
+        "tag_model": "llama_3_3_70b_instruct",
         "CO_POSICAO": 134.0,
         "descricao_area": "ciências da natureza e suas tecnologias",
         "resposta": "B"
       },
       {
         "ano": 2022,
-        "tag_model": "gpt_oss_120b",
+        "tag_model": "llama_3_3_70b_instruct",
         "CO_POSICAO": 101.0,
         "descricao_area": "ciências da natureza e suas tecnologias",
         "resposta": "A"
       },
       {
         "ano": 2022,
-        "tag_model": "gpt_oss_120b",
+        "tag_model": "llama_3_3_70b_instruct",
         "CO_POSICAO": 121.0,
         "descricao_area": "ciências da natureza e suas tecnologias",
-        "resposta": "A"
+        "resposta": "C"
       },
       {
         "ano": 2022,
-        "tag_model": "gpt_oss_120b",
+        "tag_model": "llama_3_3_70b_instruct",
         "CO_POSICAO": 127.0,
         "descricao_area": "ciências da natureza e suas tecnologias",
         "resposta": "E"
       },
       {
         "ano": 2022,
-        "tag_model": "gpt_oss_120b",
+        "tag_model": "llama_3_3_70b_instruct",
         "CO_POSICAO": 130.0,
         "descricao_area": "ciências da natureza e suas tecnologias",
-        "resposta": "E"
+        "resposta": "A"
       },
       {
         "ano": 2022,
-        "tag_model": "gpt_oss_120b",
+        "tag_model": "llama_3_3_70b_instruct",
         "CO_POSICAO": 103.0,
         "descricao_area": "ciências da natureza e suas tecnologias",
         "resposta": "B"
       },
       {
         "ano": 2022,
-        "tag_model": "gpt_oss_120b",
+        "tag_model": "llama_3_3_70b_instruct",
         "CO_POSICAO": 125.0,
         "descricao_area": "ciências da natureza e suas tecnologias",
         "resposta": "B"
       },
       {
         "ano": 2022,
-        "tag_model": "gpt_oss_120b",
+        "tag_model": "llama_3_3_70b_instruct",
         "CO_POSICAO": 95.0,
         "descricao_area": "ciências da natureza e suas tecnologias",
         "resposta": "D"
       },
       {
         "ano": 2022,
-        "tag_model": "gpt_oss_120b",
+        "tag_model": "llama_3_3_70b_instruct",
         "CO_POSICAO": 112.0,
         "descricao_area": "ciências da natureza e suas tecnologias",
         "resposta": "D"
       },
       {
         "ano": 2022,
-        "tag_model": "gpt_oss_120b",
+        "tag_model": "llama_3_3_70b_instruct",
         "CO_POSICAO": 102.0,
         "descricao_area": "ciências da natureza e suas tecnologias",
-        "resposta": "E"
+        "resposta": "A"
       },
       {
         "ano": 2023,
-        "tag_model": "gpt_oss_120b",
+        "tag_model": "llama_3_3_70b_instruct",
         "CO_POSICAO": 107.0,
         "descricao_area": "ciências da natureza e suas tecnologias",
         "resposta": "D"
       },
       {
         "ano": 2023,
-        "tag_model": "gpt_oss_120b",
+        "tag_model": "llama_3_3_70b_instruct",
         "CO_POSICAO": 113.0,
         "descricao_area": "ciências da natureza e suas tecnologias",
-        "resposta": "A"
+        "resposta": "B"
       },
       {
         "ano": 2023,
-        "tag_model": "gpt_oss_120b",
+        "tag_model": "llama_3_3_70b_instruct",
         "CO_POSICAO": 93.0,
         "descricao_area": "ciências da natureza e suas tecnologias",
         "resposta": "E"
       },
       {
         "ano": 2023,
-        "tag_model": "gpt_oss_120b",
+        "tag_model": "llama_3_3_70b_instruct",
         "CO_POSICAO": 122.0,
         "descricao_area": "ciências da natureza e suas tecnologias",
         "resposta": "D"
       },
       {
         "ano": 2023,
-        "tag_model": "gpt_oss_120b",
+        "tag_model": "llama_3_3_70b_instruct",
         "CO_POSICAO": 115.0,
         "descricao_area": "ciências da natureza e suas tecnologias",
         "resposta": "B"
       },
       {
         "ano": 2023,
-        "tag_model": "gpt_oss_120b",
+        "tag_model": "llama_3_3_70b_instruct",
         "CO_POSICAO": 131.0,
         "descricao_area": "ciências da natureza e suas tecnologias",
         "resposta": "A"
       },
       {
         "ano": 2023,
-        "tag_model": "gpt_oss_120b",
+        "tag_model": "llama_3_3_70b_instruct",
         "CO_POSICAO": 105.0,
         "descricao_area": "ciências da natureza e suas tecnologias",
         "resposta": "E"
       },
       {
         "ano": 2023,
-        "tag_model": "gpt_oss_120b",
+        "tag_model": "llama_3_3_70b_instruct",
         "CO_POSICAO": 92.0,
         "descricao_area": "ciências da natureza e suas tecnologias",
         "resposta": "B"
       },
       {
         "ano": 2023,
-        "tag_model": "gpt_oss_120b",
+        "tag_model": "llama_3_3_70b_instruct",
         "CO_POSICAO": 124.0,
         "descricao_area": "ciências da natureza e suas tecnologias",
         "resposta": "B"
       },
       {
         "ano": 2023,
-        "tag_model": "gpt_oss_120b",
+        "tag_model": "llama_3_3_70b_instruct",
         "CO_POSICAO": 104.0,
         "descricao_area": "ciências da natureza e suas tecnologias",
         "resposta": "B"
       },
       {
         "ano": 2023,
-        "tag_model": "gpt_oss_120b",
+        "tag_model": "llama_3_3_70b_instruct",
         "CO_POSICAO": 96.0,
         "descricao_area": "ciências da natureza e suas tecnologias",
         "resposta": "D"
       },
       {
         "ano": 2023,
-        "tag_model": "gpt_oss_120b",
+        "tag_model": "llama_3_3_70b_instruct",
         "CO_POSICAO": 97.0,
         "descricao_area": "ciências da natureza e suas tecnologias",
         "resposta": "A"
       },
       {
         "ano": 2023,
-        "tag_model": "gpt_oss_120b",
+        "tag_model": "llama_3_3_70b_instruct",
         "CO_POSICAO": 128.0,
         "descricao_area": "ciências da natureza e suas tecnologias",
         "resposta": "C"
       },
       {
         "ano": 2023,
-        "tag_model": "gpt_oss_120b",
+        "tag_model": "llama_3_3_70b_instruct",
         "CO_POSICAO": 91.0,
         "descricao_area": "ciências da natureza e suas tecnologias",
         "resposta": "D"
       },
       {
         "ano": 2023,
-        "tag_model": "gpt_oss_120b",
+        "tag_model": "llama_3_3_70b_instruct",
         "CO_POSICAO": 108.0,
         "descricao_area": "ciências da natureza e suas tecnologias",
         "resposta": "D"
       },
       {
         "ano": 2023,
-        "tag_model": "gpt_oss_120b",
+        "tag_model": "llama_3_3_70b_instruct",
         "CO_POSICAO": 134.0,
         "descricao_area": "ciências da natureza e suas tecnologias",
         "resposta": "E"
       },
       {
         "ano": 2023,
-        "tag_model": "gpt_oss_120b",
+        "tag_model": "llama_3_3_70b_instruct",
         "CO_POSICAO": 101.0,
         "descricao_area": "ciências da natureza e suas tecnologias",
         "resposta": "A"
       },
       {
         "ano": 2023,
-        "tag_model": "gpt_oss_120b",
+        "tag_model": "llama_3_3_70b_instruct",
         "CO_POSICAO": 106.0,
         "descricao_area": "ciências da natureza e suas tecnologias",
         "resposta": "C"
       },
       {
         "ano": 2023,
-        "tag_model": "gpt_oss_120b",
+        "tag_model": "llama_3_3_70b_instruct",
         "CO_POSICAO": 130.0,
         "descricao_area": "ciências da natureza e suas tecnologias",
         "resposta": "D"
       },
       {
         "ano": 2023,
-        "tag_model": "gpt_oss_120b",
+        "tag_model": "llama_3_3_70b_instruct",
         "CO_POSICAO": 103.0,
         "descricao_area": "ciências da natureza e suas tecnologias",
         "resposta": "D"
       },
       {
         "ano": 2023,
-        "tag_model": "gpt_oss_120b",
+        "tag_model": "llama_3_3_70b_instruct",
         "CO_POSICAO": 125.0,
         "descricao_area": "ciências da natureza e suas tecnologias",
         "resposta": "E"
       },
       {
         "ano": 2023,
-        "tag_model": "gpt_oss_120b",
+        "tag_model": "llama_3_3_70b_instruct",
         "CO_POSICAO": 126.0,
         "descricao_area": "ciências da natureza e suas tecnologias",
         "resposta": "C"
       },
       {
         "ano": 2023,
-        "tag_model": "gpt_oss_120b",
+        "tag_model": "llama_3_3_70b_instruct",
         "CO_POSICAO": 99.0,
         "descricao_area": "ciências da natureza e suas tecnologias",
         "resposta": "D"
       },
       {
         "ano": 2023,
-        "tag_model": "gpt_oss_120b",
+        "tag_model": "llama_3_3_70b_instruct",
         "CO_POSICAO": 95.0,
         "descricao_area": "ciências da natureza e suas tecnologias",
-        "resposta": "B"
+        "resposta": "D"
       },
       {
         "ano": 2023,
-        "tag_model": "gpt_oss_120b",
+        "tag_model": "llama_3_3_70b_instruct",
         "CO_POSICAO": 112.0,
         "descricao_area": "ciências da natureza e suas tecnologias",
         "resposta": "A"
       },
       {
         "ano": 2023,
-        "tag_model": "gpt_oss_120b",
+        "tag_model": "llama_3_3_70b_instruct",
         "CO_POSICAO": 117.0,
         "descricao_area": "ciências da natureza e suas tecnologias",
-        "resposta": "A"
+        "resposta": "B"
       },
       {
         "ano": 2023,
-        "tag_model": "gpt_oss_120b",
+        "tag_model": "llama_3_3_70b_instruct",
         "CO_POSICAO": 102.0,
         "descricao_area": "ciências da natureza e suas tecnologias",
         "resposta": "C"
       },
       {
         "ano": 2023,
-        "tag_model": "gpt_oss_120b",
+        "tag_model": "llama_3_3_70b_instruct",
         "CO_POSICAO": 98.0,
         "descricao_area": "ciências da natureza e suas tecnologias",
         "resposta": "B"
       },
       {
         "ano": 2024,
-        "tag_model": "gpt_oss_120b",
+        "tag_model": "llama_3_3_70b_instruct",
         "CO_POSICAO": 107.0,
         "descricao_area": "ciências da natureza e suas tecnologias",
-        "resposta": "E"
+        "resposta": "C"
       },
       {
         "ano": 2024,
-        "tag_model": "gpt_oss_120b",
+        "tag_model": "llama_3_3_70b_instruct",
         "CO_POSICAO": 93.0,
         "descricao_area": "ciências da natureza e suas tecnologias",
         "resposta": "E"
       },
       {
         "ano": 2024,
-        "tag_model": "gpt_oss_120b",
+        "tag_model": "llama_3_3_70b_instruct",
         "CO_POSICAO": 120.0,
         "descricao_area": "ciências da natureza e suas tecnologias",
         "resposta": "B"
       },
       {
         "ano": 2024,
-        "tag_model": "gpt_oss_120b",
+        "tag_model": "llama_3_3_70b_instruct",
         "CO_POSICAO": 109.0,
         "descricao_area": "ciências da natureza e suas tecnologias",
         "resposta": "B"
       },
       {
         "ano": 2024,
-        "tag_model": "gpt_oss_120b",
+        "tag_model": "llama_3_3_70b_instruct",
         "CO_POSICAO": 105.0,
         "descricao_area": "ciências da natureza e suas tecnologias",
         "resposta": "D"
       },
       {
         "ano": 2024,
-        "tag_model": "gpt_oss_120b",
+        "tag_model": "llama_3_3_70b_instruct",
         "CO_POSICAO": 116.0,
         "descricao_area": "ciências da natureza e suas tecnologias",
         "resposta": "A"
       },
       {
         "ano": 2024,
-        "tag_model": "gpt_oss_120b",
+        "tag_model": "llama_3_3_70b_instruct",
         "CO_POSICAO": 129.0,
         "descricao_area": "ciências da natureza e suas tecnologias",
-        "resposta": "B"
+        "resposta": "D"
       },
       {
         "ano": 2024,
-        "tag_model": "gpt_oss_120b",
+        "tag_model": "llama_3_3_70b_instruct",
         "CO_POSICAO": 111.0,
         "descricao_area": "ciências da natureza e suas tecnologias",
         "resposta": "D"
       },
       {
         "ano": 2024,
-        "tag_model": "gpt_oss_120b",
+        "tag_model": "llama_3_3_70b_instruct",
         "CO_POSICAO": 97.0,
         "descricao_area": "ciências da natureza e suas tecnologias",
-        "resposta": "D"
+        "resposta": "B"
       },
       {
         "ano": 2024,
-        "tag_model": "gpt_oss_120b",
+        "tag_model": "llama_3_3_70b_instruct",
         "CO_POSICAO": 135.0,
         "descricao_area": "ciências da natureza e suas tecnologias",
         "resposta": "D"
       },
       {
         "ano": 2024,
-        "tag_model": "gpt_oss_120b",
+        "tag_model": "llama_3_3_70b_instruct",
         "CO_POSICAO": 133.0,
         "descricao_area": "ciências da natureza e suas tecnologias",
         "resposta": "C"
       },
       {
         "ano": 2024,
-        "tag_model": "gpt_oss_120b",
+        "tag_model": "llama_3_3_70b_instruct",
         "CO_POSICAO": 108.0,
         "descricao_area": "ciências da natureza e suas tecnologias",
         "resposta": "B"
       },
       {
         "ano": 2024,
-        "tag_model": "gpt_oss_120b",
+        "tag_model": "llama_3_3_70b_instruct",
         "CO_POSICAO": 123.0,
         "descricao_area": "ciências da natureza e suas tecnologias",
-        "resposta": "E"
+        "resposta": "A"
       },
       {
         "ano": 2024,
-        "tag_model": "gpt_oss_120b",
+        "tag_model": "llama_3_3_70b_instruct",
         "CO_POSICAO": 106.0,
         "descricao_area": "ciências da natureza e suas tecnologias",
         "resposta": "D"
       },
       {
         "ano": 2024,
-        "tag_model": "gpt_oss_120b",
+        "tag_model": "llama_3_3_70b_instruct",
         "CO_POSICAO": 126.0,
         "descricao_area": "ciências da natureza e suas tecnologias",
         "resposta": "A"
       },
       {
         "ano": 2024,
-        "tag_model": "gpt_oss_120b",
+        "tag_model": "llama_3_3_70b_instruct",
         "CO_POSICAO": 99.0,
         "descricao_area": "ciências da natureza e suas tecnologias",
         "resposta": "D"
       },
       {
         "ano": 2024,
-        "tag_model": "gpt_oss_120b",
+        "tag_model": "llama_3_3_70b_instruct",
         "CO_POSICAO": 95.0,
         "descricao_area": "ciências da natureza e suas tecnologias",
         "resposta": "A"
       },
       {
         "ano": 2024,
-        "tag_model": "gpt_oss_120b",
+        "tag_model": "llama_3_3_70b_instruct",
         "CO_POSICAO": 117.0,
         "descricao_area": "ciências da natureza e suas tecnologias",
         "resposta": "E"
       },
       {
         "ano": 2024,
-        "tag_model": "gpt_oss_120b",
+        "tag_model": "llama_3_3_70b_instruct",
         "CO_POSICAO": 102.0,
         "descricao_area": "ciências da natureza e suas tecnologias",
         "resposta": "A"
